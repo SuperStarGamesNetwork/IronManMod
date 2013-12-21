@@ -1,0 +1,376 @@
+2013-11-27 19:43:37 [INFO] Starting minecraft server version 1.6.4
+2013-11-27 19:43:46 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.addArmor(Ljava/lang/String;)I
+	at perry.mods.IronManMod.common.IronManMod.<init>(IronManMod.java:76)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:174)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2013-11-27 19:43:46 [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-11-27_19.43.46-server.txt
+2013-11-27 19:44:08 [INFO] An unknown error occurred while attempting to perform this command
+2013-11-27 19:44:10 [INFO] Stopping server
+2013-11-27 19:44:10 [INFO] Saving worlds
+2013-11-27 19:44:10 [INFO] Stopping server
+2013-11-27 19:45:20 [INFO] Starting minecraft server version 1.6.4
+2013-11-27 19:45:38 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.addArmor(Ljava/lang/String;)I
+	at perry.mods.IronManMod.common.IronManMod.<init>(IronManMod.java:76)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:174)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2013-11-27 19:45:38 [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-11-27_19.45.38-server.txt
+2013-11-27 19:45:38 [INFO] Stopping server
+2013-11-27 19:45:38 [INFO] Saving worlds
+2013-11-27 19:45:38 [INFO] Stopping server
+2013-11-27 19:45:41 [INFO] Starting minecraft server version 1.6.4
+2013-11-27 19:45:46 [SEVERE] Encountered an unexpected exception NoSuchMethodError
+java.lang.NoSuchMethodError: net.minecraft.src.ModLoader.addArmor(Ljava/lang/String;)I
+	at perry.mods.IronManMod.common.IronManMod.<init>(IronManMod.java:76)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:174)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2013-11-27 19:45:46 [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-11-27_19.45.46-server.txt
+2013-11-27 19:45:47 [INFO] Stopping server
+2013-11-27 19:45:47 [INFO] Saving worlds
+2013-11-27 19:45:47 [INFO] Stopping server
+2013-12-05 11:02:24 [INFO] Starting minecraft server version 1.6.4
+2013-12-05 11:02:47 [INFO] Loading properties
+2013-12-05 11:02:48 [INFO] Default game type: SURVIVAL
+2013-12-05 11:02:48 [INFO] Generating keypair
+2013-12-05 11:02:50 [INFO] Starting Minecraft server on *:25565
+2013-12-05 11:02:50 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-12-05 11:02:50 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-12-05 11:02:50 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-12-05 11:02:50 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-12-05 11:02:51 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2013-12-05 11:02:51 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2013-12-05 11:02:51 [INFO] Preparing level "mcpworld"
+2013-12-05 11:02:56 [INFO] Preparing start region for level 0
+2013-12-05 11:02:57 [INFO] Preparing spawn area: 1%
+2013-12-05 11:02:58 [INFO] Preparing spawn area: 3%
+2013-12-05 11:03:00 [INFO] Preparing spawn area: 4%
+2013-12-05 11:03:01 [INFO] Preparing spawn area: 4%
+2013-12-05 11:03:02 [INFO] Preparing spawn area: 5%
+2013-12-05 11:03:03 [INFO] Preparing spawn area: 5%
+2013-12-05 11:03:05 [INFO] Preparing spawn area: 6%
+2013-12-05 11:03:07 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 11:03:07 [INFO] Preparing spawn area: 6%
+2013-12-05 11:03:08 [INFO] Preparing spawn area: 7%
+2013-12-05 11:03:09 [INFO] Preparing spawn area: 8%
+2013-12-05 11:03:11 [INFO] Preparing spawn area: 8%
+2013-12-05 11:03:12 [INFO] Preparing spawn area: 9%
+2013-12-05 11:03:15 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 11:03:15 [INFO] Preparing spawn area: 10%
+2013-12-05 11:03:16 [INFO] Preparing spawn area: 10%
+2013-12-05 11:03:18 [INFO] Preparing spawn area: 11%
+2013-12-05 11:03:19 [INFO] Preparing spawn area: 12%
+2013-12-05 11:03:20 [INFO] Preparing spawn area: 13%
+2013-12-05 11:03:21 [INFO] Preparing spawn area: 13%
+2013-12-05 11:03:22 [INFO] Preparing spawn area: 14%
+2013-12-05 11:03:23 [INFO] Preparing spawn area: 14%
+2013-12-05 11:03:24 [INFO] Preparing spawn area: 16%
+2013-12-05 11:03:25 [INFO] Preparing spawn area: 16%
+2013-12-05 11:03:27 [INFO] Preparing spawn area: 17%
+2013-12-05 11:03:28 [INFO] Preparing spawn area: 18%
+2013-12-05 11:03:29 [INFO] Preparing spawn area: 20%
+2013-12-05 11:03:31 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 11:03:32 [INFO] Preparing spawn area: 22%
+2013-12-05 11:03:34 [INFO] Preparing spawn area: 24%
+2013-12-05 11:03:35 [INFO] Preparing spawn area: 24%
+2013-12-05 11:03:36 [INFO] Preparing spawn area: 25%
+2013-12-05 11:03:37 [INFO] Preparing spawn area: 25%
+2013-12-05 11:03:38 [INFO] Preparing spawn area: 26%
+2013-12-05 11:03:40 [INFO] Preparing spawn area: 26%
+2013-12-05 11:03:41 [INFO] Preparing spawn area: 26%
+2013-12-05 11:03:42 [INFO] Preparing spawn area: 27%
+2013-12-05 11:03:43 [INFO] Preparing spawn area: 27%
+2013-12-05 11:03:44 [INFO] Preparing spawn area: 28%
+2013-12-05 11:03:45 [INFO] Preparing spawn area: 28%
+2013-12-05 11:03:46 [INFO] Preparing spawn area: 28%
+2013-12-05 11:03:47 [INFO] Preparing spawn area: 30%
+2013-12-05 11:03:48 [INFO] Preparing spawn area: 31%
+2013-12-05 11:03:50 [INFO] Preparing spawn area: 32%
+2013-12-05 11:03:52 [INFO] Preparing spawn area: 34%
+2013-12-05 11:03:54 [INFO] Preparing spawn area: 36%
+2013-12-05 11:03:55 [INFO] Preparing spawn area: 36%
+2013-12-05 11:03:56 [INFO] Preparing spawn area: 36%
+2013-12-05 11:03:57 [INFO] Preparing spawn area: 37%
+2013-12-05 11:03:58 [INFO] Preparing spawn area: 37%
+2013-12-05 11:03:59 [INFO] Preparing spawn area: 37%
+2013-12-05 11:04:01 [INFO] Preparing spawn area: 38%
+2013-12-05 11:04:02 [INFO] Preparing spawn area: 39%
+2013-12-05 11:04:03 [INFO] Preparing spawn area: 40%
+2013-12-05 11:04:05 [INFO] Preparing spawn area: 40%
+2013-12-05 11:04:06 [INFO] Preparing spawn area: 41%
+2013-12-05 11:04:07 [INFO] Preparing spawn area: 42%
+2013-12-05 11:04:09 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 11:04:09 [INFO] Preparing spawn area: 44%
+2013-12-05 11:04:10 [INFO] Preparing spawn area: 45%
+2013-12-05 11:04:11 [INFO] Preparing spawn area: 46%
+2013-12-05 11:04:12 [INFO] Preparing spawn area: 48%
+2013-12-05 11:04:14 [INFO] Preparing spawn area: 48%
+2013-12-05 11:04:15 [INFO] Preparing spawn area: 50%
+2013-12-05 11:04:17 [INFO] Preparing spawn area: 52%
+2013-12-05 11:04:18 [INFO] Preparing spawn area: 53%
+2013-12-05 11:04:19 [INFO] Preparing spawn area: 54%
+2013-12-05 11:04:20 [INFO] Preparing spawn area: 55%
+2013-12-05 11:04:21 [INFO] Preparing spawn area: 57%
+2013-12-05 11:04:24 [INFO] Preparing spawn area: 58%
+2013-12-05 11:04:26 [INFO] Preparing spawn area: 59%
+2013-12-05 11:04:27 [INFO] Preparing spawn area: 59%
+2013-12-05 11:04:30 [INFO] Preparing spawn area: 59%
+2013-12-05 11:04:31 [INFO] Preparing spawn area: 61%
+2013-12-05 11:04:32 [INFO] Preparing spawn area: 62%
+2013-12-05 11:04:34 [INFO] Preparing spawn area: 63%
+2013-12-05 11:04:35 [INFO] Preparing spawn area: 65%
+2013-12-05 11:04:36 [INFO] Preparing spawn area: 66%
+2013-12-05 11:04:37 [INFO] Preparing spawn area: 67%
+2013-12-05 11:04:38 [INFO] Preparing spawn area: 69%
+2013-12-05 11:04:40 [INFO] Preparing spawn area: 71%
+2013-12-05 11:04:41 [INFO] Preparing spawn area: 71%
+2013-12-05 11:04:42 [INFO] Preparing spawn area: 73%
+2013-12-05 11:04:43 [INFO] Preparing spawn area: 74%
+2013-12-05 11:04:45 [INFO] Preparing spawn area: 76%
+2013-12-05 11:04:46 [INFO] Preparing spawn area: 78%
+2013-12-05 11:04:47 [INFO] Preparing spawn area: 80%
+2013-12-05 11:04:49 [INFO] Preparing spawn area: 82%
+2013-12-05 11:04:50 [INFO] Preparing spawn area: 83%
+2013-12-05 11:04:52 [INFO] Preparing spawn area: 85%
+2013-12-05 11:04:53 [INFO] Preparing spawn area: 87%
+2013-12-05 11:04:54 [INFO] Preparing spawn area: 89%
+2013-12-05 11:04:55 [INFO] Preparing spawn area: 92%
+2013-12-05 11:04:57 [INFO] Preparing spawn area: 94%
+2013-12-05 11:04:58 [INFO] Preparing spawn area: 96%
+2013-12-05 11:05:00 [INFO] Preparing spawn area: 98%
+2013-12-05 11:05:00 [INFO] Done (128.863s)! For help, type "help" or "?"
+2013-12-05 11:05:01 [INFO] /127.0.0.1:63824 lost connection
+2013-12-05 11:05:01 [INFO] /127.0.0.1:63825 lost connection
+2013-12-05 11:05:01 [INFO] /127.0.0.1:63832 lost connection
+2013-12-05 11:05:01 [INFO] /127.0.0.1:63835 lost connection
+2013-12-05 11:05:03 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-12-05 11:05:03 [INFO] /ban <name> [reason ...]
+2013-12-05 11:05:03 [INFO] /ban-ip <address|name> [reason ...]
+2013-12-05 11:05:03 [INFO] /banlist [ips|players]
+2013-12-05 11:05:03 [INFO] /clear <player> [item] [data]
+2013-12-05 11:05:03 [INFO] /debug <start|stop>
+2013-12-05 11:05:03 [INFO] /defaultgamemode <mode>
+2013-12-05 11:05:03 [INFO] /deop <player>
+2013-12-05 11:05:03 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-12-05 11:05:03 [INFO] /ban <name> [reason ...]
+2013-12-05 11:05:03 [INFO] /ban-ip <address|name> [reason ...]
+2013-12-05 11:05:03 [INFO] /banlist [ips|players]
+2013-12-05 11:05:03 [INFO] /clear <player> [item] [data]
+2013-12-05 11:05:03 [INFO] /debug <start|stop>
+2013-12-05 11:05:03 [INFO] /defaultgamemode <mode>
+2013-12-05 11:05:03 [INFO] /deop <player>
+2013-12-05 11:05:04 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 11:05:14 [INFO] Player484[/127.0.0.1:63844] logged in with entity id 299 at (-180.5, 69.0, 246.5)
+2013-12-05 11:05:14 [INFO] Player484 joined the game
+2013-12-05 11:05:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 11:05:37 [INFO] Opped player484
+2013-12-05 11:05:42 [INFO] [Player484: Set own game mode to Creative Mode]
+2013-12-05 11:06:36 [INFO] [Player484: Set own game mode to Survival Mode]
+2013-12-05 11:06:51 [INFO] Player484 lost connection: disconnect.quitting
+2013-12-05 11:06:51 [INFO] Player484 left the game
+2013-12-05 11:06:54 [INFO] Stopping server
+2013-12-05 11:06:54 [INFO] Saving players
+2013-12-05 11:06:54 [INFO] Saving worlds
+2013-12-05 11:06:54 [INFO] Saving chunks for level 'mcpworld'/Overworld
+2013-12-05 11:06:54 [INFO] Closing listening thread
+2013-12-05 11:06:54 [INFO] Saving chunks for level 'mcpworld'/Nether
+2013-12-05 11:06:54 [INFO] Saving chunks for level 'mcpworld'/The End
+2013-12-05 11:06:59 [INFO] Stopping server
+2013-12-05 15:08:15 [INFO] Starting minecraft server version 1.6.4
+2013-12-05 15:08:20 [INFO] Loading properties
+2013-12-05 15:08:21 [INFO] Default game type: SURVIVAL
+2013-12-05 15:08:21 [INFO] Generating keypair
+2013-12-05 15:08:23 [INFO] Starting Minecraft server on *:25565
+2013-12-05 15:08:23 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-12-05 15:08:23 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-12-05 15:08:23 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-12-05 15:08:23 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-12-05 15:08:24 [INFO] Preparing level "mcpworld"
+2013-12-05 15:08:26 [INFO] Preparing start region for level 0
+2013-12-05 15:08:27 [INFO] Preparing spawn area: 0%
+2013-12-05 15:08:28 [INFO] Preparing spawn area: 18%
+2013-12-05 15:08:29 [INFO] Done (4.583s)! For help, type "help" or "?"
+2013-12-05 15:09:08 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 15:18:09 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-05 15:18:16 [INFO] Player125[/127.0.0.1:65029] logged in with entity id 435 at (-192.5, 72.0, 250.5)
+2013-12-05 15:18:17 [INFO] Player125 joined the game
+2013-12-05 15:18:19 [WARNING] Failed to handle packet for Player125/127.0.0.1: net.minecraft.util.ReportedException: Ticking player
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:377)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.TcpConnection.processReadPackets(TcpConnection.java:462)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	at net.minecraft.server.dedicated.DedicatedServerListenThread.networkTick(DedicatedServerListenThread.java:34)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.dedicated.DedicatedServer.updateTimeLightAndEntities(DedicatedServer.java:276)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 4
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:46)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:18)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	... 11 more
+2013-12-05 15:18:19 [INFO] Player125 left the game
+2013-12-05 15:18:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 15:18:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 15:22:00 [INFO] Stopping the server
+2013-12-05 15:22:00 [INFO] Stopping server
+2013-12-05 15:22:00 [INFO] Saving players
+2013-12-05 15:22:00 [INFO] Saving worlds
+2013-12-05 15:22:00 [INFO] Saving chunks for level 'mcpworld'/Overworld
+2013-12-05 15:22:00 [INFO] Closing listening thread
+2013-12-05 15:22:00 [INFO] Saving chunks for level 'mcpworld'/Nether
+2013-12-05 15:22:00 [INFO] Saving chunks for level 'mcpworld'/The End
+2013-12-05 15:22:00 [INFO] Stopping server
+2013-12-13 10:43:26 [INFO] Starting minecraft server version 1.6.4
+2013-12-13 10:43:56 [INFO] Loading properties
+2013-12-13 10:43:56 [INFO] Default game type: SURVIVAL
+2013-12-13 10:43:56 [INFO] Generating keypair
+2013-12-13 10:43:59 [INFO] Starting Minecraft server on *:25565
+2013-12-13 10:43:59 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-12-13 10:43:59 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-12-13 10:43:59 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-12-13 10:43:59 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-12-13 10:44:03 [INFO] Preparing level "mcpworld"
+2013-12-13 10:44:08 [INFO] Preparing start region for level 0
+2013-12-13 10:44:09 [INFO] Preparing spawn area: 0%
+2013-12-13 10:44:10 [INFO] Preparing spawn area: 5%
+2013-12-13 10:44:11 [INFO] Preparing spawn area: 18%
+2013-12-13 10:44:13 [INFO] Preparing spawn area: 33%
+2013-12-13 10:44:14 [INFO] Preparing spawn area: 49%
+2013-12-13 10:44:15 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-13 10:44:15 [INFO] Preparing spawn area: 50%
+2013-12-13 10:44:16 [INFO] Preparing spawn area: 62%
+2013-12-13 10:44:18 [INFO] Preparing spawn area: 91%
+2013-12-13 10:44:19 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-13 10:44:19 [INFO] Preparing spawn area: 96%
+2013-12-13 10:44:19 [INFO] Done (17.236s)! For help, type "help" or "?"
+2013-12-13 10:44:21 [INFO] /127.0.0.1:53787 lost connection
+2013-12-13 10:44:21 [INFO] /127.0.0.1:53788 lost connection
+2013-12-13 10:44:22 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-13 10:44:30 [INFO] Player390[/127.0.0.1:53790] logged in with entity id 436 at (-197.5, 69.0, 238.5)
+2013-12-13 10:44:31 [INFO] Player390 joined the game
+2013-12-13 10:44:33 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:44:54 [INFO] The world's default game mode is now Creative Mode
+2013-12-13 10:45:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:45:05 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:45:21 [INFO] Player390 lost connection: disconnect.quitting
+2013-12-13 10:45:22 [INFO] Player390 left the game
+2013-12-13 10:45:22 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-13 10:45:25 [INFO] Player390[/127.0.0.1:53802] logged in with entity id 454 at (-191.92042525408354, 70.0, 237.30000001192093)
+2013-12-13 10:45:25 [INFO] Player390 joined the game
+2013-12-13 10:45:28 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:45:37 [INFO] Stopping the server
+2013-12-13 10:45:50 [INFO] Stopping server
+2013-12-13 10:45:50 [INFO] Saving players
+2013-12-13 10:45:50 [INFO] Closing listening thread
+2013-12-13 10:45:50 [INFO] Player390 left the game
+2013-12-13 10:45:50 [SEVERE] Reached end of stream for /127.0.0.1
+2013-12-13 10:45:50 [INFO] Saving worlds
+2013-12-13 10:45:50 [INFO] Saving chunks for level 'mcpworld'/Overworld
+2013-12-13 10:45:51 [INFO] Saving chunks for level 'mcpworld'/Nether
+2013-12-13 10:45:51 [INFO] Saving chunks for level 'mcpworld'/The End
+2013-12-13 10:48:51 [INFO] Starting minecraft server version 1.6.4

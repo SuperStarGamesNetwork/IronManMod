@@ -1,0 +1,112 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 12/13/13 10:46 AM
+Description: Ticking entity
+
+java.lang.NullPointerException
+	at net.minecraft.item.ItemStack.damageItem(ItemStack.java:361)
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:64)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:28)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.client.entity.EntityClientPlayerMP.onUpdate(EntityClientPlayerMP.java:78)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2350)
+	at net.minecraft.world.World.updateEntity(World.java:2311)
+	at net.minecraft.world.World.updateEntities(World.java:2157)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1921)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:910)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:838)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.item.ItemStack.damageItem(ItemStack.java:361)
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:64)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:28)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.client.entity.EntityClientPlayerMP.onUpdate(EntityClientPlayerMP.java:78)
+	at net.minecraft.world.World.updateEntityWithOptionalForce(World.java:2350)
+	at net.minecraft.world.World.updateEntity(World.java:2311)
+
+-- Entity being ticked --
+Details:
+	Entity Type: null (net.minecraft.client.entity.EntityClientPlayerMP)
+	Entity ID: 386
+	Entity Name: Player390
+	Entity's Exact location: -1213.49, 6.94, -326.94
+	Entity's Block location: World: (-1214,6,-327), Chunk: (at 2,0,9 in -76,-21; contains blocks -1216,0,-336 to -1201,255,-321), Region: (-3,-1; contains chunks -96,-32 to -65,-1, blocks -1536,0,-512 to -1025,255,-1)
+	Entity's Momentum: 0.00, 0.19, 0.00
+Stacktrace:
+	at net.minecraft.world.World.updateEntities(World.java:2157)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['Player390'/386, l='MpServer', x=-1213.49, y=6.94, z=-326.94]]
+	Chunk stats: MultiplayerChunkCache: 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (-1141,4,-332), Chunk: (at 11,0,4 in -72,-21; contains blocks -1152,0,-336 to -1137,255,-321), Region: (-3,-1; contains chunks -96,-32 to -65,-1, blocks -1536,0,-512 to -1025,255,-1)
+	Level time: 70531 game time, 70531 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 52 total; [EntityVillager['Villager'/343, l='MpServer', x=-1231.84, y=5.00, z=-353.50], EntityVillager['Villager'/342, l='MpServer', x=-1223.47, y=5.00, z=-357.26], EntityVillager['Villager'/341, l='MpServer', x=-1230.97, y=5.00, z=-354.13], EntityVillager['Villager'/340, l='MpServer', x=-1232.00, y=5.00, z=-355.16], EntityVillager['Villager'/339, l='MpServer', x=-1225.50, y=5.00, z=-356.69], EntityVillager['Villager'/338, l='MpServer', x=-1224.47, y=5.00, z=-357.22], EntitySheep['Sheep'/337, l='MpServer', x=-1242.94, y=4.00, z=-266.81], EntitySheep['Sheep'/336, l='MpServer', x=-1233.81, y=4.00, z=-281.38], EntityVillager['Villager'/351, l='MpServer', x=-1224.32, y=5.00, z=-329.31], EntityVillager['Villager'/350, l='MpServer', x=-1223.73, y=5.00, z=-351.62], EntityVillager['Villager'/349, l='MpServer', x=-1231.38, y=5.00, z=-344.69], EntityVillager['Villager'/348, l='MpServer', x=-1224.05, y=5.00, z=-351.30], EntityVillager['Villager'/347, l='MpServer', x=-1225.50, y=5.00, z=-356.36], EntityVillager['Villager'/346, l='MpServer', x=-1224.70, y=5.00, z=-351.34], EntityVillager['Villager'/345, l='MpServer', x=-1229.50, y=5.00, z=-344.50], EntityBat['Bat'/344, l='MpServer', x=-1224.75, y=7.10, z=-339.25], EntityCow['Cow'/327, l='MpServer', x=-1265.88, y=4.00, z=-361.03], EntityBat['Bat'/334, l='MpServer', x=-1247.09, y=12.06, z=-353.25], EntityClientPlayerMP['Player390'/386, l='MpServer', x=-1213.49, y=6.94, z=-326.94], EntitySheep['Sheep'/335, l='MpServer', x=-1233.81, y=4.00, z=-303.69], EntityBat['Bat'/332, l='MpServer', x=-1234.81, y=6.10, z=-340.69], EntityVillager['Villager'/333, l='MpServer', x=-1232.50, y=5.50, z=-339.06], EntityVillager['Villager'/330, l='MpServer', x=-1231.99, y=5.50, z=-375.01], EntityCow['Cow'/331, l='MpServer', x=-1246.34, y=4.00, z=-351.75], EntityPig['Pig'/328, l='MpServer', x=-1272.06, y=4.00, z=-321.88], EntityPig['Pig'/329, l='MpServer', x=-1254.09, y=4.00, z=-342.13], EntityVillager['Villager'/373, l='MpServer', x=-1209.49, y=5.00, z=-329.72], EntityVillager['Villager'/372, l='MpServer', x=-1209.32, y=5.00, z=-330.74], EntityVillager['Villager'/375, l='MpServer', x=-1211.69, y=5.00, z=-322.44], EntityBat['Bat'/374, l='MpServer', x=-1208.75, y=6.10, z=-328.81], EntityVillager['Villager'/369, l='MpServer', x=-1212.34, y=5.00, z=-332.22], EntityBat['Bat'/368, l='MpServer', x=-1205.81, y=6.10, z=-331.75], EntityBat['Bat'/371, l='MpServer', x=-1212.28, y=7.21, z=-331.28], EntityBat['Bat'/370, l='MpServer', x=-1210.75, y=6.87, z=-334.59], EntityBat['Bat'/377, l='MpServer', x=-1207.75, y=8.10, z=-314.81], EntityBat['Bat'/376, l='MpServer', x=-1207.31, y=8.10, z=-314.81], EntityVillager['Villager'/356, l='MpServer', x=-1223.46, y=5.00, z=-329.31], EntityVillager['Villager'/357, l='MpServer', x=-1224.66, y=5.00, z=-329.31], EntityVillager['Villager'/358, l='MpServer', x=-1221.76, y=5.00, z=-329.31], EntityBat['Bat'/359, l='MpServer', x=-1217.81, y=7.10, z=-330.25], EntityVillager['Villager'/352, l='MpServer', x=-1222.72, y=5.00, z=-320.31], EntityVillager['Villager'/353, l='MpServer', x=-1222.60, y=5.00, z=-329.31], EntityVillager['Villager'/354, l='MpServer', x=-1218.31, y=6.00, z=-329.31], EntityVillager['Villager'/355, l='MpServer', x=-1219.30, y=5.00, z=-329.30], EntityBat['Bat'/364, l='MpServer', x=-1204.81, y=6.10, z=-322.50], EntityBat['Bat'/365, l='MpServer', x=-1207.25, y=8.10, z=-333.88], EntityBat['Bat'/366, l='MpServer', x=-1205.81, y=6.10, z=-335.53], EntityBat['Bat'/367, l='MpServer', x=-1208.53, y=6.10, z=-328.81], EntityBat['Bat'/360, l='MpServer', x=-1218.25, y=6.10, z=-319.81], EntitySheep['Sheep'/361, l='MpServer', x=-1221.25, y=4.00, z=-291.53], EntityBat['Bat'/362, l='MpServer', x=-1206.25, y=7.10, z=-329.25], EntityBat['Bat'/363, l='MpServer', x=-1205.81, y=6.10, z=-331.44]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:440)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2312)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:856)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Windows 8 (amd64) version 6.2
+	Java Version: 1.7.0_45, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 655495608 bytes (625 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 15446 (864976 bytes; 0 MB) allocated, 2 (112 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 3, tallocated: 71
+	FML: MCP v8.11 FML v6.4.45.953 Minecraft Forge 9.11.1.953 4 mods loaded, 4 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{6.4.45.953} [Forge Mod Loader] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{9.11.1.953} [Minecraft Forge] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Iron Man Mod{1.6.4_2 beta} [Iron Man Mod] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Launched Version: 1.6
+	LWJGL: 2.9.0
+	OpenGL: GeForce GT 745M/PCIe/SSE2 GL version 4.4.0, NVIDIA Corporation
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Pack: Default
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 1153 (64568 bytes; 0 MB) allocated, 11 (616 bytes; 0 MB) used

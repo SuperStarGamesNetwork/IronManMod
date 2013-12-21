@@ -1,0 +1,1513 @@
+2013-11-27 19:35:37 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-27 19:35:37 [SERVER] [INFO] Generating keypair
+2013-11-27 19:35:38 [SERVER] [INFO] Converting map!
+2013-11-27 19:35:38 [SERVER] [INFO] Scanning folders...
+2013-11-27 19:35:38 [SERVER] [INFO] Total conversion count is 0
+2013-11-27 19:35:39 [SERVER] [INFO] Preparing start region for level 0
+2013-11-27 19:35:40 [SERVER] [INFO] Preparing spawn area: 2%
+2013-11-27 19:35:41 [SERVER] [INFO] Preparing spawn area: 5%
+2013-11-27 19:35:42 [SERVER] [INFO] Preparing spawn area: 8%
+2013-11-27 19:35:43 [SERVER] [INFO] Preparing spawn area: 16%
+2013-11-27 19:35:45 [SERVER] [INFO] Preparing spawn area: 22%
+2013-11-27 19:35:46 [SERVER] [INFO] Preparing spawn area: 26%
+2013-11-27 19:35:47 [SERVER] [INFO] Preparing spawn area: 32%
+2013-11-27 19:35:48 [SERVER] [INFO] Preparing spawn area: 38%
+2013-11-27 19:35:49 [SERVER] [INFO] Preparing spawn area: 42%
+2013-11-27 19:35:50 [SERVER] [INFO] Preparing spawn area: 47%
+2013-11-27 19:35:51 [SERVER] [INFO] Preparing spawn area: 51%
+2013-11-27 19:35:52 [SERVER] [INFO] Preparing spawn area: 56%
+2013-11-27 19:35:53 [SERVER] [INFO] Preparing spawn area: 60%
+2013-11-27 19:35:54 [SERVER] [INFO] Preparing spawn area: 65%
+2013-11-27 19:35:55 [SERVER] [INFO] Preparing spawn area: 71%
+2013-11-27 19:35:56 [SERVER] [INFO] Preparing spawn area: 77%
+2013-11-27 19:35:57 [SERVER] [INFO] Preparing spawn area: 83%
+2013-11-27 19:35:58 [SERVER] [INFO] Preparing spawn area: 88%
+2013-11-27 19:35:59 [SERVER] [INFO] Preparing spawn area: 93%
+2013-11-27 19:36:00 [SERVER] [INFO] Preparing spawn area: 96%
+2013-11-27 19:36:02 [SERVER] [INFO] Player906[/127.0.0.1:0] logged in with entity id 269 at (79.5, 72.0, 248.5)
+2013-11-27 19:36:02 [SERVER] [INFO] Player906 joined the game
+2013-11-27 19:36:04 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-27 19:36:07 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 19:36:07 [SERVER] [INFO] Saving chunks for level 'Test world'/Overworld
+2013-11-27 19:36:16 [SERVER] [INFO] Saving chunks for level 'Test world'/Nether
+2013-11-27 19:36:16 [SERVER] [INFO] Saving chunks for level 'Test world'/The End
+2013-11-27 19:36:21 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-27 19:36:24 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 19:36:24 [SERVER] [INFO] Saving chunks for level 'Test world'/Overworld
+2013-11-27 19:36:24 [SERVER] [INFO] Saving chunks for level 'Test world'/Nether
+2013-11-27 19:36:24 [SERVER] [INFO] Saving chunks for level 'Test world'/The End
+2013-11-27 19:36:25 [SERVER] [INFO] Stopping server
+2013-11-27 19:36:25 [SERVER] [INFO] Saving players
+2013-11-27 19:36:25 [SERVER] [INFO] Player906 left the game
+2013-11-27 19:36:25 [SERVER] [INFO] Saving worlds
+2013-11-27 19:36:25 [SERVER] [INFO] Saving chunks for level 'Test world'/Overworld
+2013-11-27 19:36:25 [SERVER] [INFO] Saving chunks for level 'Test world'/Nether
+2013-11-27 19:36:25 [SERVER] [INFO] Saving chunks for level 'Test world'/The End
+2013-11-27 19:37:54 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-27 19:37:54 [SERVER] [INFO] Generating keypair
+2013-11-27 19:37:55 [SERVER] [INFO] Converting map!
+2013-11-27 19:37:55 [SERVER] [INFO] Scanning folders...
+2013-11-27 19:37:55 [SERVER] [INFO] Total conversion count is 0
+2013-11-27 19:38:05 [SERVER] [INFO] Preparing start region for level 0
+2013-11-27 19:38:06 [SERVER] [INFO] Preparing spawn area: 7%
+2013-11-27 19:38:07 [SERVER] [INFO] Preparing spawn area: 12%
+2013-11-27 19:38:08 [SERVER] [INFO] Preparing spawn area: 29%
+2013-11-27 19:38:09 [SERVER] [INFO] Preparing spawn area: 47%
+2013-11-27 19:38:10 [SERVER] [INFO] Preparing spawn area: 65%
+2013-11-27 19:38:11 [SERVER] [INFO] Preparing spawn area: 83%
+2013-11-27 19:38:12 [SERVER] [INFO] Preparing spawn area: 96%
+2013-11-27 19:38:13 [SERVER] [INFO] Player750[/127.0.0.1:0] logged in with entity id 24 at (-1006.5, 4.0, -452.5)
+2013-11-27 19:38:14 [SERVER] [INFO] Player750 joined the game
+2013-11-27 19:38:16 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-27 19:39:19 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 19:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 19:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 19:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 19:40:32 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 19:40:32 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 19:40:32 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 19:40:32 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 19:40:33 [SERVER] [INFO] Stopping server
+2013-11-27 19:40:33 [SERVER] [INFO] Saving players
+2013-11-27 19:40:33 [SERVER] [INFO] Player750 left the game
+2013-11-27 19:40:33 [SERVER] [INFO] Saving worlds
+2013-11-27 19:40:33 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 19:40:33 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 19:40:33 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 19:45:54 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-27 19:45:54 [SERVER] [INFO] Generating keypair
+2013-11-27 19:45:55 [SERVER] [INFO] Preparing start region for level 0
+2013-11-27 19:45:56 [SERVER] [INFO] Preparing spawn area: 24%
+2013-11-27 19:45:57 [SERVER] [INFO] Preparing spawn area: 69%
+2013-11-27 19:45:59 [SERVER] [INFO] Player250[/127.0.0.1:0] logged in with entity id 33 at (-1133.72160913116, 4.0, -276.9673260059913)
+2013-11-27 19:45:59 [SERVER] [INFO] Player250 joined the game
+2013-11-27 19:55:03 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 19:55:03 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 19:55:03 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 19:55:03 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 19:55:04 [SERVER] [INFO] Stopping server
+2013-11-27 19:55:04 [SERVER] [INFO] Saving players
+2013-11-27 19:55:04 [SERVER] [INFO] Player250 left the game
+2013-11-27 19:55:04 [SERVER] [INFO] Saving worlds
+2013-11-27 19:55:04 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 19:55:04 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 19:55:04 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:01:41 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-27 20:01:41 [SERVER] [INFO] Generating keypair
+2013-11-27 20:01:42 [SERVER] [INFO] Preparing start region for level 0
+2013-11-27 20:01:43 [SERVER] [INFO] Preparing spawn area: 25%
+2013-11-27 20:01:44 [SERVER] [INFO] Preparing spawn area: 54%
+2013-11-27 20:01:45 [SERVER] [INFO] Player234[/127.0.0.1:0] logged in with entity id 45 at (-1133.72160913116, 4.0, -276.9673260059913)
+2013-11-27 20:01:45 [SERVER] [INFO] Player234 joined the game
+2013-11-27 20:03:15 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-27 20:03:51 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:03:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:03:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:03:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:04:20 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:04:20 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:04:20 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:04:20 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:17:53 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:17:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:17:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:17:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:17:54 [SERVER] [INFO] Player234 lost connection: disconnect.quitting
+2013-11-27 20:17:54 [SERVER] [INFO] Player234 left the game
+2013-11-27 20:17:54 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-11-27 20:17:54 [SERVER] [INFO] Stopping server
+2013-11-27 20:17:54 [SERVER] [INFO] Saving players
+2013-11-27 20:17:54 [SERVER] [INFO] Saving worlds
+2013-11-27 20:17:54 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:17:54 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:17:54 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:18:41 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-27 20:18:41 [SERVER] [INFO] Generating keypair
+2013-11-27 20:18:43 [SERVER] [INFO] Preparing start region for level 0
+2013-11-27 20:18:44 [SERVER] [INFO] Preparing spawn area: 22%
+2013-11-27 20:18:45 [SERVER] [INFO] Preparing spawn area: 47%
+2013-11-27 20:18:46 [SERVER] [INFO] Preparing spawn area: 95%
+2013-11-27 20:18:47 [SERVER] [INFO] Player31[/127.0.0.1:0] logged in with entity id 50 at (-1137.4670393177487, 4.0, -277.69999998807907)
+2013-11-27 20:18:47 [SERVER] [INFO] Player31 joined the game
+2013-11-27 20:18:49 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-27 20:26:47 [SERVER] [INFO] [Player31: Set the time to 0]
+2013-11-27 20:26:48 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:26:48 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:26:48 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:26:48 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:26:51 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:26:51 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:26:51 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:26:51 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:27:35 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:27:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:27:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:27:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:35:10 [SERVER] [INFO] Saving and pausing game...
+2013-11-27 20:35:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-27 20:35:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-27 20:35:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-27 20:35:15 [SERVER] [INFO] Started on 53880
+2013-11-27 20:35:52 [SERVER] [INFO] Player31 fell out of the world
+2013-11-27 20:37:16 [SERVER] [INFO] [Player31: Set own game mode to Survival Mode]
+2013-11-27 20:37:34 [SERVER] [INFO] [Player31: Set own game mode to Creative Mode]
+2013-11-27 20:38:21 [SERVER] [INFO] [Player31: Set own game mode to Survival Mode]
+2013-11-27 20:38:53 [SERVER] [INFO] [Player31: Set own game mode to Survival Mode]
+2013-11-27 20:38:54 [SERVER] [INFO] [Player31: Set own game mode to Creative Mode]
+2013-11-27 20:39:13 [SERVER] [INFO] [Player31: Set own game mode to Survival Mode]
+2013-11-27 20:39:46 [SERVER] [INFO] [Player31: Set own game mode to Creative Mode]
+2013-11-27 20:40:04 [SERVER] [INFO] [Player31: Set own game mode to Survival Mode]
+2013-11-27 20:43:03 [SERVER] [INFO] Player31 fell from a high place
+2013-11-27 20:43:35 [SERVER] [INFO] Player31 fell from a high place
+2013-11-27 22:41:28 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-28 00:00:36 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-28 00:00:39 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-28 00:56:09 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-29 12:50:46 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-29 12:56:12 [SERVER] [INFO] <Player31> time
+2013-11-29 13:32:06 [SERVER] [INFO] [Player31: Set own game mode to Creative Mode]
+2013-11-29 13:37:27 [SERVER] [INFO] Player31 lost connection: disconnect.quitting
+2013-11-29 13:37:27 [SERVER] [INFO] Player31 left the game
+2013-11-29 13:37:27 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-11-29 13:37:27 [SERVER] [INFO] Stopping server
+2013-11-29 13:37:27 [SERVER] [INFO] Stopping server connection
+2013-11-29 13:37:27 [SERVER] [INFO] Saving players
+2013-11-29 13:37:27 [SERVER] [INFO] Saving worlds
+2013-11-29 13:37:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-29 13:37:27 [SERVER] [INFO] Closing listening thread
+2013-11-29 13:37:27 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-29 13:37:27 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-29 17:17:40 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-11-29 17:17:40 [SERVER] [INFO] Generating keypair
+2013-11-29 17:17:42 [SERVER] [INFO] Preparing start region for level 0
+2013-11-29 17:17:43 [SERVER] [INFO] Preparing spawn area: 13%
+2013-11-29 17:17:44 [SERVER] [INFO] Preparing spawn area: 41%
+2013-11-29 17:17:45 [SERVER] [INFO] Preparing spawn area: 76%
+2013-11-29 17:17:46 [SERVER] [INFO] Player437[/127.0.0.1:0] logged in with entity id 27 at (-1134.7208727866237, 4.0, -275.41690480316754)
+2013-11-29 17:17:46 [SERVER] [INFO] Player437 joined the game
+2013-11-29 17:17:49 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-29 22:51:23 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-11-30 00:29:11 [SERVER] [INFO] Saving and pausing game...
+2013-11-30 00:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-30 00:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-30 00:29:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-11-30 00:29:13 [SERVER] [INFO] Stopping server
+2013-11-30 00:29:13 [SERVER] [INFO] Saving players
+2013-11-30 00:29:13 [SERVER] [INFO] Player437 left the game
+2013-11-30 00:29:13 [SERVER] [INFO] Saving worlds
+2013-11-30 00:29:13 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-11-30 00:29:13 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-11-30 00:29:13 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 07:50:09 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 07:50:09 [SERVER] [INFO] Generating keypair
+2013-12-02 07:50:12 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 07:50:13 [SERVER] [INFO] Preparing spawn area: 19%
+2013-12-02 07:50:14 [SERVER] [INFO] Preparing spawn area: 57%
+2013-12-02 07:50:16 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-02 07:50:16 [SERVER] [INFO] Player833[/127.0.0.1:0] logged in with entity id 26 at (-1121.654503182405, 4.0, -275.8576626622784)
+2013-12-02 07:50:16 [SERVER] [INFO] Player833 joined the game
+2013-12-02 08:50:14 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-02 08:50:55 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 08:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 08:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 08:50:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 08:50:56 [SERVER] [INFO] Stopping server
+2013-12-02 08:50:56 [SERVER] [INFO] Saving players
+2013-12-02 08:50:56 [SERVER] [INFO] Player833 left the game
+2013-12-02 08:50:56 [SERVER] [INFO] Saving worlds
+2013-12-02 08:50:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 08:50:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 08:50:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:49:31 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 10:49:31 [SERVER] [INFO] Generating keypair
+2013-12-02 10:49:35 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 10:49:36 [SERVER] [INFO] Preparing spawn area: 26%
+2013-12-02 10:49:37 [SERVER] [INFO] Preparing spawn area: 73%
+2013-12-02 10:49:38 [SERVER] [INFO] Player265[/127.0.0.1:0] logged in with entity id 25 at (-1139.2343783798963, 4.0, -277.4923168484489)
+2013-12-02 10:49:38 [SERVER] [INFO] Player265 joined the game
+2013-12-02 10:49:57 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 10:49:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:49:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:49:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:51:04 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 10:51:04 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:51:04 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:51:04 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:51:52 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 10:51:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:51:52 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:51:52 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:51:53 [SERVER] [INFO] Player265 lost connection: disconnect.quitting
+2013-12-02 10:51:53 [SERVER] [INFO] Player265 left the game
+2013-12-02 10:51:53 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-02 10:51:53 [SERVER] [INFO] Stopping server
+2013-12-02 10:51:53 [SERVER] [INFO] Saving players
+2013-12-02 10:51:53 [SERVER] [INFO] Saving worlds
+2013-12-02 10:51:53 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:51:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:51:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:56:57 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 10:56:57 [SERVER] [INFO] Generating keypair
+2013-12-02 10:56:58 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 10:56:59 [SERVER] [INFO] Preparing spawn area: 24%
+2013-12-02 10:57:00 [SERVER] [INFO] Preparing spawn area: 54%
+2013-12-02 10:57:01 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-02 10:57:02 [SERVER] [INFO] Player921[/127.0.0.1:0] logged in with entity id 25 at (-1136.488541416927, 4.0, -278.38643816811106)
+2013-12-02 10:57:02 [SERVER] [INFO] Player921 joined the game
+2013-12-02 10:57:09 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 10:57:09 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:57:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:57:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:58:56 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 10:58:56 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:58:56 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:58:56 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 10:58:57 [SERVER] [INFO] Player921 lost connection: disconnect.quitting
+2013-12-02 10:58:57 [SERVER] [INFO] Player921 left the game
+2013-12-02 10:58:57 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-02 10:58:57 [SERVER] [INFO] Stopping server
+2013-12-02 10:58:57 [SERVER] [INFO] Saving players
+2013-12-02 10:58:57 [SERVER] [INFO] Saving worlds
+2013-12-02 10:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 10:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 10:58:57 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:16:15 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 11:16:15 [SERVER] [INFO] Generating keypair
+2013-12-02 11:16:17 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 11:16:18 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-02 11:16:19 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-02 11:16:20 [SERVER] [INFO] Preparing spawn area: 98%
+2013-12-02 11:16:20 [SERVER] [INFO] Player781[/127.0.0.1:0] logged in with entity id 24 at (-1131.7256558924128, 4.0, -276.6959140724873)
+2013-12-02 11:16:20 [SERVER] [INFO] Player781 joined the game
+2013-12-02 11:16:25 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 11:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:16:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:18:34 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 11:18:34 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:18:34 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:18:34 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:18:35 [SERVER] [INFO] Stopping server
+2013-12-02 11:18:35 [SERVER] [INFO] Saving players
+2013-12-02 11:18:35 [SERVER] [INFO] Player781 left the game
+2013-12-02 11:18:35 [SERVER] [INFO] Saving worlds
+2013-12-02 11:18:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:18:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:18:35 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:38:46 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 11:38:46 [SERVER] [INFO] Generating keypair
+2013-12-02 11:38:47 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 11:38:48 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-02 11:38:49 [SERVER] [INFO] Preparing spawn area: 66%
+2013-12-02 11:38:50 [SERVER] [INFO] Player687[/127.0.0.1:0] logged in with entity id 24 at (-1124.8793679495025, 4.0, -271.50857929369266)
+2013-12-02 11:38:50 [SERVER] [INFO] Player687 joined the game
+2013-12-02 11:39:19 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 11:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:39:19 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:39:35 [SERVER] [INFO] [Player687: Set own game mode to Survival Mode]
+2013-12-02 11:41:05 [SERVER] [INFO] [Player687: Set the time to 12500]
+2013-12-02 11:45:52 [SERVER] [INFO] [Player687: Set own game mode to Creative Mode]
+2013-12-02 11:46:09 [SERVER] [INFO] [Player687: Set own game mode to Survival Mode]
+2013-12-02 11:52:16 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 11:52:16 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:52:16 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:52:16 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 11:52:17 [SERVER] [INFO] Stopping server
+2013-12-02 11:52:17 [SERVER] [INFO] Saving players
+2013-12-02 11:52:17 [SERVER] [INFO] Player687 left the game
+2013-12-02 11:52:17 [SERVER] [INFO] Saving worlds
+2013-12-02 11:52:17 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 11:52:17 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 11:52:17 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 14:46:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-02 14:46:18 [SERVER] [INFO] Generating keypair
+2013-12-02 14:46:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-02 14:46:20 [SERVER] [INFO] Preparing spawn area: 24%
+2013-12-02 14:46:21 [SERVER] [INFO] Preparing spawn area: 61%
+2013-12-02 14:46:22 [SERVER] [INFO] Preparing spawn area: 97%
+2013-12-02 14:46:23 [SERVER] [INFO] Player406[/127.0.0.1:0] logged in with entity id 34 at (-950.2127572654215, 4.0, -52.41259886354486)
+2013-12-02 14:46:23 [SERVER] [INFO] Player406 joined the game
+2013-12-02 14:46:24 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-02 14:46:24 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 14:46:24 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 14:46:25 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 14:46:25 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 14:46:44 [SERVER] [INFO] [Player406: Set own game mode to Creative Mode]
+2013-12-02 14:47:04 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 14:47:04 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 14:47:04 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 14:47:04 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 14:47:11 [SERVER] [INFO] Saving and pausing game...
+2013-12-02 14:47:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 14:47:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 14:47:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-02 14:47:31 [SERVER] [INFO] Started on 56523
+2013-12-02 14:47:31 [SERVER] [INFO] [Player406: Local game hosted on port 56523]
+2013-12-02 14:47:57 [SERVER] [INFO] Started on 56523
+2013-12-02 14:47:57 [SERVER] [INFO] [Player406: Local game hosted on port 56523]
+2013-12-02 14:47:59 [SERVER] [INFO] Started on 56523
+2013-12-02 14:47:59 [SERVER] [INFO] [Player406: Local game hosted on port 56523]
+2013-12-02 14:47:59 [SERVER] [INFO] Started on 56523
+2013-12-02 14:47:59 [SERVER] [INFO] [Player406: Local game hosted on port 56523]
+2013-12-02 14:48:00 [SERVER] [INFO] Started on 56523
+2013-12-02 14:48:00 [SERVER] [INFO] [Player406: Local game hosted on port 56523]
+2013-12-02 14:48:06 [SERVER] [INFO] <Player406> lawl
+2013-12-02 14:48:18 [SERVER] [INFO] [Player406: Game rule has been updated]
+2013-12-02 14:48:27 [SERVER] [INFO] Player406 lost connection: disconnect.quitting
+2013-12-02 14:48:27 [SERVER] [INFO] Player406 left the game
+2013-12-02 14:48:27 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-02 14:48:27 [SERVER] [INFO] Stopping server
+2013-12-02 14:48:27 [SERVER] [INFO] Stopping server connection
+2013-12-02 14:48:27 [SERVER] [INFO] Saving players
+2013-12-02 14:48:27 [SERVER] [INFO] Saving worlds
+2013-12-02 14:48:27 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-02 14:48:27 [SERVER] [INFO] Closing listening thread
+2013-12-02 14:48:28 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-02 14:48:28 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-04 11:03:46 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-04 11:03:46 [SERVER] [INFO] Generating keypair
+2013-12-04 11:03:48 [SERVER] [INFO] Preparing start region for level 0
+2013-12-04 11:03:49 [SERVER] [INFO] Preparing spawn area: 14%
+2013-12-04 11:03:50 [SERVER] [INFO] Preparing spawn area: 55%
+2013-12-04 11:03:51 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-04 11:03:52 [SERVER] [INFO] Player921[/127.0.0.1:0] logged in with entity id 32 at (-961.0004898136622, 4.0, -56.5041244556953)
+2013-12-04 11:03:52 [SERVER] [INFO] Player921 joined the game
+2013-12-04 11:03:55 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at perry.mods.IronManMod.common.Eventhandler.tickStart(Eventhandler.java:18)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-04 11:03:55 [SERVER] [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-12-04_11.03.55-server.txt
+2013-12-04 11:03:55 [SERVER] [INFO] Stopping server
+2013-12-04 11:03:55 [SERVER] [INFO] Saving players
+2013-12-04 11:03:55 [SERVER] [INFO] Player921 left the game
+2013-12-04 11:03:55 [SERVER] [INFO] Saving worlds
+2013-12-04 11:03:55 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2013-12-04 11:03:55 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2013-12-04 11:03:55 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2013-12-04 11:05:36 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-04 11:05:36 [SERVER] [INFO] Generating keypair
+2013-12-04 11:05:37 [SERVER] [INFO] Converting map!
+2013-12-04 11:05:37 [SERVER] [INFO] Scanning folders...
+2013-12-04 11:05:37 [SERVER] [INFO] Total conversion count is 0
+2013-12-04 11:05:40 [SERVER] [INFO] Preparing start region for level 0
+2013-12-04 11:05:41 [SERVER] [INFO] Preparing spawn area: 5%
+2013-12-04 11:05:42 [SERVER] [INFO] Preparing spawn area: 8%
+2013-12-04 11:05:43 [SERVER] [INFO] Preparing spawn area: 11%
+2013-12-04 11:05:44 [SERVER] [INFO] Preparing spawn area: 16%
+2013-12-04 11:05:45 [SERVER] [INFO] Preparing spawn area: 22%
+2013-12-04 11:05:46 [SERVER] [INFO] Preparing spawn area: 26%
+2013-12-04 11:05:47 [SERVER] [INFO] Preparing spawn area: 31%
+2013-12-04 11:05:48 [SERVER] [INFO] Preparing spawn area: 37%
+2013-12-04 11:05:49 [SERVER] [INFO] Preparing spawn area: 43%
+2013-12-04 11:05:50 [SERVER] [INFO] Preparing spawn area: 48%
+2013-12-04 11:05:51 [SERVER] [INFO] Preparing spawn area: 52%
+2013-12-04 11:05:52 [SERVER] [INFO] Preparing spawn area: 56%
+2013-12-04 11:05:53 [SERVER] [INFO] Preparing spawn area: 62%
+2013-12-04 11:05:55 [SERVER] [INFO] Preparing spawn area: 67%
+2013-12-04 11:05:56 [SERVER] [INFO] Preparing spawn area: 74%
+2013-12-04 11:05:57 [SERVER] [INFO] Preparing spawn area: 80%
+2013-12-04 11:05:58 [SERVER] [INFO] Preparing spawn area: 85%
+2013-12-04 11:05:59 [SERVER] [INFO] Preparing spawn area: 90%
+2013-12-04 11:06:00 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-04 11:06:01 [SERVER] [INFO] Player171[/127.0.0.1:0] logged in with entity id 145 at (-796.5, 66.0, -304.5)
+2013-12-04 11:06:01 [SERVER] [INFO] Player171 joined the game
+2013-12-04 11:06:02 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at perry.mods.IronManMod.common.Eventhandler.tickStart(Eventhandler.java:18)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-04 11:06:02 [SERVER] [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-12-04_11.06.02-server.txt
+2013-12-04 11:06:02 [SERVER] [INFO] Stopping server
+2013-12-04 11:06:02 [SERVER] [INFO] Saving players
+2013-12-04 11:06:02 [SERVER] [INFO] Player171 left the game
+2013-12-04 11:06:02 [SERVER] [INFO] Saving worlds
+2013-12-04 11:06:02 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-04 11:07:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-04 11:07:18 [SERVER] [INFO] Generating keypair
+2013-12-04 11:07:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-04 11:07:20 [SERVER] [INFO] Preparing spawn area: 6%
+2013-12-04 11:07:21 [SERVER] [INFO] Preparing spawn area: 15%
+2013-12-04 11:07:22 [SERVER] [INFO] Preparing spawn area: 34%
+2013-12-04 11:07:23 [SERVER] [INFO] Preparing spawn area: 40%
+2013-12-04 11:07:24 [SERVER] [INFO] Preparing spawn area: 42%
+2013-12-04 11:07:25 [SERVER] [INFO] Preparing spawn area: 44%
+2013-12-04 11:07:26 [SERVER] [INFO] Preparing spawn area: 48%
+2013-12-04 11:07:27 [SERVER] [INFO] Preparing spawn area: 50%
+2013-12-04 11:07:28 [SERVER] [INFO] Preparing spawn area: 54%
+2013-12-04 11:07:29 [SERVER] [INFO] Preparing spawn area: 58%
+2013-12-04 11:07:30 [SERVER] [INFO] Preparing spawn area: 64%
+2013-12-04 11:07:31 [SERVER] [INFO] Preparing spawn area: 68%
+2013-12-04 11:07:32 [SERVER] [INFO] Preparing spawn area: 74%
+2013-12-04 11:07:33 [SERVER] [INFO] Preparing spawn area: 80%
+2013-12-04 11:07:34 [SERVER] [INFO] Preparing spawn area: 86%
+2013-12-04 11:07:35 [SERVER] [INFO] Preparing spawn area: 91%
+2013-12-04 11:07:36 [SERVER] [INFO] Preparing spawn area: 97%
+2013-12-04 11:07:37 [SERVER] [INFO] Player750[/127.0.0.1:0] logged in with entity id 176 at (-796.5, 66.0, -304.5)
+2013-12-04 11:07:37 [SERVER] [INFO] Player750 joined the game
+2013-12-04 11:07:39 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at perry.mods.IronManMod.common.Eventhandler.tickStart(Eventhandler.java:18)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-04 11:07:39 [SERVER] [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-12-04_11.07.39-server.txt
+2013-12-04 11:07:39 [SERVER] [INFO] Stopping server
+2013-12-04 11:07:39 [SERVER] [INFO] Saving players
+2013-12-04 11:07:39 [SERVER] [INFO] Player750 left the game
+2013-12-04 11:07:39 [SERVER] [INFO] Saving worlds
+2013-12-04 11:07:39 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 07:47:08 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-05 07:47:08 [SERVER] [INFO] Generating keypair
+2013-12-05 07:47:10 [SERVER] [INFO] Preparing start region for level 0
+2013-12-05 07:47:11 [SERVER] [INFO] Preparing spawn area: 7%
+2013-12-05 07:47:12 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-05 07:47:13 [SERVER] [INFO] Preparing spawn area: 32%
+2013-12-05 07:47:14 [SERVER] [INFO] Preparing spawn area: 48%
+2013-12-05 07:47:15 [SERVER] [INFO] Preparing spawn area: 73%
+2013-12-05 07:47:16 [SERVER] [INFO] Preparing spawn area: 88%
+2013-12-05 07:47:17 [SERVER] [INFO] Player203[/127.0.0.1:0] logged in with entity id 178 at (-796.5, 66.0, -304.5)
+2013-12-05 07:47:17 [SERVER] [INFO] Player203 joined the game
+2013-12-05 07:47:19 [SERVER] [INFO] Saving and pausing game...
+2013-12-05 07:47:20 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 07:47:27 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 07:47:27 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 07:47:27 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 07:47:48 [SERVER] [INFO] [Player203: Set own game mode to Survival Mode]
+2013-12-05 07:49:02 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 07:49:13 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 07:52:17 [SERVER] [INFO] Saving and pausing game...
+2013-12-05 07:52:17 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 07:52:17 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 07:52:17 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 07:52:18 [SERVER] [INFO] Player203 lost connection: disconnect.quitting
+2013-12-05 07:52:18 [SERVER] [INFO] Player203 left the game
+2013-12-05 07:52:18 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-05 07:52:18 [SERVER] [INFO] Stopping server
+2013-12-05 07:52:18 [SERVER] [INFO] Saving players
+2013-12-05 07:52:18 [SERVER] [INFO] Saving worlds
+2013-12-05 07:52:18 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 07:52:18 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 07:52:18 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 11:00:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-05 11:00:18 [SERVER] [INFO] Generating keypair
+2013-12-05 11:00:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-05 11:00:20 [SERVER] [INFO] Preparing spawn area: 15%
+2013-12-05 11:00:21 [SERVER] [INFO] Preparing spawn area: 58%
+2013-12-05 11:00:22 [SERVER] [INFO] Player484[/127.0.0.1:0] logged in with entity id 259 at (-799.6999999880791, 65.0, -319.30000001192093)
+2013-12-05 11:00:22 [SERVER] [INFO] Player484 joined the game
+2013-12-05 11:00:25 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 11:00:33 [SERVER] [INFO] Saving and pausing game...
+2013-12-05 11:00:33 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 11:00:34 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 11:00:34 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 11:01:48 [SERVER] [INFO] Saving and pausing game...
+2013-12-05 11:01:48 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 11:01:48 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 11:01:48 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 11:01:49 [SERVER] [INFO] Stopping server
+2013-12-05 11:01:49 [SERVER] [INFO] Saving players
+2013-12-05 11:01:49 [SERVER] [INFO] Player484 left the game
+2013-12-05 11:01:49 [SERVER] [INFO] Saving worlds
+2013-12-05 11:01:49 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 11:01:49 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 11:01:49 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 15:19:22 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-05 15:19:22 [SERVER] [INFO] Generating keypair
+2013-12-05 15:19:23 [SERVER] [INFO] Preparing start region for level 0
+2013-12-05 15:19:24 [SERVER] [INFO] Preparing spawn area: 6%
+2013-12-05 15:19:25 [SERVER] [INFO] Preparing spawn area: 25%
+2013-12-05 15:19:26 [SERVER] [INFO] Preparing spawn area: 48%
+2013-12-05 15:19:27 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-05 15:19:28 [SERVER] [INFO] Player562[/127.0.0.1:0] logged in with entity id 138 at (-787.7443246636337, 68.0, -316.4361191930006)
+2013-12-05 15:19:29 [SERVER] [INFO] Player562 joined the game
+2013-12-05 15:19:31 [SERVER] [INFO] Saving and pausing game...
+2013-12-05 15:19:31 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 15:19:33 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 15:19:33 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 15:19:33 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-05 15:19:44 [SERVER] [INFO] [Player562: Set own game mode to Creative Mode]
+2013-12-05 15:19:59 [SERVER] [INFO] Stopping server
+2013-12-05 15:19:59 [SERVER] [INFO] Saving players
+2013-12-05 15:19:59 [SERVER] [INFO] Player562 left the game
+2013-12-05 15:19:59 [SERVER] [INFO] Saving worlds
+2013-12-05 15:19:59 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-05 15:19:59 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-05 15:19:59 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-05 15:19:59 [SERVER] [INFO] Stopping server
+2013-12-06 10:30:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 10:30:18 [SERVER] [INFO] Generating keypair
+2013-12-06 10:30:20 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 10:30:21 [SERVER] [INFO] Preparing spawn area: 11%
+2013-12-06 10:30:22 [SERVER] [INFO] Preparing spawn area: 44%
+2013-12-06 10:30:23 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-06 10:30:24 [SERVER] [INFO] Player312[/127.0.0.1:0] logged in with entity id 135 at (-787.7443246636337, 68.0, -316.4361191930006)
+2013-12-06 10:30:24 [SERVER] [INFO] Player312 joined the game
+2013-12-06 10:30:27 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-06 10:30:45 [SERVER] [INFO] [Player312: Set own game mode to Creative Mode]
+2013-12-06 10:30:48 [SERVER] [INFO] [Player312: Set own game mode to Survival Mode]
+2013-12-06 10:31:37 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:31:37 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:31:38 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:31:38 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:32:25 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:32:25 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:32:25 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:32:25 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:32:26 [SERVER] [INFO] Stopping server
+2013-12-06 10:32:26 [SERVER] [INFO] Saving players
+2013-12-06 10:32:26 [SERVER] [INFO] Player312 left the game
+2013-12-06 10:32:26 [SERVER] [INFO] Saving worlds
+2013-12-06 10:32:26 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:32:26 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:32:26 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:35:38 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 10:35:38 [SERVER] [INFO] Generating keypair
+2013-12-06 10:35:39 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 10:35:40 [SERVER] [INFO] Preparing spawn area: 11%
+2013-12-06 10:35:41 [SERVER] [INFO] Preparing spawn area: 46%
+2013-12-06 10:35:42 [SERVER] [INFO] Preparing spawn area: 98%
+2013-12-06 10:35:43 [SERVER] [INFO] Player812[/127.0.0.1:0] logged in with entity id 172 at (-783.6740892177233, 69.0, -316.30000001192093)
+2013-12-06 10:35:43 [SERVER] [INFO] Player812 joined the game
+2013-12-06 10:35:46 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-06 10:36:18 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:36:18 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:36:18 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:36:18 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:36:22 [SERVER] [INFO] Player812 lost connection: disconnect.quitting
+2013-12-06 10:36:22 [SERVER] [INFO] Player812 left the game
+2013-12-06 10:36:22 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-06 10:36:22 [SERVER] [INFO] Stopping server
+2013-12-06 10:36:22 [SERVER] [INFO] Saving players
+2013-12-06 10:36:22 [SERVER] [INFO] Saving worlds
+2013-12-06 10:36:22 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:36:22 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:36:22 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:38:28 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 10:38:28 [SERVER] [INFO] Generating keypair
+2013-12-06 10:38:30 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 10:38:31 [SERVER] [INFO] Preparing spawn area: 7%
+2013-12-06 10:38:32 [SERVER] [INFO] Preparing spawn area: 35%
+2013-12-06 10:38:33 [SERVER] [INFO] Preparing spawn area: 61%
+2013-12-06 10:38:34 [SERVER] [INFO] Player250[/127.0.0.1:0] logged in with entity id 161 at (-795.8698685732172, 66.0, -315.66554328131286)
+2013-12-06 10:38:34 [SERVER] [INFO] Player250 joined the game
+2013-12-06 10:38:36 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:38:36 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:38:38 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:38:38 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:38:38 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-06 10:39:00 [SERVER] [INFO] [Player250: Set own game mode to Creative Mode]
+2013-12-06 10:39:11 [SERVER] [INFO] [Player250: Set own game mode to Creative Mode]
+2013-12-06 10:39:15 [SERVER] [INFO] [Player250: Set own game mode to Survival Mode]
+2013-12-06 10:42:24 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:42:24 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:42:24 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:42:25 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:42:26 [SERVER] [INFO] Stopping server
+2013-12-06 10:42:26 [SERVER] [INFO] Saving players
+2013-12-06 10:42:26 [SERVER] [INFO] Player250 left the game
+2013-12-06 10:42:26 [SERVER] [INFO] Saving worlds
+2013-12-06 10:42:26 [SERVER] [INFO] Saving chunks for level 'please work'/Overworld
+2013-12-06 10:42:26 [SERVER] [INFO] Saving chunks for level 'please work'/Nether
+2013-12-06 10:42:26 [SERVER] [INFO] Saving chunks for level 'please work'/The End
+2013-12-06 10:45:23 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 10:45:23 [SERVER] [INFO] Generating keypair
+2013-12-06 10:45:23 [SERVER] [INFO] Converting map!
+2013-12-06 10:45:23 [SERVER] [INFO] Scanning folders...
+2013-12-06 10:45:23 [SERVER] [INFO] Total conversion count is 0
+2013-12-06 10:45:35 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 10:45:36 [SERVER] [INFO] Preparing spawn area: 8%
+2013-12-06 10:45:37 [SERVER] [INFO] Preparing spawn area: 18%
+2013-12-06 10:45:38 [SERVER] [INFO] Preparing spawn area: 29%
+2013-12-06 10:45:39 [SERVER] [INFO] Preparing spawn area: 32%
+2013-12-06 10:45:40 [SERVER] [INFO] Preparing spawn area: 41%
+2013-12-06 10:45:41 [SERVER] [INFO] Preparing spawn area: 60%
+2013-12-06 10:45:42 [SERVER] [INFO] Preparing spawn area: 77%
+2013-12-06 10:45:43 [SERVER] [INFO] Preparing spawn area: 88%
+2013-12-06 10:45:45 [SERVER] [INFO] Player703[/127.0.0.1:0] logged in with entity id 27 at (-1139.5, 4.0, -341.5)
+2013-12-06 10:45:45 [SERVER] [INFO] Player703 joined the game
+2013-12-06 10:45:48 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 10:45:48 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 10:45:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 10:45:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 10:45:50 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-06 10:46:22 [SERVER] [INFO] [Player703: Set own game mode to Survival Mode]
+2013-12-06 11:05:32 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:05:32 [SERVER] [INFO] Player703 lost connection: disconnect.quitting
+2013-12-06 11:05:32 [SERVER] [INFO] Player703 left the game
+2013-12-06 11:05:32 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-06 11:05:32 [SERVER] [INFO] Stopping server
+2013-12-06 11:05:32 [SERVER] [INFO] Saving players
+2013-12-06 11:05:32 [SERVER] [INFO] Saving worlds
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:05:32 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:06:17 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:06:17 [SERVER] [INFO] Generating keypair
+2013-12-06 11:06:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:06:20 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-06 11:06:21 [SERVER] [INFO] Preparing spawn area: 49%
+2013-12-06 11:06:22 [SERVER] [INFO] Preparing spawn area: 90%
+2013-12-06 11:06:23 [SERVER] [INFO] Player984[/127.0.0.1:0] logged in with entity id 47 at (-1224.1203204796032, 9.0, -397.2856732578571)
+2013-12-06 11:06:23 [SERVER] [INFO] Player984 joined the game
+2013-12-06 11:06:24 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-06 11:06:27 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:06:27 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:06:27 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:06:27 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:07:21 [SERVER] [INFO] Stopping server
+2013-12-06 11:07:21 [SERVER] [INFO] Saving players
+2013-12-06 11:07:21 [SERVER] [INFO] Player984 left the game
+2013-12-06 11:07:21 [SERVER] [INFO] Saving worlds
+2013-12-06 11:07:21 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:07:21 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:07:21 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:07:21 [SERVER] [INFO] Stopping server
+2013-12-06 11:14:34 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:14:34 [SERVER] [INFO] Generating keypair
+2013-12-06 11:14:35 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:14:36 [SERVER] [INFO] Preparing spawn area: 29%
+2013-12-06 11:14:37 [SERVER] [INFO] Preparing spawn area: 71%
+2013-12-06 11:14:38 [SERVER] [INFO] Player281[/127.0.0.1:0] logged in with entity id 46 at (-1224.1203204796032, 9.0, -397.2856732578571)
+2013-12-06 11:14:38 [SERVER] [INFO] Player281 joined the game
+2013-12-06 11:14:41 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:14:41 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:14:41 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:14:41 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:15:16 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:15:16 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:15:17 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:15:17 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:15:17 [SERVER] [INFO] Player281 lost connection: disconnect.quitting
+2013-12-06 11:15:17 [SERVER] [INFO] Player281 left the game
+2013-12-06 11:15:17 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-06 11:15:17 [SERVER] [INFO] Stopping server
+2013-12-06 11:15:17 [SERVER] [INFO] Saving players
+2013-12-06 11:15:17 [SERVER] [INFO] Saving worlds
+2013-12-06 11:15:17 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:15:17 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:15:17 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:21:50 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:21:50 [SERVER] [INFO] Generating keypair
+2013-12-06 11:21:51 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:21:52 [SERVER] [INFO] Player546[/127.0.0.1:0] logged in with entity id 46 at (-1224.1203204796032, 9.0, -397.2856732578571)
+2013-12-06 11:21:52 [SERVER] [INFO] Player546 joined the game
+2013-12-06 11:22:29 [SERVER] [INFO] [Player546: Set own game mode to Creative Mode]
+2013-12-06 11:22:46 [SERVER] [INFO] [Player546: Set own game mode to Survival Mode]
+2013-12-06 11:24:46 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:24:46 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:24:46 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:24:46 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:24:47 [SERVER] [INFO] Stopping server
+2013-12-06 11:24:47 [SERVER] [INFO] Saving players
+2013-12-06 11:24:47 [SERVER] [INFO] Player546 left the game
+2013-12-06 11:24:47 [SERVER] [INFO] Saving worlds
+2013-12-06 11:24:47 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:24:47 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:24:47 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:37:17 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:37:17 [SERVER] [INFO] Generating keypair
+2013-12-06 11:37:17 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:37:18 [SERVER] [INFO] Player421[/127.0.0.1:0] logged in with entity id 43 at (-1228.9740177621466, 4.0, -414.5426930960852)
+2013-12-06 11:37:18 [SERVER] [INFO] Player421 joined the game
+2013-12-06 11:37:19 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:37:19 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:37:19 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:37:19 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:37:31 [SERVER] [INFO] [Player421: Set own game mode to Creative Mode]
+2013-12-06 11:37:44 [SERVER] [INFO] [Player421: Set own game mode to Survival Mode]
+2013-12-06 11:38:02 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:38:02 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:38:03 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:38:03 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:38:03 [SERVER] [INFO] Player421 lost connection: disconnect.quitting
+2013-12-06 11:38:03 [SERVER] [INFO] Player421 left the game
+2013-12-06 11:38:03 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-06 11:38:03 [SERVER] [INFO] Stopping server
+2013-12-06 11:38:03 [SERVER] [INFO] Saving players
+2013-12-06 11:38:03 [SERVER] [INFO] Saving worlds
+2013-12-06 11:38:03 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:38:03 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:38:03 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:39:02 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:39:02 [SERVER] [INFO] Generating keypair
+2013-12-06 11:39:03 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:39:04 [SERVER] [INFO] Player609[/127.0.0.1:0] logged in with entity id 43 at (-1228.9740177621466, 4.0, -414.5426930960852)
+2013-12-06 11:39:04 [SERVER] [INFO] Player609 joined the game
+2013-12-06 11:39:05 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:39:05 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:39:05 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:39:05 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:39:26 [SERVER] [INFO] Player609 fell out of the world
+2013-12-06 11:41:20 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:41:20 [SERVER] [INFO] Generating keypair
+2013-12-06 11:41:20 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:41:21 [SERVER] [INFO] Player328[/127.0.0.1:0] logged in with entity id 44 at (-1165.776703159159, 4.0, -307.80909296914683)
+2013-12-06 11:41:21 [SERVER] [INFO] Player328 joined the game
+2013-12-06 11:41:22 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:41:22 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:41:22 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:41:22 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:41:36 [SERVER] [INFO] [Player328: Set own game mode to Creative Mode]
+2013-12-06 11:41:51 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:41:51 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:41:51 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:41:51 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:44:19 [SERVER] [INFO] Stopping server
+2013-12-06 11:44:19 [SERVER] [INFO] Saving players
+2013-12-06 11:44:19 [SERVER] [INFO] Player328 left the game
+2013-12-06 11:44:19 [SERVER] [INFO] Saving worlds
+2013-12-06 11:44:19 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:44:20 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:44:20 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:44:58 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:44:58 [SERVER] [INFO] Generating keypair
+2013-12-06 11:44:59 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:45:00 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-06 11:45:01 [SERVER] [INFO] Preparing spawn area: 69%
+2013-12-06 11:45:02 [SERVER] [INFO] Player359[/127.0.0.1:0] logged in with entity id 44 at (-1175.8431891584962, 4.0, -308.2353091394771)
+2013-12-06 11:45:02 [SERVER] [INFO] Player359 joined the game
+2013-12-06 11:45:12 [SERVER] [INFO] [Player359: Set own game mode to Survival Mode]
+2013-12-06 11:45:42 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:45:42 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:45:42 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:45:42 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:46:14 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:46:14 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:46:14 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:46:14 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:46:15 [SERVER] [INFO] Stopping server
+2013-12-06 11:46:15 [SERVER] [INFO] Saving players
+2013-12-06 11:46:15 [SERVER] [INFO] Player359 left the game
+2013-12-06 11:46:15 [SERVER] [INFO] Saving worlds
+2013-12-06 11:46:15 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:46:15 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:46:15 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:52:31 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-06 11:52:31 [SERVER] [INFO] Generating keypair
+2013-12-06 11:52:32 [SERVER] [INFO] Preparing start region for level 0
+2013-12-06 11:52:33 [SERVER] [INFO] Preparing spawn area: 19%
+2013-12-06 11:52:34 [SERVER] [INFO] Preparing spawn area: 55%
+2013-12-06 11:52:35 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-06 11:52:35 [SERVER] [INFO] Player343[/127.0.0.1:0] logged in with entity id 44 at (-1199.6841206978581, 4.0, -342.178856039483)
+2013-12-06 11:52:35 [SERVER] [INFO] Player343 joined the game
+2013-12-06 11:52:42 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:52:42 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:52:42 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:52:42 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:52:51 [SERVER] [INFO] [Player343: Set own game mode to Creative Mode]
+2013-12-06 11:53:04 [SERVER] [INFO] [Player343: Set own game mode to Survival Mode]
+2013-12-06 11:54:52 [SERVER] [INFO] Saving and pausing game...
+2013-12-06 11:54:52 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:54:52 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:54:52 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-06 11:54:52 [SERVER] [INFO] Player343 lost connection: disconnect.quitting
+2013-12-06 11:54:52 [SERVER] [INFO] Player343 left the game
+2013-12-06 11:54:52 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-06 11:54:52 [SERVER] [INFO] Stopping server
+2013-12-06 11:54:52 [SERVER] [INFO] Saving players
+2013-12-06 11:54:52 [SERVER] [INFO] Saving worlds
+2013-12-06 11:54:52 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-06 11:54:53 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-06 11:54:53 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 13:42:49 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-10 13:42:49 [SERVER] [INFO] Generating keypair
+2013-12-10 13:42:50 [SERVER] [INFO] Preparing start region for level 0
+2013-12-10 13:42:51 [SERVER] [INFO] Preparing spawn area: 15%
+2013-12-10 13:42:52 [SERVER] [INFO] Preparing spawn area: 39%
+2013-12-10 13:42:53 [SERVER] [INFO] Preparing spawn area: 77%
+2013-12-10 13:42:55 [SERVER] [INFO] Player46[/127.0.0.1:0] logged in with entity id 44 at (-1201.1836137772843, 4.0, -363.7256564209577)
+2013-12-10 13:42:55 [SERVER] [INFO] Player46 joined the game
+2013-12-10 13:42:57 [SERVER] [INFO] Saving and pausing game...
+2013-12-10 13:42:57 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 13:42:57 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 13:42:57 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 13:42:57 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-10 13:44:08 [SERVER] [INFO] [Player46: Set own game mode to Creative Mode]
+2013-12-10 13:47:51 [SERVER] [INFO] Saving and pausing game...
+2013-12-10 13:47:51 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 13:47:51 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 13:47:51 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 13:51:17 [SERVER] [INFO] Saving and pausing game...
+2013-12-10 13:51:17 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 13:51:17 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 13:51:17 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 13:51:19 [SERVER] [INFO] Stopping server
+2013-12-10 13:51:19 [SERVER] [INFO] Saving players
+2013-12-10 13:51:19 [SERVER] [INFO] Player46 left the game
+2013-12-10 13:51:19 [SERVER] [INFO] Saving worlds
+2013-12-10 13:51:19 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 13:51:19 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 13:51:19 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 14:02:17 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-10 14:02:17 [SERVER] [INFO] Generating keypair
+2013-12-10 14:02:18 [SERVER] [INFO] Preparing start region for level 0
+2013-12-10 14:02:19 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-10 14:02:20 [SERVER] [INFO] Preparing spawn area: 67%
+2013-12-10 14:02:21 [SERVER] [INFO] Player953[/127.0.0.1:0] logged in with entity id 60 at (-1187.5062946826934, 7.357840713923852, -318.39924155625386)
+2013-12-10 14:02:22 [SERVER] [INFO] Player953 joined the game
+2013-12-10 14:03:18 [SERVER] [INFO] Saving and pausing game...
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-10 14:03:18 [SERVER] [INFO] Stopping server
+2013-12-10 14:03:18 [SERVER] [INFO] Saving players
+2013-12-10 14:03:18 [SERVER] [INFO] Player953 left the game
+2013-12-10 14:03:18 [SERVER] [INFO] Saving worlds
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-10 14:03:18 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 07:46:00 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 07:46:00 [SERVER] [INFO] Generating keypair
+2013-12-11 07:46:01 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 07:46:02 [SERVER] [INFO] Preparing spawn area: 19%
+2013-12-11 07:46:03 [SERVER] [INFO] Preparing spawn area: 64%
+2013-12-11 07:46:04 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-11 07:46:05 [SERVER] [INFO] Player953[/127.0.0.1:0] logged in with entity id 60 at (-1197.640660295241, 12.848942157963759, -331.66094134721055)
+2013-12-11 07:46:05 [SERVER] [INFO] Player953 joined the game
+2013-12-11 07:46:45 [SERVER] [INFO] [Player953: Set own game mode to Survival Mode]
+2013-12-11 07:47:51 [SERVER] [INFO] [Player953: Set own game mode to Creative Mode]
+2013-12-11 07:47:59 [SERVER] [INFO] [Player953: Set own game mode to Survival Mode]
+2013-12-11 07:48:53 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 07:48:53 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 07:48:53 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 07:48:53 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 07:48:54 [SERVER] [INFO] Player953 lost connection: disconnect.quitting
+2013-12-11 07:48:54 [SERVER] [INFO] Player953 left the game
+2013-12-11 07:48:54 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-11 07:48:54 [SERVER] [INFO] Stopping server
+2013-12-11 07:48:54 [SERVER] [INFO] Saving players
+2013-12-11 07:48:54 [SERVER] [INFO] Saving worlds
+2013-12-11 07:48:54 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 07:48:54 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 07:48:54 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:32:51 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 10:32:51 [SERVER] [INFO] Generating keypair
+2013-12-11 10:32:52 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 10:32:53 [SERVER] [INFO] Preparing spawn area: 18%
+2013-12-11 10:32:54 [SERVER] [INFO] Preparing spawn area: 49%
+2013-12-11 10:32:55 [SERVER] [INFO] Preparing spawn area: 93%
+2013-12-11 10:32:56 [SERVER] [INFO] Player15[/127.0.0.1:0] logged in with entity id 60 at (-1186.3145101878085, 4.0, -330.2406980852636)
+2013-12-11 10:32:56 [SERVER] [INFO] Player15 joined the game
+2013-12-11 10:32:59 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-11 10:32:59 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:32:59 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:32:59 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:32:59 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:33:38 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:33:38 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:33:38 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:33:38 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:36:59 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:36:59 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:36:59 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:36:59 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:37:02 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:37:02 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:37:02 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:37:02 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:37:03 [SERVER] [INFO] Stopping server
+2013-12-11 10:37:03 [SERVER] [INFO] Saving players
+2013-12-11 10:37:03 [SERVER] [INFO] Player15 left the game
+2013-12-11 10:37:03 [SERVER] [INFO] Saving worlds
+2013-12-11 10:37:03 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:37:03 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:37:03 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:40:08 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 10:40:08 [SERVER] [INFO] Generating keypair
+2013-12-11 10:40:09 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 10:40:10 [SERVER] [INFO] Preparing spawn area: 22%
+2013-12-11 10:40:11 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-11 10:40:12 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-11 10:40:13 [SERVER] [INFO] Player937[/127.0.0.1:0] logged in with entity id 53 at (-1217.247833386722, 5.0, -299.4491869599697)
+2013-12-11 10:40:13 [SERVER] [INFO] Player937 joined the game
+2013-12-11 10:40:16 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-11 10:40:41 [SERVER] [INFO] Stopping server
+2013-12-11 10:40:41 [SERVER] [INFO] Saving players
+2013-12-11 10:40:41 [SERVER] [INFO] Player937 left the game
+2013-12-11 10:40:41 [SERVER] [INFO] Saving worlds
+2013-12-11 10:40:41 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:40:41 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:40:41 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:40:41 [SERVER] [INFO] Stopping server
+2013-12-11 10:43:23 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 10:43:23 [SERVER] [INFO] Generating keypair
+2013-12-11 10:43:24 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 10:43:25 [SERVER] [INFO] Preparing spawn area: 20%
+2013-12-11 10:43:26 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-11 10:43:27 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-11 10:43:27 [SERVER] [INFO] Player781[/127.0.0.1:0] logged in with entity id 52 at (-1213.075083304014, 4.0, -295.74449081416384)
+2013-12-11 10:43:27 [SERVER] [INFO] Player781 joined the game
+2013-12-11 10:43:30 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-11 10:46:42 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:46:42 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:46:42 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:46:42 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:47:44 [SERVER] [INFO] [Player781: Set own game mode to Adventure Mode]
+2013-12-11 10:47:48 [SERVER] [INFO] [Player781: Set own game mode to Creative Mode]
+2013-12-11 10:52:15 [SERVER] [INFO] [Player781: Set own game mode to Survival Mode]
+2013-12-11 10:53:22 [SERVER] [INFO] [Player781: Set own game mode to Creative Mode]
+2013-12-11 10:54:23 [SERVER] [INFO] [Player781: Set own game mode to Survival Mode]
+2013-12-11 10:55:13 [SERVER] [INFO] <Player781> time
+2013-12-11 10:55:15 [SERVER] [INFO] <Player781> time
+2013-12-11 10:55:16 [SERVER] [INFO] <Player781> time
+2013-12-11 10:55:16 [SERVER] [INFO] <Player781> time
+2013-12-11 10:55:16 [SERVER] [INFO] <Player781> time
+2013-12-11 10:55:26 [SERVER] [INFO] <Player781> time
+2013-12-11 10:56:26 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 10:56:26 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:56:26 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:56:26 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 10:56:27 [SERVER] [INFO] Stopping server
+2013-12-11 10:56:27 [SERVER] [INFO] Saving players
+2013-12-11 10:56:27 [SERVER] [INFO] Player781 left the game
+2013-12-11 10:56:27 [SERVER] [INFO] Saving worlds
+2013-12-11 10:56:27 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 10:56:27 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 10:56:27 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:34:41 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 11:34:41 [SERVER] [INFO] Generating keypair
+2013-12-11 11:34:42 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 11:34:43 [SERVER] [INFO] Preparing spawn area: 20%
+2013-12-11 11:34:44 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-11 11:34:45 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-11 11:34:46 [SERVER] [INFO] Player953[/127.0.0.1:0] logged in with entity id 59 at (-1182.0593634819065, 5.0, -323.5753648870065)
+2013-12-11 11:34:46 [SERVER] [INFO] Player953 joined the game
+2013-12-11 11:35:00 [SERVER] [INFO] [Player953: Set own game mode to Creative Mode]
+2013-12-11 11:35:09 [SERVER] [INFO] [Player953: Set own game mode to Survival Mode]
+2013-12-11 11:35:20 [SERVER] [INFO] [Player953: Game rule has been updated]
+2013-12-11 11:35:29 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 11:35:29 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:35:29 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:35:29 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:35:30 [SERVER] [INFO] Player953 lost connection: disconnect.quitting
+2013-12-11 11:35:30 [SERVER] [INFO] Player953 left the game
+2013-12-11 11:35:30 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-11 11:35:30 [SERVER] [INFO] Stopping server
+2013-12-11 11:35:30 [SERVER] [INFO] Saving players
+2013-12-11 11:35:30 [SERVER] [INFO] Saving worlds
+2013-12-11 11:35:30 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:35:30 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:35:30 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:44:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 11:44:18 [SERVER] [INFO] Generating keypair
+2013-12-11 11:44:20 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 11:44:21 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-11 11:44:22 [SERVER] [INFO] Preparing spawn area: 51%
+2013-12-11 11:44:23 [SERVER] [INFO] Preparing spawn area: 93%
+2013-12-11 11:44:23 [SERVER] [INFO] Player437[/127.0.0.1:0] logged in with entity id 59 at (-1195.354659463861, 5.790143980648378, -354.3862796301137)
+2013-12-11 11:44:23 [SERVER] [INFO] Player437 joined the game
+2013-12-11 11:44:25 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 11:44:25 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:44:26 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:44:26 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:44:50 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 11:44:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:44:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:44:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:44:59 [SERVER] [INFO] Saving and pausing game...
+2013-12-11 11:44:59 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:44:59 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:44:59 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:44:59 [SERVER] [INFO] Stopping server
+2013-12-11 11:44:59 [SERVER] [INFO] Saving players
+2013-12-11 11:44:59 [SERVER] [INFO] Player437 left the game
+2013-12-11 11:45:00 [SERVER] [INFO] Saving worlds
+2013-12-11 11:45:00 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:45:00 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:45:00 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-11 11:49:25 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-11 11:49:25 [SERVER] [INFO] Generating keypair
+2013-12-11 11:49:26 [SERVER] [INFO] Preparing start region for level 0
+2013-12-11 11:49:27 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-11 11:49:28 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-11 11:49:29 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-11 11:49:30 [SERVER] [INFO] Player953[/127.0.0.1:0] logged in with entity id 59 at (-1222.5878625780497, 13.10021936600331, -332.7843617663854)
+2013-12-11 11:49:30 [SERVER] [INFO] Player953 joined the game
+2013-12-11 11:49:33 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-11 11:49:44 [SERVER] [INFO] Stopping server
+2013-12-11 11:49:44 [SERVER] [INFO] Saving players
+2013-12-11 11:49:44 [SERVER] [INFO] Player953 left the game
+2013-12-11 11:49:44 [SERVER] [INFO] Saving worlds
+2013-12-11 11:49:44 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-11 11:49:44 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-11 11:49:44 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-12 11:55:01 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-12 11:55:01 [SERVER] [INFO] Generating keypair
+2013-12-12 11:55:03 [SERVER] [INFO] Preparing start region for level 0
+2013-12-12 11:55:04 [SERVER] [INFO] Preparing spawn area: 3%
+2013-12-12 11:55:05 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-12 11:55:06 [SERVER] [INFO] Preparing spawn area: 25%
+2013-12-12 11:55:07 [SERVER] [INFO] Preparing spawn area: 36%
+2013-12-12 11:55:08 [SERVER] [INFO] Preparing spawn area: 69%
+2013-12-12 11:55:10 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-12 11:55:11 [SERVER] [INFO] Player843[/127.0.0.1:0] logged in with entity id 60 at (-1221.1147546197515, 14.654731763512565, -329.5914849031969)
+2013-12-12 11:55:12 [SERVER] [INFO] Player843 joined the game
+2013-12-12 11:55:13 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-12 11:55:15 [SERVER] [INFO] Saving and pausing game...
+2013-12-12 11:55:15 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-12 11:55:15 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-12 11:55:15 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-12 11:55:31 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.NullPointerException
+	at net.minecraft.item.ItemStack.damageItem(ItemStack.java:361)
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:64)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:28)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-12 11:55:31 [SERVER] [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-12-12_11.55.31-server.txt
+2013-12-12 11:55:31 [SERVER] [INFO] Stopping server
+2013-12-12 11:55:31 [SERVER] [INFO] Saving players
+2013-12-12 11:55:31 [SERVER] [INFO] Player843 left the game
+2013-12-12 11:55:32 [SERVER] [INFO] Saving worlds
+2013-12-12 11:55:32 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-12 11:55:32 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-12 11:55:33 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:45:58 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 10:45:58 [SERVER] [INFO] Generating keypair
+2013-12-13 10:45:59 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 10:46:00 [SERVER] [INFO] Preparing spawn area: 26%
+2013-12-13 10:46:01 [SERVER] [INFO] Preparing spawn area: 74%
+2013-12-13 10:46:02 [SERVER] [INFO] Player390[/127.0.0.1:0] logged in with entity id 386 at (-1213.4896665585588, 5.001335979112147, -326.93914930492684)
+2013-12-13 10:46:02 [SERVER] [INFO] Player390 joined the game
+2013-12-13 10:46:08 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.NullPointerException
+	at net.minecraft.item.ItemStack.damageItem(ItemStack.java:361)
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:64)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:28)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-13 10:46:08 [SERVER] [SEVERE] This crash report has been saved to: C:\Users\perry\Desktop\forge\mcp\jars\.\crash-reports\crash-2013-12-13_10.46.08-server.txt
+2013-12-13 10:46:08 [SERVER] [INFO] Stopping server
+2013-12-13 10:46:08 [SERVER] [INFO] Saving players
+2013-12-13 10:46:08 [SERVER] [INFO] Player390 left the game
+2013-12-13 10:46:08 [SERVER] [INFO] Saving worlds
+2013-12-13 10:46:08 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:46:09 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:46:09 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:49:40 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 10:49:40 [SERVER] [INFO] Generating keypair
+2013-12-13 10:49:41 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 10:49:42 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-13 10:49:43 [SERVER] [INFO] Preparing spawn area: 58%
+2013-12-13 10:49:44 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-13 10:49:45 [SERVER] [INFO] Player906[/127.0.0.1:0] logged in with entity id 59 at (-1213.4896665585588, 5.001335979112147, -326.93914930492684)
+2013-12-13 10:49:45 [SERVER] [INFO] Player906 joined the game
+2013-12-13 10:49:48 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:50:49 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 10:50:49 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:50:49 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:50:49 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:50:50 [SERVER] [INFO] Player906 lost connection: disconnect.quitting
+2013-12-13 10:50:50 [SERVER] [INFO] Player906 left the game
+2013-12-13 10:50:50 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-13 10:50:50 [SERVER] [INFO] Stopping server
+2013-12-13 10:50:50 [SERVER] [INFO] Saving players
+2013-12-13 10:50:50 [SERVER] [INFO] Saving worlds
+2013-12-13 10:50:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:50:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:50:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:52:18 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 10:52:18 [SERVER] [INFO] Generating keypair
+2013-12-13 10:52:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 10:52:20 [SERVER] [INFO] Preparing spawn area: 21%
+2013-12-13 10:52:21 [SERVER] [INFO] Preparing spawn area: 56%
+2013-12-13 10:52:22 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-13 10:52:23 [SERVER] [INFO] Player609[/127.0.0.1:0] logged in with entity id 55 at (-1261.5739713649286, 4.0, -326.57030534910405)
+2013-12-13 10:52:23 [SERVER] [INFO] Player609 joined the game
+2013-12-13 10:52:27 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 10:52:55 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 10:52:55 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:52:55 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:52:55 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:52:55 [SERVER] [INFO] Player609 lost connection: disconnect.quitting
+2013-12-13 10:52:55 [SERVER] [INFO] Player609 left the game
+2013-12-13 10:52:55 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-12-13 10:52:55 [SERVER] [INFO] Stopping server
+2013-12-13 10:52:55 [SERVER] [INFO] Saving players
+2013-12-13 10:52:55 [SERVER] [INFO] Saving worlds
+2013-12-13 10:52:55 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:52:56 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:52:56 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:54:15 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 10:54:15 [SERVER] [INFO] Generating keypair
+2013-12-13 10:54:16 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 10:54:17 [SERVER] [INFO] Preparing spawn area: 22%
+2013-12-13 10:54:18 [SERVER] [INFO] Preparing spawn area: 59%
+2013-12-13 10:54:19 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-13 10:54:20 [SERVER] [INFO] Player531[/127.0.0.1:0] logged in with entity id 55 at (-1282.0916506201568, 4.0, -326.5955706953107)
+2013-12-13 10:54:20 [SERVER] [INFO] Player531 joined the game
+2013-12-13 10:54:21 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 10:54:21 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 10:54:21 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 10:54:21 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 10:54:49 [SERVER] [INFO] [Player531: Set own game mode to Creative Mode]
+2013-12-13 10:55:37 [SERVER] [INFO] [Player531: Set own game mode to Survival Mode]
+2013-12-13 10:55:49 [SERVER] [INFO] [Player531: Toggled downfall]
+2013-12-13 10:57:28 [SERVER] [INFO] [Player531: Set own game mode to Creative Mode]
+2013-12-13 11:00:49 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:00:49 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:00:49 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:00:49 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:00:50 [SERVER] [INFO] Stopping server
+2013-12-13 11:00:50 [SERVER] [INFO] Saving players
+2013-12-13 11:00:50 [SERVER] [INFO] Player531 left the game
+2013-12-13 11:00:50 [SERVER] [INFO] Saving worlds
+2013-12-13 11:00:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:00:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:00:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:15:49 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 11:15:49 [SERVER] [INFO] Generating keypair
+2013-12-13 11:15:50 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 11:15:51 [SERVER] [INFO] Preparing spawn area: 18%
+2013-12-13 11:15:52 [SERVER] [INFO] Preparing spawn area: 65%
+2013-12-13 11:15:53 [SERVER] [INFO] Preparing spawn area: 98%
+2013-12-13 11:15:54 [SERVER] [INFO] Player359[/127.0.0.1:0] logged in with entity id 43 at (-1184.699999988079, 4.0, -322.4706826111826)
+2013-12-13 11:15:54 [SERVER] [INFO] Player359 joined the game
+2013-12-13 11:15:58 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 11:16:15 [SERVER] [INFO] [Player359: Set own game mode to Creative Mode]
+2013-12-13 11:16:17 [SERVER] [INFO] [Player359: Set own game mode to Survival Mode]
+2013-12-13 11:20:25 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:20:25 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:20:25 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:20:25 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:20:31 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:20:31 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:20:31 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:20:31 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:21:08 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:21:08 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:21:08 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:21:08 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:21:12 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:21:12 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:21:12 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:21:12 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:21:13 [SERVER] [INFO] Stopping server
+2013-12-13 11:21:13 [SERVER] [INFO] Saving players
+2013-12-13 11:21:13 [SERVER] [INFO] Player359 left the game
+2013-12-13 11:21:13 [SERVER] [INFO] Saving worlds
+2013-12-13 11:21:13 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:21:13 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:21:13 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:33:01 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 11:33:01 [SERVER] [INFO] Generating keypair
+2013-12-13 11:33:02 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 11:33:03 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-13 11:33:04 [SERVER] [INFO] Preparing spawn area: 54%
+2013-12-13 11:33:05 [SERVER] [INFO] Preparing spawn area: 95%
+2013-12-13 11:33:06 [SERVER] [INFO] Player140[/127.0.0.1:0] logged in with entity id 52 at (-1189.8607871107006, 5.0, -325.1331820253551)
+2013-12-13 11:33:06 [SERVER] [INFO] Player140 joined the game
+2013-12-13 11:33:11 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 11:33:20 [SERVER] [INFO] [Player140: Set own game mode to Creative Mode]
+2013-12-13 11:33:30 [SERVER] [INFO] [Player140: Set own game mode to Survival Mode]
+2013-12-13 11:34:34 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:34:34 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:34:34 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:34:34 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:34:35 [SERVER] [INFO] Stopping server
+2013-12-13 11:34:35 [SERVER] [INFO] Saving players
+2013-12-13 11:34:35 [SERVER] [INFO] Player140 left the game
+2013-12-13 11:34:35 [SERVER] [INFO] Saving worlds
+2013-12-13 11:34:35 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:34:35 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:34:35 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:44:07 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 11:44:07 [SERVER] [INFO] Generating keypair
+2013-12-13 11:44:09 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 11:44:10 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-13 11:44:11 [SERVER] [INFO] Preparing spawn area: 56%
+2013-12-13 11:44:12 [SERVER] [INFO] Preparing spawn area: 93%
+2013-12-13 11:44:13 [SERVER] [INFO] Player906[/127.0.0.1:0] logged in with entity id 58 at (-1185.01428632454, 4.0, -324.623279601243)
+2013-12-13 11:44:13 [SERVER] [INFO] Player906 joined the game
+2013-12-13 11:44:15 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:44:15 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:44:15 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:44:15 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:44:15 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 11:46:02 [SERVER] [INFO] [Player906: Set the time to 0]
+2013-12-13 11:46:22 [SERVER] [INFO] [Player906: Set own game mode to Creative Mode]
+2013-12-13 11:55:39 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 11:55:39 [SERVER] [INFO] Generating keypair
+2013-12-13 11:55:40 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 11:55:41 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-13 11:55:42 [SERVER] [INFO] Preparing spawn area: 56%
+2013-12-13 11:55:43 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-13 11:55:44 [SERVER] [INFO] Player265[/127.0.0.1:0] logged in with entity id 55 at (-1187.8527111724616, 4.0, -324.09936512427385)
+2013-12-13 11:55:44 [SERVER] [INFO] Player265 joined the game
+2013-12-13 11:55:46 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 11:56:05 [SERVER] [INFO] [Player265: Set own game mode to Survival Mode]
+2013-12-13 11:56:43 [SERVER] [INFO] [Player265: Set own game mode to Creative Mode]
+2013-12-13 11:56:50 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:56:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:56:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:56:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:56:56 [SERVER] [INFO] [Player265: Set the time to 12500]
+2013-12-13 11:57:09 [SERVER] [INFO] [Player265: Set own game mode to Survival Mode]
+2013-12-13 11:59:48 [SERVER] [INFO] Saving and pausing game...
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 11:59:48 [SERVER] [INFO] Stopping server
+2013-12-13 11:59:48 [SERVER] [INFO] Saving players
+2013-12-13 11:59:48 [SERVER] [INFO] Player265 left the game
+2013-12-13 11:59:48 [SERVER] [INFO] Saving worlds
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-13 11:59:48 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-13 14:49:17 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-13 14:49:17 [SERVER] [INFO] Generating keypair
+2013-12-13 14:49:19 [SERVER] [INFO] Preparing start region for level 0
+2013-12-13 14:49:20 [SERVER] [INFO] Preparing spawn area: 8%
+2013-12-13 14:49:21 [SERVER] [INFO] Preparing spawn area: 29%
+2013-12-13 14:49:22 [SERVER] [INFO] Preparing spawn area: 53%
+2013-12-13 14:49:23 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-13 14:49:25 [SERVER] [INFO] Player218[/127.0.0.1:0] logged in with entity id 154 at (-1179.829126277547, 4.0, -328.88879964652745)
+2013-12-13 14:49:25 [SERVER] [INFO] Player218 joined the game
+2013-12-13 14:49:29 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:50:09 [SERVER] [INFO] [Player218: Set own game mode to Creative Mode]
+2013-12-13 14:50:34 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:51:14 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:51:21 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:52:41 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:52:48 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:53:07 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:53:19 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-13 14:53:57 [SERVER] [INFO] Stopping server
+2013-12-16 11:50:50 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-16 11:50:50 [SERVER] [INFO] Generating keypair
+2013-12-16 11:50:51 [SERVER] [INFO] Preparing start region for level 0
+2013-12-16 11:50:52 [SERVER] [INFO] Preparing spawn area: 83%
+2013-12-16 11:50:52 [SERVER] [INFO] Player781[/127.0.0.1:0] logged in with entity id 155 at (-1167.0633442061674, 4.0, -319.85486991836194)
+2013-12-16 11:50:52 [SERVER] [INFO] Player781 joined the game
+2013-12-16 11:50:53 [SERVER] [INFO] Saving and pausing game...
+2013-12-16 11:50:53 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-16 11:50:54 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-16 11:50:54 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-16 11:52:40 [SERVER] [INFO] [Player781: Set own game mode to Survival Mode]
+2013-12-16 11:53:21 [SERVER] [INFO] [Player781: Set the time to 0]
+2013-12-16 11:53:45 [SERVER] [INFO] Saving and pausing game...
+2013-12-16 11:53:45 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-16 11:53:45 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-16 11:53:45 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-16 11:53:46 [SERVER] [INFO] Saving and pausing game...
+2013-12-16 11:53:46 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-16 11:53:46 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-16 11:53:46 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-16 11:53:50 [SERVER] [INFO] Saving and pausing game...
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-16 11:53:50 [SERVER] [INFO] Stopping server
+2013-12-16 11:53:50 [SERVER] [INFO] Saving players
+2013-12-16 11:53:50 [SERVER] [INFO] Player781 left the game
+2013-12-16 11:53:50 [SERVER] [INFO] Saving worlds
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-16 11:53:50 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-18 10:27:32 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-18 10:27:32 [SERVER] [INFO] Generating keypair
+2013-12-18 10:27:33 [SERVER] [INFO] Preparing start region for level 0
+2013-12-18 10:27:34 [SERVER] [INFO] Preparing spawn area: 94%
+2013-12-18 10:27:34 [SERVER] [INFO] Player376[/127.0.0.1:0] logged in with entity id 58 at (-1194.8682435976914, 4.0, -327.4705732014468)
+2013-12-18 10:27:34 [SERVER] [INFO] Player376 joined the game
+2013-12-18 10:28:09 [SERVER] [INFO] [Player376: Set own game mode to Creative Mode]
+2013-12-18 10:28:33 [SERVER] [INFO] [Player376: Set own game mode to Survival Mode]
+2013-12-18 10:28:58 [SERVER] [INFO] Saving and pausing game...
+2013-12-18 10:28:58 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-18 10:28:58 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-18 10:28:58 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-18 10:28:59 [SERVER] [INFO] Stopping server
+2013-12-18 10:28:59 [SERVER] [INFO] Saving players
+2013-12-18 10:28:59 [SERVER] [INFO] Player376 left the game
+2013-12-18 10:28:59 [SERVER] [INFO] Saving worlds
+2013-12-18 10:28:59 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-18 10:28:59 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-18 10:28:59 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-18 11:10:28 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-18 11:10:28 [SERVER] [INFO] Generating keypair
+2013-12-18 11:10:29 [SERVER] [INFO] Preparing start region for level 0
+2013-12-18 11:10:30 [SERVER] [INFO] Preparing spawn area: 17%
+2013-12-18 11:10:31 [SERVER] [INFO] Preparing spawn area: 54%
+2013-12-18 11:10:32 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-18 11:10:33 [SERVER] [INFO] Player333[/127.0.0.1:0] logged in with entity id 53 at (-1194.8682435976914, 18.47015576614769, -327.4705732014468)
+2013-12-18 11:10:33 [SERVER] [INFO] Player333 joined the game
+2013-12-18 11:10:35 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-18 11:11:38 [SERVER] [INFO] [Player333: Set own game mode to Creative Mode]
+2013-12-18 11:11:54 [SERVER] [INFO] Stopping server
+2013-12-18 11:11:54 [SERVER] [INFO] Saving players
+2013-12-18 11:11:54 [SERVER] [INFO] Player333 left the game
+2013-12-18 11:11:54 [SERVER] [INFO] Saving worlds
+2013-12-18 11:11:54 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-18 11:11:54 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-18 11:11:54 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-18 11:11:55 [SERVER] [INFO] Stopping server
+2013-12-18 16:45:58 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-18 16:45:58 [SERVER] [INFO] Generating keypair
+2013-12-18 16:45:59 [SERVER] [INFO] Preparing start region for level 0
+2013-12-18 16:46:00 [SERVER] [INFO] Preparing spawn area: 15%
+2013-12-18 16:46:01 [SERVER] [INFO] Preparing spawn area: 42%
+2013-12-18 16:46:02 [SERVER] [INFO] Preparing spawn area: 87%
+2013-12-18 16:46:03 [SERVER] [INFO] Player375[/127.0.0.1:0] logged in with entity id 53 at (-1186.9971179037136, 4.0, -321.4511840449848)
+2013-12-18 16:46:03 [SERVER] [INFO] Player375 joined the game
+2013-12-18 16:46:09 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-19 06:52:47 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-19 12:06:00 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-19 12:06:19 [SERVER] [INFO] Stopping server
+2013-12-19 12:06:19 [SERVER] [INFO] Saving players
+2013-12-19 12:06:19 [SERVER] [INFO] Player375 left the game
+2013-12-19 12:06:19 [SERVER] [INFO] Saving worlds
+2013-12-19 12:06:19 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-19 12:06:19 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-19 12:06:19 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-19 12:06:19 [SERVER] [INFO] Stopping server
+2013-12-20 13:42:04 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-20 13:42:04 [SERVER] [INFO] Generating keypair
+2013-12-20 13:42:05 [SERVER] [INFO] Preparing start region for level 0
+2013-12-20 13:42:06 [SERVER] [INFO] Preparing spawn area: 16%
+2013-12-20 13:42:07 [SERVER] [INFO] Preparing spawn area: 51%
+2013-12-20 13:42:08 [SERVER] [INFO] Preparing spawn area: 96%
+2013-12-20 13:42:09 [SERVER] [INFO] Player578[/127.0.0.1:0] logged in with entity id 53 at (-1186.9971179037136, 4.0, -321.4511840449848)
+2013-12-20 13:42:09 [SERVER] [INFO] Player578 joined the game
+2013-12-20 13:42:14 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 13:43:29 [SERVER] [INFO] Stopping server
+2013-12-20 13:43:29 [SERVER] [INFO] Saving players
+2013-12-20 13:43:29 [SERVER] [INFO] Player578 left the game
+2013-12-20 13:43:29 [SERVER] [INFO] Saving worlds
+2013-12-20 13:43:29 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 13:43:29 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 13:43:29 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 13:43:29 [SERVER] [INFO] Stopping server
+2013-12-20 15:50:32 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-20 15:50:32 [SERVER] [INFO] Generating keypair
+2013-12-20 15:50:32 [SERVER] [INFO] Preparing start region for level 0
+2013-12-20 15:50:33 [SERVER] [INFO] Player890[/127.0.0.1:0] logged in with entity id 53 at (-1180.356801591156, 5.739016774653562, -319.11399267566446)
+2013-12-20 15:50:33 [SERVER] [INFO] Player890 joined the game
+2013-12-20 15:50:43 [SERVER] [INFO] Saving and pausing game...
+2013-12-20 15:50:43 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 15:50:43 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 15:50:43 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 15:50:46 [SERVER] [INFO] Stopping server
+2013-12-20 15:50:46 [SERVER] [INFO] Saving players
+2013-12-20 15:50:46 [SERVER] [INFO] Player890 left the game
+2013-12-20 15:50:46 [SERVER] [INFO] Saving worlds
+2013-12-20 15:50:46 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 15:50:46 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 15:50:46 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 15:50:46 [SERVER] [INFO] Stopping server
+2013-12-20 15:52:54 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-20 15:52:54 [SERVER] [INFO] Generating keypair
+2013-12-20 15:52:55 [SERVER] [INFO] Preparing start region for level 0
+2013-12-20 15:52:56 [SERVER] [INFO] Player421[/127.0.0.1:0] logged in with entity id 54 at (-1180.356801591156, 5.739016774653562, -319.11399267566446)
+2013-12-20 15:52:56 [SERVER] [INFO] Player421 joined the game
+2013-12-20 15:53:14 [SERVER] [INFO] Saving and pausing game...
+2013-12-20 15:53:14 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 15:53:14 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 15:53:14 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 15:54:02 [SERVER] [INFO] Saving and pausing game...
+2013-12-20 15:54:02 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 15:54:02 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 15:54:02 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 15:54:03 [SERVER] [INFO] Stopping server
+2013-12-20 15:54:03 [SERVER] [INFO] Saving players
+2013-12-20 15:54:03 [SERVER] [INFO] Player421 left the game
+2013-12-20 15:54:03 [SERVER] [INFO] Saving worlds
+2013-12-20 15:54:03 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-20 15:54:04 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-20 15:54:04 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-20 15:54:04 [SERVER] [INFO] Stopping server
+2013-12-20 15:54:28 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-20 15:54:28 [SERVER] [INFO] Generating keypair
+2013-12-20 15:54:29 [SERVER] [INFO] Preparing start region for level 0
+2013-12-20 15:54:30 [SERVER] [INFO] Player281[/127.0.0.1:0] logged in with entity id 54 at (-1180.356801591156, 5.739016774653562, -319.11399267566446)
+2013-12-20 15:54:30 [SERVER] [INFO] Player281 joined the game
+2013-12-20 18:35:23 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-12-20 19:00:54 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?

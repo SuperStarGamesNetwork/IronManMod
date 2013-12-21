@@ -12,7 +12,7 @@ public class ItemTitaniumLeggings extends ItemArmor{
 		// TODO Auto-generated constructor stub
 	}
 	public void registerIcons(IconRegister par1iconRegister) {
-		itemIcon = par1iconRegister.registerIcon("IronManMod:IronManLeggings");
+		itemIcon = par1iconRegister.registerIcon("IronManMod:Titanium Leggings");
 		
 	}
 }

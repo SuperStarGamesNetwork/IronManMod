@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="net.minecraftforge.event.IEventListener"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
-<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.network.NetworkMod"/>
 <fullyQualifiedTypeName name="net.minecraftforge.common.Configuration"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPreInitializationEvent"/>
@@ -12,6 +10,18 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.PostInit"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPostInitializationEvent"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.Init"/>
-<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.LanguageRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.block.material.Material"/>
+<fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemArmor"/>
+<fullyQualifiedTypeName name="perry.mods.IronManMod.Item.ItemIronManArmorBase"/>
 <fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="net.minecraft.item.ItemStack"/>
+<fullyQualifiedTypeName name="perry.mods.IronManMod.common.IronManMod"/>
+<fullyQualifiedTypeName name="perry.mods.IronManMod.armor.IronManArmor"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.texture.IconRegister"/>
 </qualifiedTypeNameHistroy>

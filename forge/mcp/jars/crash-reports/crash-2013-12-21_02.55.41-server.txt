@@ -1,0 +1,90 @@
+---- Minecraft Crash Report ----
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 12/21/13 2:55 AM
+Description: Ticking player
+
+java.lang.Error: Unresolved compilation problem: 
+	ItemIronManBoots cannot be resolved to a type
+
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:57)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:27)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:57)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:27)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+
+-- Player being ticked --
+Details:
+	Entity Type: null (net.minecraft.entity.player.EntityPlayerMP)
+	Entity ID: 59
+	Entity Name: Player249
+	Entity's Exact location: -1224.06, 8.03, -316.68
+	Entity's Block location: World: (-1225,8,-317), Chunk: (at 7,0,3 in -77,-20; contains blocks -1232,0,-320 to -1217,255,-305), Region: (-3,-1; contains chunks -96,-32 to -65,-1, blocks -1536,0,-512 to -1025,255,-1)
+	Entity's Momentum: 0.00, 0.00, 0.00
+Stacktrace:
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+
+-- Ticking connection --
+Details:
+	Connection: net.minecraft.network.NetServerHandler@276fcbc0
+Stacktrace:
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Mac OS X (x86_64) version 10.9
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 886692664 bytes (845 MB) / 1060372480 bytes (1011 MB) up to 1060372480 bytes (1011 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 960 (53760 bytes; 0 MB) allocated, 913 (51128 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v8.11 FML v6.4.45.953 Minecraft Forge 9.11.1.953 5 mods loaded, 5 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	FML{6.4.45.953} [Forge Mod Loader] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Forge{9.11.1.953} [Minecraft Forge] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Iron Man Mod{1.6.4_2 beta} [Iron Man Mod] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	TestMod{1.6.4_2 beta} [Test Mod] (bin) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available->Available
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 96 (5376 bytes; 0 MB) allocated, 94 (5264 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['Player249'/59, l='new test', x=-1224.06, y=8.03, z=-316.68]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'

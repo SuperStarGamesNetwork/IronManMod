@@ -1555,3 +1555,148 @@ Caused by: java.lang.NullPointerException
 2013-12-21 01:07:34 [SERVER] [INFO] Preparing start region for level 0
 2013-12-21 01:07:35 [SERVER] [INFO] Player685[/127.0.0.1:0] logged in with entity id 50 at (-1197.581935713801, 5.0, -318.00751938119106)
 2013-12-21 01:07:35 [SERVER] [INFO] Player685 joined the game
+2013-12-21 02:55:38 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 02:55:38 [SERVER] [INFO] Generating keypair
+2013-12-21 02:55:40 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 02:55:41 [SERVER] [INFO] Player249[/127.0.0.1:0] logged in with entity id 59 at (-1224.0607974234285, 8.028892137923702, -316.6782517359078)
+2013-12-21 02:55:41 [SERVER] [INFO] Player249 joined the game
+2013-12-21 02:55:41 [SERVER] [SEVERE] Encountered an unexpected exception ReportedException
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:63)
+	at net.minecraft.server.integrated.IntegratedServerListenThread.networkTick(IntegratedServerListenThread.java:109)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:691)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:587)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:129)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.Error: Unresolved compilation problem: 
+	ItemIronManBoots cannot be resolved to a type
+
+	at perry.mods.IronManMod.common.PlayerTickHandler.playerTick(PlayerTickHandler.java:57)
+	at perry.mods.IronManMod.common.PlayerTickHandler.tickStart(PlayerTickHandler.java:27)
+	at cpw.mods.fml.common.SingleIntervalHandler.tickStart(SingleIntervalHandler.java:28)
+	at cpw.mods.fml.common.FMLCommonHandler.tickStart(FMLCommonHandler.java:122)
+	at cpw.mods.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:383)
+	at net.minecraft.entity.player.EntityPlayer.onUpdate(EntityPlayer.java:282)
+	at net.minecraft.entity.player.EntityPlayerMP.onUpdateEntity(EntityPlayerMP.java:328)
+	at net.minecraft.network.NetServerHandler.handleFlying(NetServerHandler.java:304)
+	at net.minecraft.network.packet.Packet10Flying.processPacket(Packet10Flying.java:51)
+	at net.minecraft.network.MemoryConnection.processReadPackets(MemoryConnection.java:89)
+	at net.minecraft.network.NetServerHandler.networkTick(NetServerHandler.java:141)
+	at net.minecraft.network.NetworkListenThread.networkTick(NetworkListenThread.java:54)
+	... 6 more
+2013-12-21 02:55:41 [SERVER] [SEVERE] This crash report has been saved to: /Users/Perry/IronManMod/forge/mcp/jars/./crash-reports/crash-2013-12-21_02.55.41-server.txt
+2013-12-21 02:55:41 [SERVER] [INFO] Stopping server
+2013-12-21 02:55:41 [SERVER] [INFO] Saving players
+2013-12-21 02:55:41 [SERVER] [INFO] Player249 left the game
+2013-12-21 02:55:41 [SERVER] [INFO] Saving worlds
+2013-12-21 02:55:41 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 02:55:41 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 02:55:41 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 02:55:41 [SERVER] [INFO] Stopping server
+2013-12-21 02:56:52 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 02:56:52 [SERVER] [INFO] Generating keypair
+2013-12-21 02:56:53 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 02:56:54 [SERVER] [INFO] Player33[/127.0.0.1:0] logged in with entity id 59 at (-1224.0607974234285, 8.028892137923702, -316.6782517359078)
+2013-12-21 02:56:54 [SERVER] [INFO] Player33 joined the game
+2013-12-21 02:57:00 [SERVER] [INFO] [Player33: Set own game mode to Survival Mode]
+2013-12-21 02:57:44 [SERVER] [INFO] [Player33: Toggled downfall]
+2013-12-21 02:57:45 [SERVER] [INFO] [Player33: Toggled downfall]
+2013-12-21 02:57:45 [SERVER] [INFO] [Player33: Toggled downfall]
+2013-12-21 02:57:57 [SERVER] [INFO] Stopping server
+2013-12-21 02:57:57 [SERVER] [INFO] Saving players
+2013-12-21 02:57:57 [SERVER] [INFO] Player33 left the game
+2013-12-21 02:57:57 [SERVER] [INFO] Saving worlds
+2013-12-21 02:57:57 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 02:57:57 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 02:57:57 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 02:57:57 [SERVER] [INFO] Stopping server
+2013-12-21 03:01:27 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:01:27 [SERVER] [INFO] Generating keypair
+2013-12-21 03:01:27 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:01:28 [SERVER] [INFO] Player701[/127.0.0.1:0] logged in with entity id 58 at (-1224.0607974234285, 26.39437350974677, -316.6782517359078)
+2013-12-21 03:01:28 [SERVER] [INFO] Player701 joined the game
+2013-12-21 03:01:41 [SERVER] [INFO] Saving and pausing game...
+2013-12-21 03:01:41 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:01:41 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:01:41 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:01:43 [SERVER] [INFO] Stopping server
+2013-12-21 03:01:43 [SERVER] [INFO] Saving players
+2013-12-21 03:01:43 [SERVER] [INFO] Player701 left the game
+2013-12-21 03:01:43 [SERVER] [INFO] Saving worlds
+2013-12-21 03:01:43 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:01:43 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:01:43 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:01:43 [SERVER] [INFO] Stopping server
+2013-12-21 03:08:46 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:08:46 [SERVER] [INFO] Generating keypair
+2013-12-21 03:08:46 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:08:47 [SERVER] [INFO] Player578[/127.0.0.1:0] logged in with entity id 51 at (-1225.166132127876, 4.0, -316.2773044792046)
+2013-12-21 03:08:47 [SERVER] [INFO] Player578 joined the game
+2013-12-21 03:10:45 [SERVER] [INFO] Stopping server
+2013-12-21 03:10:45 [SERVER] [INFO] Saving players
+2013-12-21 03:10:45 [SERVER] [INFO] Player578 left the game
+2013-12-21 03:10:45 [SERVER] [INFO] Saving worlds
+2013-12-21 03:10:45 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:10:45 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:10:45 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:10:45 [SERVER] [INFO] Stopping server
+2013-12-21 03:11:04 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:11:04 [SERVER] [INFO] Generating keypair
+2013-12-21 03:11:05 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:11:05 [SERVER] [INFO] Player611[/127.0.0.1:0] logged in with entity id 49 at (-1213.6358662828402, 4.0, -316.1369046421406)
+2013-12-21 03:11:06 [SERVER] [INFO] Player611 joined the game
+2013-12-21 03:12:03 [SERVER] [INFO] Stopping server
+2013-12-21 03:12:03 [SERVER] [INFO] Saving players
+2013-12-21 03:12:03 [SERVER] [INFO] Player611 left the game
+2013-12-21 03:12:03 [SERVER] [INFO] Saving worlds
+2013-12-21 03:12:03 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:12:03 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:12:03 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:12:03 [SERVER] [INFO] Stopping server
+2013-12-21 03:13:37 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:13:37 [SERVER] [INFO] Generating keypair
+2013-12-21 03:13:37 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:13:38 [SERVER] [INFO] Player868[/127.0.0.1:0] logged in with entity id 49 at (-1213.6358662828402, 4.0, -316.1369046421406)
+2013-12-21 03:13:38 [SERVER] [INFO] Player868 joined the game
+2013-12-21 03:14:58 [SERVER] [INFO] Stopping server
+2013-12-21 03:14:58 [SERVER] [INFO] Saving players
+2013-12-21 03:14:58 [SERVER] [INFO] Player868 left the game
+2013-12-21 03:14:58 [SERVER] [INFO] Saving worlds
+2013-12-21 03:14:58 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:14:58 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:14:58 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:14:58 [SERVER] [INFO] Stopping server
+2013-12-21 03:15:12 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:15:12 [SERVER] [INFO] Generating keypair
+2013-12-21 03:15:12 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:15:13 [SERVER] [INFO] Player357[/127.0.0.1:0] logged in with entity id 49 at (-1213.6358662828402, 4.0, -316.1369046421406)
+2013-12-21 03:15:13 [SERVER] [INFO] Player357 joined the game
+2013-12-21 03:15:42 [SERVER] [INFO] Stopping server
+2013-12-21 03:15:55 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:15:55 [SERVER] [INFO] Generating keypair
+2013-12-21 03:15:55 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:15:56 [SERVER] [INFO] Player304[/127.0.0.1:0] logged in with entity id 49 at (-1213.6358662828402, 4.0, -316.1369046421406)
+2013-12-21 03:15:56 [SERVER] [INFO] Player304 joined the game
+2013-12-21 03:18:36 [SERVER] [INFO] Stopping server
+2013-12-21 03:18:36 [SERVER] [INFO] Saving players
+2013-12-21 03:18:36 [SERVER] [INFO] Player304 left the game
+2013-12-21 03:18:36 [SERVER] [INFO] Saving worlds
+2013-12-21 03:18:36 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:18:36 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:18:36 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 03:19:48 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 03:19:48 [SERVER] [INFO] Generating keypair
+2013-12-21 03:19:49 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 03:19:49 [SERVER] [INFO] Player281[/127.0.0.1:0] logged in with entity id 37 at (-1215.7122116304713, 4.0, -287.5993933181156)
+2013-12-21 03:19:49 [SERVER] [INFO] Player281 joined the game
+2013-12-21 03:21:19 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 03:22:04 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 03:22:17 [SERVER] [INFO] Stopping server
+2013-12-21 03:22:17 [SERVER] [INFO] Saving players
+2013-12-21 03:22:17 [SERVER] [INFO] Player281 left the game
+2013-12-21 03:22:17 [SERVER] [INFO] Saving worlds
+2013-12-21 03:22:17 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 03:22:17 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 03:22:17 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 03:22:17 [SERVER] [INFO] Saving chunks for level 'new test'/The End

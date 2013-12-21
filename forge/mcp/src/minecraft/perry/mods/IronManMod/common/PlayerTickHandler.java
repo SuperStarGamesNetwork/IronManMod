@@ -2,11 +2,13 @@ package perry.mods.IronManMod.common;
 
 
 import java.util.EnumSet;
+
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;
 import cpw.mods.fml.common.ITickHandler;
 import cpw.mods.fml.common.TickType;
 import perry.mods.IronManMod.Item.*;
+import perry.mods.IronManMod.armor.IronManArmor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
@@ -54,7 +56,7 @@ public class PlayerTickHandler implements ITickHandler
 		
 		if (player.inventory.armorInventory[0] != null)
 		{
-			if (player.inventory.armorInventory[0].getItem() instanceof ItemIronManBoots)
+			if (player.inventory.armorInventory[0].getItem() instanceof IronManArmor)
 			{
 				
 				player.capabilities.allowFlying = true;
@@ -62,7 +64,7 @@ public class PlayerTickHandler implements ITickHandler
 						
 					
 			}
-			else
+			else if (player.inventory.armorInventory[0] != null)
 			{
 				player.capabilities.isFlying = false;
 			}

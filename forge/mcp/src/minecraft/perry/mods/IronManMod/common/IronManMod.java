@@ -1,10 +1,7 @@
 package perry.mods.IronManMod.common;
 
+import perry.mods.IronManMod.armor.IronManArmor;
 import perry.mods.IronManMod.Item.ItemIronManArmorBase;
-import perry.mods.IronManMod.Item.ItemIronManBodyArmor;
-import perry.mods.IronManMod.Item.ItemIronManBoots;
-import perry.mods.IronManMod.Item.ItemIronManHelmit;
-import perry.mods.IronManMod.Item.ItemIronManLeggings;
 import perry.mods.IronManMod.Item.ItemPalladium;
 import perry.mods.IronManMod.Item.ItemPalladiumCore;
 import perry.mods.IronManMod.Item.ItemPowerCoreSocket;
@@ -107,7 +104,7 @@ public static CreativeTabs tabIronManMod = new CreativeTabs("tabCustom") {
 
 
 public static EnumArmorMaterial TitaniumArmor = EnumHelper.addArmorMaterial("Titanium", 33, new int[]{3, 8, 6, 3}, 10);
-public static EnumArmorMaterial IronManArmor = EnumHelper.addArmorMaterial("IronMan", 19800, new int[]{13, 18, 16, 13}, 0); 
+public static EnumArmorMaterial IronManArmor = EnumHelper.addArmorMaterial("IRONMAN", 19800, new int[]{13, 18, 16, 13}, 0); 
 public static EnumToolMaterial IronManTool = EnumHelper.addToolMaterial("IronMan", 3, 19800, 20.0F, 20.0F, 10);
 
 
@@ -126,14 +123,14 @@ public IronManMod() {
 	
 	Repulsor = new ItemRepulsor(1266, IronManTool).setUnlocalizedName("Repulsor").setCreativeTab(tabIronManMod);
 	TitaniumBlock = new BlockTitaniumBlock(1305, Material.iron).setUnlocalizedName("TitaniumBlock").setHardness(3.0F).setResistance(10.0F).setCreativeTab(tabIronManMod);
-	IronManHelmit = new ItemIronManHelmit(1265, IronManArmor, 0, 0).setUnlocalizedName("IronManHelmit").setCreativeTab(tabIronManMod);
-	TitaniumBooties = new ItemTitaniumBooties(1264, TitaniumArmor, 3).setUnlocalizedName("TitaniumBooties").setCreativeTab(tabIronManMod);
-	TitaniumLeggings = new ItemTitaniumLeggings(1263, TitaniumArmor, 2).setUnlocalizedName("TitaniumLeggings").setCreativeTab(tabIronManMod);
-	PowerCoreSocket = new ItemPowerCoreSocket(1262).setUnlocalizedName("PowerCoreSocket").setCreativeTab(tabIronManMod);
-	IronManLeggings = new ItemIronManLeggings(1261, IronManArmor, 0, 2).setUnlocalizedName("IronManLeggings").setCreativeTab(tabIronManMod);
-	IronManArmorBase = new ItemIronManArmorBase(1260).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
-	IronManBodyArmor = new ItemIronManBodyArmor(1259, IronManArmor, 0, 1).setUnlocalizedName("IronManBodyArmor").setCreativeTab(tabIronManMod);
-	IronManBoots = new ItemIronManBoots(1258, IronManArmor, 0, 3).setUnlocalizedName("IronManBoots").setCreativeTab(tabIronManMod);
+	TitaniumBooties = new ItemTitaniumBooties(1265, TitaniumArmor, 3).setUnlocalizedName("TitaniumBooties").setCreativeTab(tabIronManMod);
+	TitaniumLeggings = new ItemTitaniumLeggings(1264, TitaniumArmor, 2).setUnlocalizedName("TitaniumLeggings").setCreativeTab(tabIronManMod);
+	PowerCoreSocket = new ItemPowerCoreSocket(1263).setUnlocalizedName("PowerCoreSocket").setCreativeTab(tabIronManMod);
+	IronManArmorBase = new ItemIronManArmorBase(1262).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
+	IronManHelmit = new IronManArmor(1261, IronManArmor, 0, 0, "IronMan").setUnlocalizedName("IronManHelmit").setCreativeTab(tabIronManMod);
+	IronManBodyArmor = new IronManArmor(1260, IronManArmor, 0, 1, "IronMan").setUnlocalizedName("IronManBodyArmor").setCreativeTab(tabIronManMod);
+	IronManLeggings = new IronManArmor(1259, IronManArmor, 0, 2, "IronMan").setUnlocalizedName("IronManLeggings").setCreativeTab(tabIronManMod);
+	IronManBoots = new IronManArmor(1258, IronManArmor, 0, 3, "IronMan").setUnlocalizedName("IronManBoots").setCreativeTab(tabIronManMod);
 	TitaniumOre = new BlockTitaniumOre(1304, Material.rock).setUnlocalizedName("TitaniumOre").setHardness(3.0F).setResistance(10.0F).setCreativeTab(tabIronManMod);
 	PulseThrusters = new ItemPulseThrusters(1257).setUnlocalizedName("PulseThrusters").setCreativeTab(tabIronManMod);
 	PalladiumCore = new ItemPalladiumCore(1256).setUnlocalizedName("PalladiumCore").setCreativeTab(tabIronManMod);

@@ -2861,3 +2861,191 @@ java.io.FileNotFoundException: minecraft:textures/models/armor/IronMan_layer_2.p
 2013-12-20 15:54:13 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
 2013-12-20 15:54:13 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
 2013-12-20 15:54:13 [CLIENT] [SEVERE] Realms: Server not available!
+2013-12-20 23:29:47 [CLIENT] [INFO] Setting user: Player612
+2013-12-20 23:29:48 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-12-20 23:29:48 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-12-20 23:44:45 [CLIENT] [INFO] Setting user: Player466
+2013-12-20 23:44:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-12-20 23:44:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-12-20 23:44:50 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-20 23:44:50 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:50 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:50 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:50 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:50 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-20 23:44:50 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-20 23:44:50 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-20 23:44:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-20 23:44:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-20 23:44:51 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-20 23:44:52 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-12-20 23:49:48 [CLIENT] [INFO] [CHAT] Toggled downfall
+2013-12-20 23:50:49 [CLIENT] [INFO] [CHAT] The number you have entered (9) is too big, it must be at most 2
+2013-12-20 23:50:50 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:52:40 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:52:51 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2013-12-20 23:52:54 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2013-12-20 23:52:55 [CLIENT] [INFO] [CHAT] The number you have entered (9) is too big, it must be at most 2
+2013-12-20 23:52:57 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:52:59 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:53:01 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:53:03 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-20 23:53:46 [CLIENT] [INFO] [CHAT] Player466 fell from a high place
+2013-12-20 23:55:52 [CLIENT] [INFO] Stopping!
+2013-12-21 00:06:46 [CLIENT] [INFO] Setting user: Player505
+2013-12-21 00:06:47 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-12-21 00:06:47 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-12-21 00:06:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 00:06:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 00:06:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 00:06:51 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 00:06:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 00:06:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 00:06:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 00:06:53 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-12-21 00:14:11 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2013-12-21 00:14:12 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-12-21 00:52:43 [CLIENT] [INFO] Stopping!
+2013-12-21 00:59:24 [CLIENT] [INFO] Setting user: Player701
+2013-12-21 00:59:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-12-21 00:59:25 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-12-21 00:59:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 00:59:28 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:28 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:28 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:28 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 00:59:29 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 00:59:29 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:29 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:29 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:29 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 00:59:29 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 00:59:30 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 00:59:30 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 00:59:30 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 00:59:30 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 00:59:30 [CLIENT] [SEVERE] Realms: Invalid session id
+2013-12-21 00:59:51 [CLIENT] [INFO] Stopping!
+2013-12-21 01:00:09 [CLIENT] [INFO] Setting user: Player685
+2013-12-21 01:00:10 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2013-12-21 01:00:10 [CLIENT] [INFO] Reloading ResourceManager: Default
+2013-12-21 01:00:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 01:00:13 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:13 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:13 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:13 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 01:00:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 01:00:14 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:14 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:14 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:14 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBoots.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManBody.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/IronManLeggings.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 01:00:14 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 01:00:15 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 01:00:15 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 01:00:15 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 01:00:16 [CLIENT] [SEVERE] Realms: Invalid session id

@@ -1,6 +1,6 @@
 package perry.mods.IronManMod.common;
 
-import perry.mods.IronManMod.Item.ItemIronMamArmorBase;
+import perry.mods.IronManMod.Item.ItemIronManArmorBase;
 import perry.mods.IronManMod.Item.ItemIronManBodyArmor;
 import perry.mods.IronManMod.Item.ItemIronManBoots;
 import perry.mods.IronManMod.Item.ItemIronManHelmit;
@@ -131,7 +131,7 @@ public IronManMod() {
 	TitaniumLeggings = new ItemTitaniumLeggings(1263, TitaniumArmor, 2).setUnlocalizedName("TitaniumLeggings").setCreativeTab(tabIronManMod);
 	PowerCoreSocket = new ItemPowerCoreSocket(1262).setUnlocalizedName("PowerCoreSocket").setCreativeTab(tabIronManMod);
 	IronManLeggings = new ItemIronManLeggings(1261, IronManArmor, 0, 2).setUnlocalizedName("IronManLeggings").setCreativeTab(tabIronManMod);
-	IronManArmorBase = new ItemIronMamArmorBase(1260).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
+	IronManArmorBase = new ItemIronManArmorBase(1260).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
 	IronManBodyArmor = new ItemIronManBodyArmor(1259, IronManArmor, 0, 1).setUnlocalizedName("IronManBodyArmor").setCreativeTab(tabIronManMod);
 	IronManBoots = new ItemIronManBoots(1258, IronManArmor, 0, 3).setUnlocalizedName("IronManBoots").setCreativeTab(tabIronManMod);
 	TitaniumOre = new BlockTitaniumOre(1304, Material.rock).setUnlocalizedName("TitaniumOre").setHardness(3.0F).setResistance(10.0F).setCreativeTab(tabIronManMod);
@@ -154,7 +154,7 @@ public IronManMod() {
 	
 	
 
- 
+   
 	
 GameRegistry.registerBlock(VibraniumBlock, "Vibranium Block");
 GameRegistry.registerBlock(TitaniumOre, "Titanium Ore");	

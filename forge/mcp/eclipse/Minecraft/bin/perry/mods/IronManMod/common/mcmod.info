@@ -1,0 +1,17 @@
+[
+{
+  "modid": "IronManMod",
+  "name": "Iron Man Mod",
+  "description": "The Iron Man Mod",
+  "version": "8.09",
+  "mcversion": "1.6.3",
+  "logoFile": "",
+  "url": "www.superstargames.net",
+  "updateUrl": "www.superstargames.net",
+  "authors": ["cloudioa", "cloudioa9", "MMMM57849"],
+  "credits": "Made by the awesome developers at The SuperStar Games Network",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

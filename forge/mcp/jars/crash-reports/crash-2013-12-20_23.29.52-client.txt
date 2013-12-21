@@ -1,0 +1,81 @@
+---- Minecraft Crash Report ----
+// Sorry :(
+
+Time: 12/20/13 11:29 PM
+Description: Initializing game
+
+java.lang.IllegalArgumentException: duplicate key: Iron Man Mod
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:119)
+	at com.google.common.collect.RegularImmutableMap.<init>(RegularImmutableMap.java:67)
+	at com.google.common.collect.ImmutableMap$Builder.fromEntryList(ImmutableMap.java:249)
+	at com.google.common.collect.ImmutableMap$Builder.build(ImmutableMap.java:235)
+	at com.google.common.collect.Maps.uniqueIndex(Maps.java:1168)
+	at com.google.common.collect.Maps.uniqueIndex(Maps.java:1142)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:355)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:183)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:473)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:808)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:119)
+	at com.google.common.collect.RegularImmutableMap.<init>(RegularImmutableMap.java:67)
+	at com.google.common.collect.ImmutableMap$Builder.fromEntryList(ImmutableMap.java:249)
+	at com.google.common.collect.ImmutableMap$Builder.build(ImmutableMap.java:235)
+	at com.google.common.collect.Maps.uniqueIndex(Maps.java:1168)
+	at com.google.common.collect.Maps.uniqueIndex(Maps.java:1142)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:355)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:183)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:473)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.run(Minecraft.java:808)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Mac OS X (x86_64) version 10.9
+	Java Version: 1.6.0_65, Apple Inc.
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Apple Inc.
+	Memory: 959620416 bytes (915 MB) / 1060372480 bytes (1011 MB) up to 1060372480 bytes (1011 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v8.11 FML v6.4.45.953 Minecraft Forge 9.11.1.953 5 mods loaded, 0 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) 
+	FML{6.4.45.953} [Forge Mod Loader] (bin) 
+	Forge{9.11.1.953} [Minecraft Forge] (bin) 
+	Iron Man Mod{1.6.4_2 beta} [Iron Man Mod] (bin) 
+	Iron Man Mod{1.6.4_2 beta} [Iron Man Mod] (bin) 
+	Launched Version: 1.6
+	LWJGL: 2.9.0
+	OpenGL: ATI Radeon HD 5770 OpenGL Engine GL version 2.1 ATI-1.14.21, ATI Technologies Inc.
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Pack: Default
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: ~~ERROR~~ NullPointerException: null

@@ -499,3 +499,24 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: 4
 2013-12-21 03:33:48 [INFO] Saving chunks for level 'mcpworld'/Nether
 2013-12-21 03:33:48 [INFO] Saving chunks for level 'mcpworld'/The End
 2013-12-21 03:33:49 [INFO] Stopping server
+2013-12-21 18:47:28 [INFO] Starting minecraft server version 1.6.4
+2013-12-21 18:47:32 [INFO] Loading properties
+2013-12-21 18:47:32 [INFO] Default game type: CREATIVE
+2013-12-21 18:47:32 [INFO] Generating keypair
+2013-12-21 18:47:32 [INFO] Starting Minecraft server on *:25565
+2013-12-21 18:47:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-12-21 18:47:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-12-21 18:47:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-12-21 18:47:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-12-21 18:47:32 [INFO] Preparing level "mcpworld"
+2013-12-21 18:47:33 [INFO] Preparing start region for level 0
+2013-12-21 18:47:34 [INFO] Preparing spawn area: 98%
+2013-12-21 18:47:34 [INFO] Done (1.200s)! For help, type "help" or "?"
+2013-12-21 18:47:43 [INFO] Stopping server
+2013-12-21 18:47:43 [INFO] Saving players
+2013-12-21 18:47:43 [INFO] Saving worlds
+2013-12-21 18:47:43 [INFO] Saving chunks for level 'mcpworld'/Overworld
+2013-12-21 18:47:43 [INFO] Closing listening thread
+2013-12-21 18:47:43 [INFO] Saving chunks for level 'mcpworld'/Nether
+2013-12-21 18:47:43 [INFO] Saving chunks for level 'mcpworld'/The End
+2013-12-21 18:47:43 [INFO] Stopping server

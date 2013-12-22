@@ -1700,3 +1700,67 @@ Caused by: java.lang.Error: Unresolved compilation problem:
 2013-12-21 03:22:17 [SERVER] [WARNING] The save is being accessed from another location, aborting
 2013-12-21 03:22:17 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
 2013-12-21 03:22:17 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 18:48:02 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 18:48:02 [SERVER] [INFO] Generating keypair
+2013-12-21 18:48:02 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 18:48:03 [SERVER] [INFO] Player557[/127.0.0.1:0] logged in with entity id 37 at (-1191.3630263496818, 4.0, -272.69322080233167)
+2013-12-21 18:48:03 [SERVER] [INFO] Player557 joined the game
+2013-12-21 18:48:16 [SERVER] [INFO] [Player557: Given Bedrock (ID 7) * 1 to Player557]
+2013-12-21 18:48:40 [SERVER] [INFO] [Player557: Given Bedrock (ID 7) * 64 to Player557]
+2013-12-21 18:51:03 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:51:48 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:52:33 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:53:18 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:54:03 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:54:48 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:55:33 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:56:18 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:57:03 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:57:48 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:58:33 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:59:13 [SERVER] [INFO] Stopping server
+2013-12-21 18:59:13 [SERVER] [INFO] Saving players
+2013-12-21 18:59:13 [SERVER] [INFO] Player557 left the game
+2013-12-21 18:59:13 [SERVER] [INFO] Saving worlds
+2013-12-21 18:59:13 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 18:59:13 [SERVER] [WARNING] The save is being accessed from another location, aborting
+2013-12-21 18:59:13 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 18:59:13 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 18:59:13 [SERVER] [INFO] Stopping server
+2013-12-21 19:35:41 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 19:35:41 [SERVER] [INFO] Generating keypair
+2013-12-21 19:35:52 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 19:35:53 [SERVER] [INFO] Player839[/127.0.0.1:0] logged in with entity id 42 at (-1176.5973196314162, 49.0, -318.5694424552524)
+2013-12-21 19:35:53 [SERVER] [INFO] Player839 joined the game
+2013-12-21 19:36:11 [SERVER] [INFO] Player839 fell from a high place
+2013-12-21 19:37:04 [SERVER] [INFO] Stopping server
+2013-12-21 19:37:04 [SERVER] [INFO] Saving players
+2013-12-21 19:37:04 [SERVER] [INFO] Player839 left the game
+2013-12-21 19:37:04 [SERVER] [INFO] Saving worlds
+2013-12-21 19:37:04 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 19:37:04 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 19:37:04 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 19:37:04 [SERVER] [INFO] Stopping server
+2013-12-21 19:37:37 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 19:37:37 [SERVER] [INFO] Generating keypair
+2013-12-21 19:37:38 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 19:37:39 [SERVER] [INFO] Player594[/127.0.0.1:0] logged in with entity id 41 at (-1134.5, 4.0, -339.5)
+2013-12-21 19:37:39 [SERVER] [INFO] Player594 joined the game
+2013-12-21 19:37:47 [SERVER] [INFO] [Player594: Set own game mode to Creative Mode]
+2013-12-21 19:38:18 [SERVER] [INFO] [Player594: Set own game mode to Survival Mode]
+2013-12-21 19:40:54 [SERVER] [INFO] [Player594: Given Haste (ID 3) * 0 to Player594 for 2000 seconds]
+2013-12-21 19:40:59 [SERVER] [INFO] [Player594: Given Haste (ID 3) * 255 to Player594 for 2000 seconds]
+2013-12-21 19:43:58 [SERVER] [INFO] [Player594: Set own game mode to Creative Mode]
+2013-12-21 20:02:55 [SERVER] [INFO] Stopping server
+2013-12-21 20:02:55 [SERVER] [INFO] Saving players
+2013-12-21 20:02:55 [SERVER] [INFO] Player594 left the game
+2013-12-21 20:02:55 [SERVER] [INFO] Saving worlds
+2013-12-21 20:02:55 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-21 20:02:55 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-21 20:02:55 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-21 20:02:55 [SERVER] [INFO] Stopping server
+2013-12-21 20:03:01 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-21 20:03:01 [SERVER] [INFO] Generating keypair
+2013-12-21 20:03:12 [SERVER] [INFO] Preparing start region for level 0
+2013-12-21 20:03:13 [SERVER] [INFO] Player453[/127.0.0.1:0] logged in with entity id 41 at (-1180.8248883148133, 4.0, -316.99138316878214)
+2013-12-21 20:03:13 [SERVER] [INFO] Player453 joined the game

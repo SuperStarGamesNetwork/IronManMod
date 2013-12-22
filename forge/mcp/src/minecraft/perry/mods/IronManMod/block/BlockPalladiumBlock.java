@@ -11,6 +11,6 @@ public class BlockPalladiumBlock extends Block{
 		// TODO Auto-generated constructor stub
 	}
 		public void registerIcons(IconRegister par1iconRegister) {
-			blockIcon = par1iconRegister.registerIcon("IronManMod:PalladiumBlock");
+			blockIcon = par1iconRegister.registerIcon("IronManMod:Palladium Block");
 		}
 }

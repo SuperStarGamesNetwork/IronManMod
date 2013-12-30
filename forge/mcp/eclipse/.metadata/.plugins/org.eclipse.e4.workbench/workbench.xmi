@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_9nnogGnSEeOwheVNnPJjKw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_9nnogWnSEeOwheVNnPJjKw" bindingContexts="_9nynoWnSEeOwheVNnPJjKw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockVibraniumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockPalladiumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockTitaniumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockTitaniumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockTitaniumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TitaniumArmor.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IronManMod.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Block.java&quot; tooltip=&quot;Minecraft/src/net/minecraft/block/Block.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/net/minecraft/block/Block.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ItemTitaniumLeggings.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PlayerTickHandler.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IronManArmor.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Testmod.java&quot; tooltip=&quot;Minecraft/src/william/mods/testmod/common/Testmod.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/william/mods/testmod/common/Testmod.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;fmlversion.properties&quot; tooltip=&quot;Minecraft/src/fmlversion.properties&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/fmlversion.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;Iron Man Mod.info&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/Iron Man Mod.info&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/Iron Man Mod.info&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mcpmod.info&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/mcpmod.info&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/mcpmod.info&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ItemIronMamArmorBase.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/Item/ItemIronMamArmorBase.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/Item/ItemIronMamArmorBase.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Blocktestblock.java&quot; tooltip=&quot;Minecraft/src/william/mods/testmod/block/Blocktestblock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/william/mods/testmod/block/Blocktestblock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IronManMod.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockVibraniumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockPalladiumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BlockTitaniumBlock.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/block/BlockTitaniumBlock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockTitaniumBlock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TitaniumArmor.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Block.java&quot; tooltip=&quot;Minecraft/src/net/minecraft/block/Block.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/net/minecraft/block/Block.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ItemTitaniumLeggings.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;PlayerTickHandler.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;IronManArmor.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Testmod.java&quot; tooltip=&quot;Minecraft/src/william/mods/testmod/common/Testmod.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/william/mods/testmod/common/Testmod.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;fmlversion.properties&quot; tooltip=&quot;Minecraft/src/fmlversion.properties&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/fmlversion.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;Iron Man Mod.info&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/Iron Man Mod.info&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/Iron Man Mod.info&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mcpmod.info&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/common/mcpmod.info&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/common/mcpmod.info&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ItemIronMamArmorBase.java&quot; tooltip=&quot;Minecraft/src/perry/mods/IronManMod/Item/ItemIronMamArmorBase.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/perry/mods/IronManMod/Item/ItemIronMamArmorBase.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Blocktestblock.java&quot; tooltip=&quot;Minecraft/src/william/mods/testmod/block/Blocktestblock.java&quot;>&#xA;&lt;persistable path=&quot;/Minecraft/src/william/mods/testmod/block/Blocktestblock.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_9nnogWnSEeOwheVNnPJjKw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_9nnogmnSEeOwheVNnPJjKw" label="%trimmedwindow.label.eclipseSDK" x="472" y="117" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_9nnogWnSEeOwheVNnPJjKw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_9nnogmnSEeOwheVNnPJjKw" label="%trimmedwindow.label.eclipseSDK" x="167" y="22" width="1920" height="1014">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
@@ -126,54 +126,12 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_9noP_WnSEeOwheVNnPJjKw" elementId="org.eclipse.ui.editorss" selectedElement="_9noP_mnSEeOwheVNnPJjKw">
-      <children xsi:type="basic:PartStack" xmi:id="_9noP_mnSEeOwheVNnPJjKw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_XX1yUGqkEeOjzcXqguuUdA">
+      <children xsi:type="basic:PartStack" xmi:id="_9noP_mnSEeOwheVNnPJjKw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ST670Gn8EeOElcejiTSLIg">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <children xsi:type="basic:Part" xmi:id="_ST670Gn8EeOElcejiTSLIg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="IronManMod.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/common/IronManMod.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;9228&quot; selectionTopPixel=&quot;2638&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_0bREgGoQEeOElcejiTSLIg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="IronManArmor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/IronManArmor.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;1253&quot; selectionOffset=&quot;518&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_TM3MoGoVEeOElcejiTSLIg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PlayerTickHandler.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/common/PlayerTickHandler.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1247&quot; selectionTopPixel=&quot;540&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_RvVXUGoYEeOElcejiTSLIg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ItemTitaniumLeggings.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/Item/ItemTitaniumLeggings.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;561&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_LoMf4GqaEeOjzcXqguuUdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Block.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/net/minecraft/block/Block.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/net/minecraft/block/Block.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;434&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4355&quot; selectionTopPixel=&quot;230&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_OhlyEGqeEeOjzcXqguuUdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TitaniumArmor.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/armor/TitaniumArmor.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1082&quot; selectionTopPixel=&quot;73&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_Vp4bsGqkEeOjzcXqguuUdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BlockPalladiumBlock.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockPalladiumBlock.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;505&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_XX1yUGqkEeOjzcXqguuUdA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BlockVibraniumBlock.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" tooltip="Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/block/BlockVibraniumBlock.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;520&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/perry/mods/IronManMod/common/IronManMod.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;892&quot; selectionTopPixel=&quot;3450&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -332,18 +290,18 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9npd32nSEeOwheVNnPJjKw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXMIGpzEeOjzcXqguuUdA" elementId="new.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXMIWpzEeOjzcXqguuUdA" elementId="newWizardDropDown"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXMImpzEeOjzcXqguuUdA" elementId="new.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXMI2pzEeOjzcXqguuUdA" elementId="save.group" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXMJGpzEeOjzcXqguuUdA" elementId="save"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXzMGpzEeOjzcXqguuUdA" elementId="saveAll"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cXzMWpzEeOjzcXqguuUdA" elementId="save.ext" visible="false"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1cXzMmpzEeOjzcXqguuUdA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_9qBcRGnSEeOwheVNnPJjKw"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cbdkGpzEeOjzcXqguuUdA" elementId="print.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cbdkWpzEeOjzcXqguuUdA" elementId="build.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccEoGpzEeOjzcXqguuUdA" elementId="build.ext" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccEoWpzEeOjzcXqguuUdA" elementId="additions"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI6R8HENEeORLKuGEaybQw" elementId="new.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI6R8XENEeORLKuGEaybQw" elementId="newWizardDropDown"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI65AHENEeORLKuGEaybQw" elementId="new.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI65AXENEeORLKuGEaybQw" elementId="save.group" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI65AnENEeORLKuGEaybQw" elementId="save"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI65A3ENEeORLKuGEaybQw" elementId="saveAll"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI65BHENEeORLKuGEaybQw" elementId="save.ext" visible="false"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_VI7gEHENEeORLKuGEaybQw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.gif" tooltip="Print" command="_9qBcRGnSEeOwheVNnPJjKw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_KcHENEeORLKuGEaybQw" elementId="print.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_KcXENEeORLKuGEaybQw" elementId="build.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_KcnENEeORLKuGEaybQw" elementId="build.ext" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_Kc3ENEeORLKuGEaybQw" elementId="additions"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9npd7GnSEeOwheVNnPJjKw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -351,67 +309,67 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqEzWnSEeOwheVNnPJjKw" elementId="org.eclipse.debug.ui.breakpointActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ftbEGpzEeOjzcXqguuUdA" elementId="breakpointGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fuCIGpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.SkipAllBreakpoints"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPdl4HENEeORLKuGEaybQw" elementId="breakpointGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPdl4XENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.SkipAllBreakpoints"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqE0GnSEeOwheVNnPJjKw" elementId="org.eclipse.debug.ui.debugActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fuCIWpzEeOjzcXqguuUdA" elementId="renderGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fuCImpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.DropToFrame"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fuCI2pzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.ToggleStepFilters"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fuCJGpzEeOjzcXqguuUdA" elementId="emptyStepGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fupMGpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.RunToLine"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fupMWpzEeOjzcXqguuUdA" elementId="stepReturnGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fupMmpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.StepReturn"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fupM2pzEeOjzcXqguuUdA" elementId="stepOverGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fupNGpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.StepOver"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQQGpzEeOjzcXqguuUdA" elementId="stepIntoGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQQWpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.StepInto"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQQmpzEeOjzcXqguuUdA" elementId="threadGroup"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQQ2pzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.Resume"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQRGpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.Suspend"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fvQRWpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.Terminate"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3UGpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.ui.actions.toolbar.Disconnect"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPdl4nENEeORLKuGEaybQw" elementId="renderGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPeM8HENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.DropToFrame"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPeM8XENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.ToggleStepFilters"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPeM8nENEeORLKuGEaybQw" elementId="emptyStepGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPeM83ENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.RunToLine"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPeM9HENEeORLKuGEaybQw" elementId="stepReturnGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0AHENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.StepReturn"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0AXENEeORLKuGEaybQw" elementId="stepOverGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0AnENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.StepOver"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0A3ENEeORLKuGEaybQw" elementId="stepIntoGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0BHENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.StepInto"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPe0BXENEeORLKuGEaybQw" elementId="threadGroup"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPfbEHENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.Resume"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPfbEXENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.Suspend"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPfbEnENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.Terminate"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPfbE3ENEeORLKuGEaybQw" elementId="org.eclipse.debug.ui.actions.toolbar.Disconnect"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr0GnSEeOwheVNnPJjKw" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3UWpzEeOjzcXqguuUdA" elementId="debug"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3UmpzEeOjzcXqguuUdA" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3U2pzEeOjzcXqguuUdA" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3VGpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPfbFHENEeORLKuGEaybQw" elementId="debug"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCIHENEeORLKuGEaybQw" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCIXENEeORLKuGEaybQw" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCInENEeORLKuGEaybQw" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr1WnSEeOwheVNnPJjKw" elementId="org.eclipse.jst.j2ee.J2eeMainActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fv3VWpzEeOjzcXqguuUdA" elementId="J2EEMain"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweYGpzEeOjzcXqguuUdA" elementId="org.eclipse.jst.j2ee.internal.actions.NewJavaEEProject"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweYWpzEeOjzcXqguuUdA" elementId="org.eclipse.jst.j2ee.internal.actions.NewJavaEEArtifact"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCI3ENEeORLKuGEaybQw" elementId="J2EEMain"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCJHENEeORLKuGEaybQw" elementId="org.eclipse.jst.j2ee.internal.actions.NewJavaEEProject"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgCJXENEeORLKuGEaybQw" elementId="org.eclipse.jst.j2ee.internal.actions.NewJavaEEArtifact"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr2WnSEeOwheVNnPJjKw" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweYmpzEeOjzcXqguuUdA" elementId="Search"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweY2pzEeOjzcXqguuUdA" elementId="openType"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweZGpzEeOjzcXqguuUdA" elementId="org.eclipse.mylyn.tasks.ui.openTask"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fweZWpzEeOjzcXqguuUdA" elementId="org.eclipse.search.OpenSearchDialogPage"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpMHENEeORLKuGEaybQw" elementId="Search"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpMXENEeORLKuGEaybQw" elementId="openType"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpMnENEeORLKuGEaybQw" elementId="org.eclipse.mylyn.tasks.ui.openTask"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpM3ENEeORLKuGEaybQw" elementId="org.eclipse.search.OpenSearchDialogPage"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr3mnSEeOwheVNnPJjKw" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OJOYGpzEeOjzcXqguuUdA" elementId="Presentation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OJ1cGpzEeOjzcXqguuUdA" elementId="org.eclipse.jdt.ui.edit.text.java.toggleBreadcrumb"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OJ1cWpzEeOjzcXqguuUdA" elementId="org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OJ1cmpzEeOjzcXqguuUdA" elementId="org.eclipse.mylyn.java.ui.editor.folding.auto"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OJ1c2pzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OKcgGpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_2OKcgWpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEUKQHENEeORLKuGEaybQw" elementId="Presentation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEUxUHENEeORLKuGEaybQw" elementId="org.eclipse.jdt.ui.edit.text.java.toggleBreadcrumb"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEUxUXENEeORLKuGEaybQw" elementId="org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEUxUnENEeORLKuGEaybQw" elementId="org.eclipse.mylyn.java.ui.editor.folding.auto"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEVYYHENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEVYYXENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_WEVYYnENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr6GnSEeOwheVNnPJjKw" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFcGpzEeOjzcXqguuUdA" elementId="browser"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFcWpzEeOjzcXqguuUdA" elementId="org.eclipse.wst.server.ui.internal.webbrowser.action.open"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpNHENEeORLKuGEaybQw" elementId="browser"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPgpNXENEeORLKuGEaybQw" elementId="org.eclipse.wst.server.ui.internal.webbrowser.action.open"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr62nSEeOwheVNnPJjKw" elementId="org.eclipse.wst.ws.explorer.explorer">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFcmpzEeOjzcXqguuUdA" elementId="additions"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFc2pzEeOjzcXqguuUdA" elementId="org.eclipse.wst.ws.internal.explorer.action.LaunchWSEAction"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPhQQHENEeORLKuGEaybQw" elementId="additions"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPhQQXENEeORLKuGEaybQw" elementId="org.eclipse.wst.ws.internal.explorer.action.LaunchWSEAction"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr7mnSEeOwheVNnPJjKw" elementId="group.nav" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -419,15 +377,15 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr8GnSEeOwheVNnPJjKw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccEompzEeOjzcXqguuUdA" elementId="history.group"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccEo2pzEeOjzcXqguuUdA" elementId="group.application" visible="false"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccEpGpzEeOjzcXqguuUdA" elementId="backardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccrsGpzEeOjzcXqguuUdA" elementId="forwardHistory"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1ccrsWpzEeOjzcXqguuUdA" elementId="pin.group"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_1ccrsmpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_9pqP4mnSEeOwheVNnPJjKw"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFdGpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxFdWpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1fxsgGpzEeOjzcXqguuUdA" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_KdHENEeORLKuGEaybQw" elementId="history.group"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_xgHENEeORLKuGEaybQw" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_xgXENEeORLKuGEaybQw" elementId="backardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_xgnENEeORLKuGEaybQw" elementId="forwardHistory"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VI_xg3ENEeORLKuGEaybQw" elementId="pin.group"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_VJAYkHENEeORLKuGEaybQw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.gif" tooltip="Pin Editor" enabled="false" command="_9pqP4mnSEeOwheVNnPJjKw"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPhQQnENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPhQQ3ENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VPhQRHENEeORLKuGEaybQw" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr-2nSEeOwheVNnPJjKw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -439,8 +397,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_9nqr_2nSEeOwheVNnPJjKw" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cdSwGpzEeOjzcXqguuUdA" elementId="group.help"/>
-        <children xsi:type="menu:OpaqueToolItem" xmi:id="_1cdSwWpzEeOjzcXqguuUdA" elementId="group.application" visible="false"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VJA_oHENEeORLKuGEaybQw" elementId="group.help"/>
+        <children xsi:type="menu:OpaqueToolItem" xmi:id="_VJA_oXENEeORLKuGEaybQw" elementId="group.application" visible="false"/>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_9nqsAmnSEeOwheVNnPJjKw" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
@@ -972,7 +930,7 @@
       <tags>platform:cocoa</tags>
     </bindings>
     <bindings xmi:id="_aOgJkGn4EeOElcejiTSLIg" keySequence="ALT+COMMAND+SHIFT+ARROW_DOWN" command="_9qO3qWnSEeOwheVNnPJjKw"/>
-    <bindings xmi:id="_039ekWpzEeOjzcXqguuUdA" keySequence="COMMAND+CTRL+F" command="_aOsW0mn4EeOElcejiTSLIg"/>
+    <bindings xmi:id="_UPxqgXENEeORLKuGEaybQw" keySequence="COMMAND+CTRL+F" command="_aOsW0mn4EeOElcejiTSLIg"/>
   </bindingTables>
   <bindingTables xmi:id="_9ntILWnSEeOwheVNnPJjKw" elementId="org.eclipse.datatools.sqltools.SQLEditorScope" bindingContext="_9nynrmnSEeOwheVNnPJjKw">
     <bindings xmi:id="_9ntILmnSEeOwheVNnPJjKw" keySequence="ALT+C" command="_9pl-cWnSEeOwheVNnPJjKw"/>
@@ -1266,7 +1224,7 @@
   <bindingTables xmi:id="_9nyAp2nSEeOwheVNnPJjKw" bindingContext="_9n0c22nSEeOwheVNnPJjKw"/>
   <bindingTables xmi:id="_9nynoGnSEeOwheVNnPJjKw" bindingContext="_9n0c3GnSEeOwheVNnPJjKw"/>
   <bindingTables xmi:id="_aOtk8mn4EeOElcejiTSLIg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_9nzOumnSEeOwheVNnPJjKw">
-    <bindings xmi:id="_03-FoGpzEeOjzcXqguuUdA" keySequence="M1+W" command="_aOtk8Gn4EeOElcejiTSLIg"/>
+    <bindings xmi:id="_UPy4oHENEeORLKuGEaybQw" keySequence="M1+W" command="_aOtk8Gn4EeOElcejiTSLIg"/>
   </bindingTables>
   <bindingTables xmi:id="_vXvr0WoGEeOElcejiTSLIg" bindingContext="_vXvr0GoGEeOElcejiTSLIg"/>
   <rootContext xmi:id="_9nynoWnSEeOwheVNnPJjKw" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs and Windows" description="Either a dialog or a window is open">

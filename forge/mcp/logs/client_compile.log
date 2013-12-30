@@ -13,19 +13,19 @@ public interface IBlockLiquid extends ILiquid {
 /Users/Perry/IronManMod/forge/mcp/src/minecraft/net/minecraftforge/liquids/LiquidTank.java:10: warning: [deprecation] ILiquidTank in net.minecraftforge.liquids has been deprecated
 public class LiquidTank implements ILiquidTank {
                                    ^
-/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:33: warning: [deprecation] Init in Mod has been deprecated
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:31: warning: [deprecation] Init in Mod has been deprecated
 import cpw.mods.fml.common.Mod.Init;
                               ^
-/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:34: warning: [deprecation] PostInit in Mod has been deprecated
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:32: warning: [deprecation] PostInit in Mod has been deprecated
 import cpw.mods.fml.common.Mod.PostInit;
                               ^
-/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:35: warning: [deprecation] PreInit in Mod has been deprecated
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:33: warning: [deprecation] PreInit in Mod has been deprecated
 import cpw.mods.fml.common.Mod.PreInit;
                               ^
-/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:54: warning: [deprecation] Init in Mod has been deprecated
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:52: warning: [deprecation] Init in Mod has been deprecated
 @Init
  ^
-/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:247: warning: [deprecation] PostInit in Mod has been deprecated
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/common/IronManMod.java:261: warning: [deprecation] PostInit in Mod has been deprecated
 @PostInit
  ^
 /Users/Perry/IronManMod/forge/mcp/src/minecraft/net/minecraft/entity/Entity.java:1202: warning: [deprecation] getFilledPercentage(World,int,int,int) in Block has been deprecated
@@ -168,6 +168,9 @@ import cpw.mods.fml.common.Mod.PreInit;
 /Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/armor/IronManArmor.java:24: warning: [deprecation] getArmorTexture(ItemStack,Entity,int,int) in Item has been deprecated
 	public String getArmorTexture(ItemStack stack, Entity entity, int slot, int layer) {
 	              ^
+/Users/Perry/IronManMod/forge/mcp/src/minecraft/perry/mods/IronManMod/armor/TitaniumArmor.java:24: warning: [deprecation] getArmorTexture(ItemStack,Entity,int,int) in Item has been deprecated
+	public String getArmorTexture(ItemStack stack, Entity entity, int slot, int layer) {
+	              ^
 Note: Some input files use unchecked or unsafe operations.
 Note: Recompile with -Xlint:unchecked for details.
-56 warnings
+57 warnings

@@ -1,593 +1,643 @@
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.45.953 for Minecraft 1.6.4 loading
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.6.0_65, running on Mac OS X:x86_64:10.9, installed at /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Java classpath at launch is /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar:/Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Java library path at launch is /Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4-natives
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Discovering coremods
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
-2013-12-21 18:47:50 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
-2013-12-21 18:47:50 [INFO] [STDOUT] Loaded 40 rules from AccessTransformer config file fml_at.cfg
-2013-12-21 18:47:50 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
-2013-12-21 18:47:50 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Injection complete
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
-2013-12-21 18:47:50 [SEVERE] [ForgeModLoader] The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Coremod plugin class FMLCorePlugin run successfully
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
-2013-12-21 18:47:50 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
-2013-12-21 18:47:50 [INFO] [STDOUT] Loaded 110 rules from AccessTransformer config file forge_at.cfg
-2013-12-21 18:47:50 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Injection complete
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Coremod plugin class FMLForgePlugin run successfully
-2013-12-21 18:47:50 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-2013-12-21 18:47:50 [FINE] [ForgeModLoader] Validating minecraft
-2013-12-21 18:47:51 [FINE] [ForgeModLoader] Minecraft validated, launching...
-2013-12-21 18:47:51 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.client.main.Main}
-2013-12-21 18:47:51 [INFO] [Minecraft-Client] Setting user: Player557
-2013-12-21 18:47:52 [INFO] [Minecraft-Client] LWJGL Version: 2.9.0
-2013-12-21 18:47:52 [INFO] [Minecraft-Client] Reloading ResourceManager: Default
-2013-12-21 18:47:53 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
-2013-12-21 18:47:53 [INFO] [STDOUT] MinecraftForge v9.11.1.953 Initialized
-2013-12-21 18:47:53 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.953 Initialized
-2013-12-21 18:47:53 [INFO] [STDOUT] Replaced 112 ore recipies
-2013-12-21 18:47:53 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
-2013-12-21 18:47:53 [INFO] [ForgeModLoader] Reading custom logging properties from /Users/Perry/IronManMod/forge/mcp/jars/config/logging.properties
-2013-12-21 18:47:53 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related directory at /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar, examining for mod candidates
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
-2013-12-21 18:47:53 [INFO] [ForgeModLoader] Searching /Users/Perry/IronManMod/forge/mcp/jars/mods for mods
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] Examining directory bin for potential mods
-2013-12-21 18:47:53 [FINE] [ForgeModLoader] No mcmod.info file found in directory bin
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures.blocks
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures.items
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.forge
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.forge.lang
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.armor
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.blocks
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.items
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.testmod
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures.blocks
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures.items
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.launcher
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.patcher
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com.nothome
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com.nothome.delta
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package ibxm
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.mco
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.main
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.resources
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.resources.data
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
-2013-12-21 18:47:53 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai.attributes
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.techne
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.fluids
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.server
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.server.command
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package paulscode
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.Item
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.armor
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.block
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.common
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Identified an FMLMod type mod perry.mods.IronManMod.common.IronManMod
-2013-12-21 18:47:54 [FINEST] [Iron Man Mod] Parsed dependency info : [] [] []
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.hooks
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.info
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.objects
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.objects.info
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.objects.pack
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.refs
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.refs.heads
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william..git.refs.tags
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william.mods
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.block
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.common
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Identified an FMLMod type mod william.mods.testmod.common.Testmod
-2013-12-21 18:47:54 [FINEST] [TestMod] Parsed dependency info : [] [] []
-2013-12-21 18:47:54 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.item
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file launchwrapper-1.8.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container launchwrapper-1.8.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file 1.6.4.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container 1.6.4.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file lzma-0.0.1.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container lzma-0.0.1.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file jopt-simple-4.5.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container jopt-simple-4.5.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file codecjorbis-20101023.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container codecjorbis-20101023.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file codecwav-20101023.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container codecwav-20101023.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file libraryjavasound-20101123.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file librarylwjglopenal-20100824.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container librarylwjglopenal-20100824.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file soundsystem-20120107.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container soundsystem-20120107.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file argo-2.25_fixed.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container argo-2.25_fixed.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] Examining file bcprov-jdk15on-1.47.jar for potential mods
-2013-12-21 18:47:54 [FINE] [ForgeModLoader] The mod container bcprov-jdk15on-1.47.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file guava-14.0.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container guava-14.0.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file commons-lang3-3.1.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container commons-lang3-3.1.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file commons-io-2.4.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container commons-io-2.4.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file jutils-1.0.0.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file gson-2.2.2.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container gson-2.2.2.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file jinput-2.0.5.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container jinput-2.0.5.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file lwjgl-2.9.0.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container lwjgl-2.9.0.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Examining file lwjgl_util-2.9.0.jar for potential mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] The mod container lwjgl_util-2.9.0.jar appears to be missing an mcmod.info file
-2013-12-21 18:47:55 [INFO] [ForgeModLoader] Forge Mod Loader has identified 5 mods to load
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] Received a system property request ''
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Reloading logging properties from /Users/Perry/IronManMod/forge/mcp/jars/config/logging.properties
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Reloaded logging properties
-2013-12-21 18:47:55 [FINE] [mcp] Mod Logging channel mcp configured at default level.
-2013-12-21 18:47:55 [INFO] [mcp] Activating mod mcp
-2013-12-21 18:47:55 [FINE] [FML] Mod Logging channel FML configured at default level.
-2013-12-21 18:47:55 [INFO] [FML] Activating mod FML
-2013-12-21 18:47:55 [FINE] [Forge] Mod Logging channel Forge configured at default level.
-2013-12-21 18:47:55 [INFO] [Forge] Activating mod Forge
-2013-12-21 18:47:55 [FINE] [Iron Man Mod] Enabling mod Iron Man Mod
-2013-12-21 18:47:55 [FINE] [Iron Man Mod] Mod Logging channel Iron Man Mod configured at default level.
-2013-12-21 18:47:55 [INFO] [Iron Man Mod] Activating mod Iron Man Mod
-2013-12-21 18:47:55 [FINE] [TestMod] Enabling mod TestMod
-2013-12-21 18:47:55 [FINE] [TestMod] Mod Logging channel TestMod configured at default level.
-2013-12-21 18:47:55 [INFO] [TestMod] Activating mod TestMod
-2013-12-21 18:47:55 [WARNING] [Forge Mod Loader] Mod Forge Mod Loader is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:55 [WARNING] [Minecraft Forge] Mod Minecraft Forge is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:55 [WARNING] [Iron Man Mod] Mod Iron Man Mod is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:55 [WARNING] [Test Mod] Mod Test Mod is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:55 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
-2013-12-21 18:47:55 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:55 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:55 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:55 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] All mod requirements are satisfied
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] Sorting mods into an ordered list
-2013-12-21 18:47:55 [FINER] [ForgeModLoader] Mod sorting completed successfully
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Mod sorting data
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	Iron Man Mod(Iron Man Mod:1.6.4_2 beta): bin ()
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	TestMod(Test Mod:1.6.4_2 beta): bin ()
-2013-12-21 18:47:55 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
-2013-12-21 18:47:55 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
-2013-12-21 18:47:55 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
-2013-12-21 18:47:55 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
-2013-12-21 18:47:55 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
-2013-12-21 18:47:55 [INFO] [ForgeModLoader] Registering Forge Packet Handler
-2013-12-21 18:47:55 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
-2013-12-21 18:47:55 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.953)
-2013-12-21 18:47:55 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
-2013-12-21 18:47:55 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
-2013-12-21 18:47:55 [FINEST] [Iron Man Mod] Sending event FMLConstructionEvent to mod Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemRepulsor(1522) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitaniumBooties(1521) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitaniumLeggings(1520) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPowerCoreSocket(1519) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemIronManArmorBase(1518) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1517) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1516) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1515) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1514) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPulseThrusters(1513) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPalladiumCore(1512) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemVibraniumCore(1511) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitaniumChestplate(1510) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitaniumPlating(1509) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitanium(1508) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemVibranium(1507) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPalladium(1506) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1306) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1304) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1303) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1302) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1301) owned by Iron Man Mod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1305) owned by Iron Man Mod
-2013-12-21 18:47:55 [FINEST] [ForgeModLoader] Testing mod Iron Man Mod to verify it accepts its own version in a remote connection
-2013-12-21 18:47:55 [FINEST] [ForgeModLoader] The mod Iron Man Mod accepts its own version (1.6.4_2 beta)
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Iron Man Mod
-2013-12-21 18:47:55 [FINEST] [Iron Man Mod] Sent event FMLConstructionEvent to mod Iron Man Mod
-2013-12-21 18:47:55 [FINEST] [TestMod] Sending event FMLConstructionEvent to mod TestMod
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item william.mods.testmod.item.Itemtestitem(1257) owned by TestMod
-2013-12-21 18:47:55 [WARNING] [ForgeModLoader] The mod FMLMod:TestMod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
-2013-12-21 18:47:55 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1201) owned by TestMod
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into TestMod
-2013-12-21 18:47:55 [FINEST] [TestMod] Sent event FMLConstructionEvent to mod TestMod
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] Mod signature data
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.4.45.953): bin (NO VALID CERTIFICATE FOUND)
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.953): bin (NO VALID CERTIFICATE FOUND)
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	Iron Man Mod(Iron Man Mod:1.6.4_2 beta): bin (NO VALID CERTIFICATE FOUND)
-2013-12-21 18:47:55 [FINE] [ForgeModLoader] 	TestMod(Test Mod:1.6.4_2 beta): bin (NO VALID CERTIFICATE FOUND)
-2013-12-21 18:47:55 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
-2013-12-21 18:47:55 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
-2013-12-21 18:47:55 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
-2013-12-21 18:47:55 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
-2013-12-21 18:47:55 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
-2013-12-21 18:47:55 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
-2013-12-21 18:47:55 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
-2013-12-21 18:47:55 [FINEST] [Iron Man Mod] Sending event FMLPreInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:55 [FINEST] [Iron Man Mod] Sent event FMLPreInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:55 [FINEST] [TestMod] Sending event FMLPreInitializationEvent to mod TestMod
-2013-12-21 18:47:55 [FINEST] [TestMod] Sent event FMLPreInitializationEvent to mod TestMod
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class william.mods.testmod.item.Itemtestitem with ID 1257 owned by mod TestMod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPalladium with ID 1506 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemVibranium with ID 1507 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitanium with ID 1508 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitaniumPlating with ID 1509 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitaniumChestplate with ID 1510 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemVibraniumCore with ID 1511 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPalladiumCore with ID 1512 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPulseThrusters with ID 1513 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1514 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1515 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1516 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1517 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemIronManArmorBase with ID 1518 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPowerCoreSocket with ID 1519 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitaniumLeggings with ID 1520 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitaniumBooties with ID 1521 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemRepulsor with ID 1522 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
-2013-12-21 18:47:55 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Leggings.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/items/testitem.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
-2013-12-21 18:47:56 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sending event FMLInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sent event FMLInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sending event FMLInitializationEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sent event FMLInitializationEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
-2013-12-21 18:47:56 [FINEST] [mcp] Sending event IMCEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [mcp] Sent event IMCEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
-2013-12-21 18:47:56 [FINEST] [FML] Sending event IMCEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [FML] Sent event IMCEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
-2013-12-21 18:47:56 [FINEST] [Forge] Sending event IMCEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Forge] Sent event IMCEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sending event IMCEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sent event IMCEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod TestMod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sending event IMCEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sent event IMCEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sending event FMLPostInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sent event FMLPostInitializationEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sending event FMLPostInitializationEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sent event FMLPostInitializationEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
-2013-12-21 18:47:56 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
-2013-12-21 18:47:56 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sending event FMLLoadCompleteEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [Iron Man Mod] Sent event FMLLoadCompleteEvent to mod Iron Man Mod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sending event FMLLoadCompleteEvent to mod TestMod
-2013-12-21 18:47:56 [FINEST] [TestMod] Sent event FMLLoadCompleteEvent to mod TestMod
-2013-12-21 18:47:56 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 5 mods
-2013-12-21 18:47:56 [WARNING] [Forge Mod Loader] Mod Forge Mod Loader is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:56 [WARNING] [Minecraft Forge] Mod Minecraft Forge is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:56 [WARNING] [Iron Man Mod] Mod Iron Man Mod is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:56 [WARNING] [Test Mod] Mod Test Mod is missing a pack.mcmeta file, things may not work well
-2013-12-21 18:47:56 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
-2013-12-21 18:47:56 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:56 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:56 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:56 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Leggings.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/items/testitem.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/TitaniumBoots.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
-2013-12-21 18:47:56 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
-2013-12-21 18:47:56 [INFO] [STDOUT] 
-2013-12-21 18:47:56 [INFO] [STDOUT] Starting up SoundSystem...
-2013-12-21 18:47:57 [INFO] [STDOUT] Initializing LWJGL OpenAL
-2013-12-21 18:47:57 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-2013-12-21 18:47:57 [SEVERE] [Minecraft-Client] Realms: Invalid session id
-2013-12-21 18:47:58 [INFO] [STDOUT] OpenAL initialized.
-2013-12-21 18:47:58 [INFO] [STDOUT] 
-2013-12-21 18:48:02 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.6.4
-2013-12-21 18:48:02 [INFO] [Minecraft-Server] Generating keypair
-2013-12-21 18:48:02 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
-2013-12-21 18:48:02 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
-2013-12-21 18:48:02 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
-2013-12-21 18:48:02 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
-2013-12-21 18:48:02 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
-2013-12-21 18:48:02 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
-2013-12-21 18:48:02 [FINEST] [Iron Man Mod] Sending event FMLServerAboutToStartEvent to mod Iron Man Mod
-2013-12-21 18:48:02 [FINEST] [Iron Man Mod] Sent event FMLServerAboutToStartEvent to mod Iron Man Mod
-2013-12-21 18:48:02 [FINEST] [TestMod] Sending event FMLServerAboutToStartEvent to mod TestMod
-2013-12-21 18:48:02 [FINEST] [TestMod] Sent event FMLServerAboutToStartEvent to mod TestMod
-2013-12-21 18:48:02 [FINE] [fml.ItemTracker] The difference set is equal
-2013-12-21 18:48:02 [INFO] [ForgeModLoader] Loading dimension 0 (new test) (net.minecraft.server.integrated.IntegratedServer@3f78807)
-2013-12-21 18:48:02 [INFO] [ForgeModLoader] Loading dimension 1 (new test) (net.minecraft.server.integrated.IntegratedServer@3f78807)
-2013-12-21 18:48:02 [INFO] [ForgeModLoader] Loading dimension -1 (new test) (net.minecraft.server.integrated.IntegratedServer@3f78807)
-2013-12-21 18:48:02 [INFO] [Minecraft-Server] Preparing start region for level 0
-2013-12-21 18:48:03 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
-2013-12-21 18:48:03 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
-2013-12-21 18:48:03 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
-2013-12-21 18:48:03 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
-2013-12-21 18:48:03 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
-2013-12-21 18:48:03 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
-2013-12-21 18:48:03 [FINEST] [Iron Man Mod] Sending event FMLServerStartingEvent to mod Iron Man Mod
-2013-12-21 18:48:03 [FINEST] [Iron Man Mod] Sent event FMLServerStartingEvent to mod Iron Man Mod
-2013-12-21 18:48:03 [FINEST] [TestMod] Sending event FMLServerStartingEvent to mod TestMod
-2013-12-21 18:48:03 [FINEST] [TestMod] Sent event FMLServerStartingEvent to mod TestMod
-2013-12-21 18:48:03 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
-2013-12-21 18:48:03 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
-2013-12-21 18:48:03 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
-2013-12-21 18:48:03 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
-2013-12-21 18:48:03 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
-2013-12-21 18:48:03 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
-2013-12-21 18:48:03 [FINEST] [Iron Man Mod] Sending event FMLServerStartedEvent to mod Iron Man Mod
-2013-12-21 18:48:03 [FINEST] [Iron Man Mod] Sent event FMLServerStartedEvent to mod Iron Man Mod
-2013-12-21 18:48:03 [FINEST] [TestMod] Sending event FMLServerStartedEvent to mod TestMod
-2013-12-21 18:48:03 [FINEST] [TestMod] Sent event FMLServerStartedEvent to mod TestMod
-2013-12-21 18:48:03 [INFO] [STDOUT] loading single player
-2013-12-21 18:48:03 [INFO] [Minecraft-Server] Player557[/127.0.0.1:0] logged in with entity id 37 at (-1191.3630263496818, 4.0, -272.69322080233167)
-2013-12-21 18:48:03 [INFO] [Minecraft-Server] Player557 joined the game
-2013-12-21 18:48:04 [INFO] [STDOUT] Setting up custom skins
-2013-12-21 18:48:16 [INFO] [Minecraft-Server] [Player557: Given Bedrock (ID 7) * 1 to Player557]
-2013-12-21 18:48:16 [INFO] [Minecraft-Client] [CHAT] Given Bedrock (ID 7) * 1 to Player557
-2013-12-21 18:48:40 [INFO] [Minecraft-Server] [Player557: Given Bedrock (ID 7) * 64 to Player557]
-2013-12-21 18:48:40 [INFO] [Minecraft-Client] [CHAT] Given Bedrock (ID 7) * 64 to Player557
-2013-12-21 18:51:03 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:51:48 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:52:33 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:53:18 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:54:03 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:54:48 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:55:33 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:56:18 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:57:03 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:57:48 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:58:33 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:59:13 [INFO] [Minecraft-Client] Stopping!
-2013-12-21 18:59:13 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
-2013-12-21 18:59:13 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
-2013-12-21 18:59:13 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
-2013-12-21 18:59:13 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
-2013-12-21 18:59:13 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
-2013-12-21 18:59:13 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
-2013-12-21 18:59:13 [FINEST] [Iron Man Mod] Sending event FMLServerStoppingEvent to mod Iron Man Mod
-2013-12-21 18:59:13 [FINEST] [Iron Man Mod] Sent event FMLServerStoppingEvent to mod Iron Man Mod
-2013-12-21 18:59:13 [FINEST] [TestMod] Sending event FMLServerStoppingEvent to mod TestMod
-2013-12-21 18:59:13 [FINEST] [TestMod] Sent event FMLServerStoppingEvent to mod TestMod
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Stopping server
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving players
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Player557 left the game
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving worlds
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/Overworld
-2013-12-21 18:59:13 [WARNING] [Minecraft-Server] The save is being accessed from another location, aborting
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/Nether
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/The End
-2013-12-21 18:59:13 [INFO] [ForgeModLoader] Unloading dimension 0
-2013-12-21 18:59:13 [INFO] [ForgeModLoader] Unloading dimension -1
-2013-12-21 18:59:13 [INFO] [ForgeModLoader] Unloading dimension 1
-2013-12-21 18:59:13 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
-2013-12-21 18:59:13 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
-2013-12-21 18:59:13 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
-2013-12-21 18:59:13 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
-2013-12-21 18:59:13 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
-2013-12-21 18:59:13 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
-2013-12-21 18:59:13 [FINEST] [Iron Man Mod] Sending event FMLServerStoppedEvent to mod Iron Man Mod
-2013-12-21 18:59:13 [FINEST] [Iron Man Mod] Sent event FMLServerStoppedEvent to mod Iron Man Mod
-2013-12-21 18:59:13 [FINEST] [TestMod] Sending event FMLServerStoppedEvent to mod TestMod
-2013-12-21 18:59:13 [FINEST] [TestMod] Sent event FMLServerStoppedEvent to mod TestMod
-2013-12-21 18:59:13 [INFO] [STDOUT] 
-2013-12-21 18:59:13 [INFO] [STDOUT] SoundSystem shutting down...
-2013-12-21 18:59:13 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
-2013-12-21 18:59:13 [INFO] [STDOUT] 
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Stopping server
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving players
-2013-12-21 18:59:13 [INFO] [Minecraft-Server] Saving worlds
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.45.953 for Minecraft 1.6.4 loading
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.6.0_65, running on Mac OS X:x86_64:10.9, installed at /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Java classpath at launch is /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar:/Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar:/Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Java library path at launch is /Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4-natives
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Discovering coremods
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2013-12-21 19:35:31 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+2013-12-21 19:35:31 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2013-12-21 19:35:31 [INFO] [STDOUT] Loaded 40 rules from AccessTransformer config file fml_at.cfg
+2013-12-21 19:35:31 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+2013-12-21 19:35:31 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Injection complete
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+2013-12-21 19:35:31 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-12-21 19:35:31 [SEVERE] [ForgeModLoader] The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Coremod plugin class FMLCorePlugin run successfully
+2013-12-21 19:35:32 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+2013-12-21 19:35:32 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2013-12-21 19:35:32 [INFO] [STDOUT] Loaded 110 rules from AccessTransformer config file forge_at.cfg
+2013-12-21 19:35:32 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Injection complete
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Coremod plugin class FMLForgePlugin run successfully
+2013-12-21 19:35:32 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Validating minecraft
+2013-12-21 19:35:32 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2013-12-21 19:35:32 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.client.main.Main}
+2013-12-21 19:35:32 [INFO] [Minecraft-Client] Setting user: Player839
+2013-12-21 19:35:33 [INFO] [Minecraft-Client] LWJGL Version: 2.9.0
+2013-12-21 19:35:33 [INFO] [Minecraft-Client] Reloading ResourceManager: Default
+2013-12-21 19:35:33 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2013-12-21 19:35:33 [INFO] [STDOUT] MinecraftForge v9.11.1.953 Initialized
+2013-12-21 19:35:33 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.953 Initialized
+2013-12-21 19:35:33 [INFO] [STDOUT] Replaced 112 ore recipies
+2013-12-21 19:35:33 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2013-12-21 19:35:34 [INFO] [ForgeModLoader] Reading custom logging properties from /Users/Perry/IronManMod/forge/mcp/jars/config/logging.properties
+2013-12-21 19:35:34 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related directory at /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/ow2/asm/asm-debug-all/4.1/asm-debug-all-4.1.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/versions/1.6.4/1.6.4.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/argo/argo/2.25_fixed/argo-2.25_fixed.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/guava/guava/14.0/guava-14.0.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Found a minecraft related file at /Users/Perry/IronManMod/forge/mcp/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar, examining for mod candidates
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2013-12-21 19:35:34 [INFO] [ForgeModLoader] Searching /Users/Perry/IronManMod/forge/mcp/jars/mods for mods
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] Examining directory bin for potential mods
+2013-12-21 19:35:34 [FINE] [ForgeModLoader] No mcmod.info file found in directory bin
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures.blocks
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.Platypusmod.textures.items
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.forge
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.forge.lang
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.armor
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.blocks
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.ironmanmod.textures.items
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.testmod
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures.blocks
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package assets.testmod.textures.items
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.launcher
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.patcher
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com.nothome
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.repackage.com.nothome.delta
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.mco
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.main
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.resources
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.resources.data
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai.attributes
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2013-12-21 19:35:34 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.techne
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.fluids
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.server
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.server.command
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.Item
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.armor
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.block
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package perry.mods.IronManMod.common
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Identified an FMLMod type mod perry.mods.IronManMod.common.IronManMod
+2013-12-21 19:35:35 [FINEST] [Iron Man Mod] Parsed dependency info : [] [] []
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.hooks
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.info
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.objects
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.objects.info
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.objects.pack
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.refs
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.refs.heads
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william..git.refs.tags
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william.mods
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.block
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.common
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Identified an FMLMod type mod william.mods.testmod.common.Testmod
+2013-12-21 19:35:35 [FINEST] [TestMod] Parsed dependency info : [] [] []
+2013-12-21 19:35:35 [FINEST] [ForgeModLoader] Recursing into package william.mods.testmod.item
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file launchwrapper-1.8.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container launchwrapper-1.8.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file 1.6.4.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container 1.6.4.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file lzma-0.0.1.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container lzma-0.0.1.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file jopt-simple-4.5.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container jopt-simple-4.5.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file codecjorbis-20101023.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container codecjorbis-20101023.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file codecwav-20101023.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container codecwav-20101023.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file libraryjavasound-20101123.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file librarylwjglopenal-20100824.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container librarylwjglopenal-20100824.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file soundsystem-20120107.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container soundsystem-20120107.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file argo-2.25_fixed.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container argo-2.25_fixed.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file bcprov-jdk15on-1.47.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container bcprov-jdk15on-1.47.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] Examining file guava-14.0.jar for potential mods
+2013-12-21 19:35:35 [FINE] [ForgeModLoader] The mod container guava-14.0.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file commons-lang3-3.1.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container commons-lang3-3.1.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file commons-io-2.4.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container commons-io-2.4.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file jutils-1.0.0.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file gson-2.2.2.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container gson-2.2.2.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file jinput-2.0.5.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container jinput-2.0.5.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file lwjgl-2.9.0.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container lwjgl-2.9.0.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Examining file lwjgl_util-2.9.0.jar for potential mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] The mod container lwjgl_util-2.9.0.jar appears to be missing an mcmod.info file
+2013-12-21 19:35:36 [INFO] [ForgeModLoader] Forge Mod Loader has identified 5 mods to load
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] Received a system property request ''
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Reloading logging properties from /Users/Perry/IronManMod/forge/mcp/jars/config/logging.properties
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Reloaded logging properties
+2013-12-21 19:35:36 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2013-12-21 19:35:36 [INFO] [mcp] Activating mod mcp
+2013-12-21 19:35:36 [FINE] [FML] Mod Logging channel FML configured at default level.
+2013-12-21 19:35:36 [INFO] [FML] Activating mod FML
+2013-12-21 19:35:36 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2013-12-21 19:35:36 [INFO] [Forge] Activating mod Forge
+2013-12-21 19:35:36 [FINE] [Iron Man Mod] Enabling mod Iron Man Mod
+2013-12-21 19:35:36 [FINE] [Iron Man Mod] Mod Logging channel Iron Man Mod configured at default level.
+2013-12-21 19:35:36 [INFO] [Iron Man Mod] Activating mod Iron Man Mod
+2013-12-21 19:35:36 [FINE] [TestMod] Enabling mod TestMod
+2013-12-21 19:35:36 [FINE] [TestMod] Mod Logging channel TestMod configured at default level.
+2013-12-21 19:35:36 [INFO] [TestMod] Activating mod TestMod
+2013-12-21 19:35:36 [WARNING] [Forge Mod Loader] Mod Forge Mod Loader is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:36 [WARNING] [Minecraft Forge] Mod Minecraft Forge is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:36 [WARNING] [Iron Man Mod] Mod Iron Man Mod is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:36 [WARNING] [Test Mod] Mod Test Mod is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:36 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 19:35:36 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:36 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:36 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:36 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2013-12-21 19:35:36 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Mod sorting data
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	Iron Man Mod(Iron Man Mod:1.6.4_2 beta): bin ()
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	TestMod(Test Mod:1.6.4_2 beta): bin ()
+2013-12-21 19:35:36 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2013-12-21 19:35:36 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2013-12-21 19:35:36 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2013-12-21 19:35:36 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2013-12-21 19:35:36 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2013-12-21 19:35:36 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2013-12-21 19:35:36 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2013-12-21 19:35:36 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.953)
+2013-12-21 19:35:36 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2013-12-21 19:35:36 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2013-12-21 19:35:36 [FINEST] [Iron Man Mod] Sending event FMLConstructionEvent to mod Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemRepulsor(1522) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPowerCoreSocket(1521) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemIronManArmorBase(1520) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1519) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1518) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1517) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.IronManArmor(1516) owned by Iron Man Mod
+2013-12-21 19:35:36 [INFO] [STDOUT] CONFLICT @ 1260 item slot already occupied by perry.mods.IronManMod.armor.IronManArmor@1fb2979e while adding perry.mods.IronManMod.armor.TitaniumArmor@16261ac7
+2013-12-21 19:35:36 [INFO] [fml.ItemTracker] The mod Iron Man Mod is overwriting existing item at 1516 (perry.mods.IronManMod.armor.IronManArmor from Iron Man Mod) with perry.mods.IronManMod.armor.TitaniumArmor
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.TitaniumArmor(1516) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.TitaniumArmor(1515) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.TitaniumArmor(1514) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.armor.TitaniumArmor(1513) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitaniumPlating(1512) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemTitanium(1511) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPulseThrusters(1510) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemVibranium(1509) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemVibraniumCore(1508) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPalladium(1507) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item perry.mods.IronManMod.Item.ItemPalladiumCore(1506) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [INFO] [STDOUT] CONFLICT @ 1250 item slot already occupied by perry.mods.IronManMod.Item.ItemPalladiumCore@5999ef99 while adding net.minecraft.item.ItemBlock@94153c4
+2013-12-21 19:35:36 [INFO] [fml.ItemTracker] The mod Iron Man Mod is overwriting existing item at 1506 (perry.mods.IronManMod.Item.ItemPalladiumCore from Iron Man Mod) with net.minecraft.item.ItemBlock
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1506) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1504) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1503) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1502) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1501) owned by Iron Man Mod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:Iron Man Mod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1505) owned by Iron Man Mod
+2013-12-21 19:35:36 [FINEST] [ForgeModLoader] Testing mod Iron Man Mod to verify it accepts its own version in a remote connection
+2013-12-21 19:35:36 [FINEST] [ForgeModLoader] The mod Iron Man Mod accepts its own version (1.6.4_2 beta)
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Iron Man Mod
+2013-12-21 19:35:36 [FINEST] [Iron Man Mod] Sent event FMLConstructionEvent to mod Iron Man Mod
+2013-12-21 19:35:36 [FINEST] [TestMod] Sending event FMLConstructionEvent to mod TestMod
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item william.mods.testmod.item.Itemtestitem(1257) owned by TestMod
+2013-12-21 19:35:36 [WARNING] [ForgeModLoader] The mod FMLMod:TestMod{1.6.4_2 beta} is attempting to register a block whilst it it being constructed. This is bad modding practice - please use a proper mod lifecycle event.
+2013-12-21 19:35:36 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1201) owned by TestMod
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into TestMod
+2013-12-21 19:35:36 [FINEST] [TestMod] Sent event FMLConstructionEvent to mod TestMod
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] Mod signature data
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.4.45.953): bin (NO VALID CERTIFICATE FOUND)
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.953): bin (NO VALID CERTIFICATE FOUND)
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	Iron Man Mod(Iron Man Mod:1.6.4_2 beta): bin (NO VALID CERTIFICATE FOUND)
+2013-12-21 19:35:36 [FINE] [ForgeModLoader] 	TestMod(Test Mod:1.6.4_2 beta): bin (NO VALID CERTIFICATE FOUND)
+2013-12-21 19:35:36 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2013-12-21 19:35:36 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2013-12-21 19:35:36 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2013-12-21 19:35:36 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2013-12-21 19:35:36 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2013-12-21 19:35:36 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2013-12-21 19:35:36 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2013-12-21 19:35:36 [FINEST] [Iron Man Mod] Sending event FMLPreInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:36 [FINEST] [Iron Man Mod] Sent event FMLPreInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:36 [FINEST] [TestMod] Sending event FMLPreInitializationEvent to mod TestMod
+2013-12-21 19:35:36 [FINEST] [TestMod] Sent event FMLPreInitializationEvent to mod TestMod
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class william.mods.testmod.item.Itemtestitem with ID 1257 owned by mod TestMod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPalladium with ID 1507 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemVibraniumCore with ID 1508 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemVibranium with ID 1509 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPulseThrusters with ID 1510 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitanium with ID 1511 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemTitaniumPlating with ID 1512 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.TitaniumArmor with ID 1513 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.TitaniumArmor with ID 1514 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.TitaniumArmor with ID 1515 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.TitaniumArmor with ID 1516 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1517 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1518 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.armor.IronManArmor with ID 1519 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemIronManArmorBase with ID 1520 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemPowerCoreSocket with ID 1521 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [ForgeModLoader] Found anonymous item of class perry.mods.IronManMod.Item.ItemRepulsor with ID 1522 owned by mod Iron Man Mod, this item will NOT survive a 1.7 upgrade!
+2013-12-21 19:35:36 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 19:35:36 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 19:35:36 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 19:35:36 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 19:35:37 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sending event FMLInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sent event FMLInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sending event FMLInitializationEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sent event FMLInitializationEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2013-12-21 19:35:37 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2013-12-21 19:35:37 [FINEST] [FML] Sending event IMCEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [FML] Sent event IMCEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2013-12-21 19:35:37 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sending event IMCEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sent event IMCEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod TestMod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sending event IMCEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sent event IMCEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sending event FMLPostInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sent event FMLPostInitializationEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sending event FMLPostInitializationEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sent event FMLPostInitializationEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2013-12-21 19:35:37 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2013-12-21 19:35:37 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sending event FMLLoadCompleteEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [Iron Man Mod] Sent event FMLLoadCompleteEvent to mod Iron Man Mod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sending event FMLLoadCompleteEvent to mod TestMod
+2013-12-21 19:35:37 [FINEST] [TestMod] Sent event FMLLoadCompleteEvent to mod TestMod
+2013-12-21 19:35:37 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 5 mods
+2013-12-21 19:35:37 [WARNING] [Forge Mod Loader] Mod Forge Mod Loader is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:37 [WARNING] [Minecraft Forge] Mod Minecraft Forge is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:37 [WARNING] [Iron Man Mod] Mod Iron Man Mod is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:37 [WARNING] [Test Mod] Mod Test Mod is missing a pack.mcmeta file, things may not work well
+2013-12-21 19:35:37 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2013-12-21 19:35:37 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:37 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:37 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:37 [WARNING] [Minecraft-Client] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Titanium Block.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/PalladiumBlock.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: ironmanmod:textures/blocks/Vibranium Block.png
+2013-12-21 19:35:37 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2013-12-21 19:35:37 [INFO] [STDOUT] 
+2013-12-21 19:35:37 [INFO] [STDOUT] Starting up SoundSystem...
+2013-12-21 19:35:37 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2013-12-21 19:35:37 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2013-12-21 19:35:38 [SEVERE] [Minecraft-Client] Realms: Invalid session id
+2013-12-21 19:35:39 [INFO] [STDOUT] OpenAL initialized.
+2013-12-21 19:35:39 [INFO] [STDOUT] 
+2013-12-21 19:35:41 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.6.4
+2013-12-21 19:35:41 [INFO] [Minecraft-Server] Generating keypair
+2013-12-21 19:35:41 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2013-12-21 19:35:41 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2013-12-21 19:35:41 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2013-12-21 19:35:41 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2013-12-21 19:35:41 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2013-12-21 19:35:41 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2013-12-21 19:35:41 [FINEST] [Iron Man Mod] Sending event FMLServerAboutToStartEvent to mod Iron Man Mod
+2013-12-21 19:35:41 [FINEST] [Iron Man Mod] Sent event FMLServerAboutToStartEvent to mod Iron Man Mod
+2013-12-21 19:35:41 [FINEST] [TestMod] Sending event FMLServerAboutToStartEvent to mod TestMod
+2013-12-21 19:35:41 [FINEST] [TestMod] Sent event FMLServerAboutToStartEvent to mod TestMod
+2013-12-21 19:35:41 [FINE] [fml.ItemTracker] The difference set is not equal: only on left={1306=Item 1306, Type perry.mods.IronManMod.block.BlockVibraniumBlock, owned by Iron Man Mod, ordinal 0, name Vibranium Block, claimedModId null, 1305=Item 1305, Type perry.mods.IronManMod.block.BlockTitaniumBlock, owned by Iron Man Mod, ordinal 0, name Titanium Block, claimedModId null, 1304=Item 1304, Type perry.mods.IronManMod.block.BlockTitaniumOre, owned by Iron Man Mod, ordinal 0, name Titanium Ore, claimedModId null, 1303=Item 1303, Type perry.mods.IronManMod.block.BlockVibraniumOre, owned by Iron Man Mod, ordinal 0, name Vibranium Ore, claimedModId null, 1302=Item 1302, Type perry.mods.IronManMod.block.BlockPalladiumOre, owned by Iron Man Mod, ordinal 0, name Palladium Ore, claimedModId null, 1301=Item 1301, Type perry.mods.IronManMod.block.BlockPalladiumBlock, owned by Iron Man Mod, ordinal 0, name Palladium Block, claimedModId null}: only on right={1502=Item 1502, Type perry.mods.IronManMod.block.BlockPalladiumOre, owned by Iron Man Mod, ordinal 0, name Palladium Ore, claimedModId null, 1503=Item 1503, Type perry.mods.IronManMod.block.BlockVibraniumOre, owned by Iron Man Mod, ordinal 0, name Vibranium Ore, claimedModId null, 1501=Item 1501, Type perry.mods.IronManMod.block.BlockPalladiumBlock, owned by Iron Man Mod, ordinal 0, name Palladium Block, claimedModId null, 1505=Item 1505, Type perry.mods.IronManMod.block.BlockTitaniumBlock, owned by Iron Man Mod, ordinal 0, name Titanium Block, claimedModId null, 1504=Item 1504, Type perry.mods.IronManMod.block.BlockTitaniumOre, owned by Iron Man Mod, ordinal 0, name Titanium Ore, claimedModId null}: value differences={1520=(Item 1520, Type perry.mods.IronManMod.Item.ItemTitaniumLeggings, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1520, Type perry.mods.IronManMod.Item.ItemIronManArmorBase, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1521=(Item 1521, Type perry.mods.IronManMod.Item.ItemTitaniumBooties, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1521, Type perry.mods.IronManMod.Item.ItemPowerCoreSocket, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1509=(Item 1509, Type perry.mods.IronManMod.Item.ItemTitaniumPlating, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1509, Type perry.mods.IronManMod.Item.ItemVibranium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1508=(Item 1508, Type perry.mods.IronManMod.Item.ItemTitanium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1508, Type perry.mods.IronManMod.Item.ItemVibraniumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1511=(Item 1511, Type perry.mods.IronManMod.Item.ItemVibraniumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1511, Type perry.mods.IronManMod.Item.ItemTitanium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1510=(Item 1510, Type perry.mods.IronManMod.Item.ItemTitaniumChestplate, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1510, Type perry.mods.IronManMod.Item.ItemPulseThrusters, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1507=(Item 1507, Type perry.mods.IronManMod.Item.ItemVibranium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1507, Type perry.mods.IronManMod.Item.ItemPalladium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1506=(Item 1506, Type perry.mods.IronManMod.Item.ItemPalladium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1506, Type perry.mods.IronManMod.block.BlockVibraniumBlock, owned by Iron Man Mod, ordinal 0, name Vibranium Block, claimedModId null), 1517=(Item 1517, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1517, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null), 1516=(Item 1516, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null, Item 1516, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1519=(Item 1519, Type perry.mods.IronManMod.Item.ItemPowerCoreSocket, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1519, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1518=(Item 1518, Type perry.mods.IronManMod.Item.ItemIronManArmorBase, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1518, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null), 1513=(Item 1513, Type perry.mods.IronManMod.Item.ItemPulseThrusters, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1513, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 3, name null, claimedModId null), 1512=(Item 1512, Type perry.mods.IronManMod.Item.ItemPalladiumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1512, Type perry.mods.IronManMod.Item.ItemTitaniumPlating, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1515=(Item 1515, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null, Item 1515, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null), 1514=(Item 1514, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 3, name null, claimedModId null, Item 1514, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null)}
+2013-12-21 19:35:41 [SEVERE] [fml.ItemTracker] FML has detected item discrepancies
+2013-12-21 19:35:41 [SEVERE] [fml.ItemTracker] Missing items : {1306=Item 1306, Type perry.mods.IronManMod.block.BlockVibraniumBlock, owned by Iron Man Mod, ordinal 0, name Vibranium Block, claimedModId null, 1305=Item 1305, Type perry.mods.IronManMod.block.BlockTitaniumBlock, owned by Iron Man Mod, ordinal 0, name Titanium Block, claimedModId null, 1304=Item 1304, Type perry.mods.IronManMod.block.BlockTitaniumOre, owned by Iron Man Mod, ordinal 0, name Titanium Ore, claimedModId null, 1303=Item 1303, Type perry.mods.IronManMod.block.BlockVibraniumOre, owned by Iron Man Mod, ordinal 0, name Vibranium Ore, claimedModId null, 1302=Item 1302, Type perry.mods.IronManMod.block.BlockPalladiumOre, owned by Iron Man Mod, ordinal 0, name Palladium Ore, claimedModId null, 1301=Item 1301, Type perry.mods.IronManMod.block.BlockPalladiumBlock, owned by Iron Man Mod, ordinal 0, name Palladium Block, claimedModId null}
+2013-12-21 19:35:41 [SEVERE] [fml.ItemTracker] Mismatched items : {1520=(Item 1520, Type perry.mods.IronManMod.Item.ItemTitaniumLeggings, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1520, Type perry.mods.IronManMod.Item.ItemIronManArmorBase, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1521=(Item 1521, Type perry.mods.IronManMod.Item.ItemTitaniumBooties, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1521, Type perry.mods.IronManMod.Item.ItemPowerCoreSocket, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1509=(Item 1509, Type perry.mods.IronManMod.Item.ItemTitaniumPlating, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1509, Type perry.mods.IronManMod.Item.ItemVibranium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1508=(Item 1508, Type perry.mods.IronManMod.Item.ItemTitanium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1508, Type perry.mods.IronManMod.Item.ItemVibraniumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1511=(Item 1511, Type perry.mods.IronManMod.Item.ItemVibraniumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1511, Type perry.mods.IronManMod.Item.ItemTitanium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1510=(Item 1510, Type perry.mods.IronManMod.Item.ItemTitaniumChestplate, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1510, Type perry.mods.IronManMod.Item.ItemPulseThrusters, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1507=(Item 1507, Type perry.mods.IronManMod.Item.ItemVibranium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1507, Type perry.mods.IronManMod.Item.ItemPalladium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1506=(Item 1506, Type perry.mods.IronManMod.Item.ItemPalladium, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1506, Type perry.mods.IronManMod.block.BlockVibraniumBlock, owned by Iron Man Mod, ordinal 0, name Vibranium Block, claimedModId null), 1517=(Item 1517, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1517, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null), 1516=(Item 1516, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null, Item 1516, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1519=(Item 1519, Type perry.mods.IronManMod.Item.ItemPowerCoreSocket, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1519, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1518=(Item 1518, Type perry.mods.IronManMod.Item.ItemIronManArmorBase, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1518, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null), 1513=(Item 1513, Type perry.mods.IronManMod.Item.ItemPulseThrusters, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1513, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 3, name null, claimedModId null), 1512=(Item 1512, Type perry.mods.IronManMod.Item.ItemPalladiumCore, owned by Iron Man Mod, ordinal 0, name null, claimedModId null, Item 1512, Type perry.mods.IronManMod.Item.ItemTitaniumPlating, owned by Iron Man Mod, ordinal 0, name null, claimedModId null), 1515=(Item 1515, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null, Item 1515, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 1, name null, claimedModId null), 1514=(Item 1514, Type perry.mods.IronManMod.armor.IronManArmor, owned by Iron Man Mod, ordinal 3, name null, claimedModId null, Item 1514, Type perry.mods.IronManMod.armor.TitaniumArmor, owned by Iron Man Mod, ordinal 2, name null, claimedModId null)}
+2013-12-21 19:35:52 [INFO] [ForgeModLoader] Loading dimension 0 (new test) (net.minecraft.server.integrated.IntegratedServer@6cb8daa7)
+2013-12-21 19:35:52 [INFO] [ForgeModLoader] Loading dimension 1 (new test) (net.minecraft.server.integrated.IntegratedServer@6cb8daa7)
+2013-12-21 19:35:52 [INFO] [ForgeModLoader] Loading dimension -1 (new test) (net.minecraft.server.integrated.IntegratedServer@6cb8daa7)
+2013-12-21 19:35:52 [INFO] [Minecraft-Server] Preparing start region for level 0
+2013-12-21 19:35:53 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2013-12-21 19:35:53 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2013-12-21 19:35:53 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2013-12-21 19:35:53 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2013-12-21 19:35:53 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2013-12-21 19:35:53 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2013-12-21 19:35:53 [FINEST] [Iron Man Mod] Sending event FMLServerStartingEvent to mod Iron Man Mod
+2013-12-21 19:35:53 [FINEST] [Iron Man Mod] Sent event FMLServerStartingEvent to mod Iron Man Mod
+2013-12-21 19:35:53 [FINEST] [TestMod] Sending event FMLServerStartingEvent to mod TestMod
+2013-12-21 19:35:53 [FINEST] [TestMod] Sent event FMLServerStartingEvent to mod TestMod
+2013-12-21 19:35:53 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2013-12-21 19:35:53 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2013-12-21 19:35:53 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2013-12-21 19:35:53 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2013-12-21 19:35:53 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2013-12-21 19:35:53 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2013-12-21 19:35:53 [FINEST] [Iron Man Mod] Sending event FMLServerStartedEvent to mod Iron Man Mod
+2013-12-21 19:35:53 [FINEST] [Iron Man Mod] Sent event FMLServerStartedEvent to mod Iron Man Mod
+2013-12-21 19:35:53 [FINEST] [TestMod] Sending event FMLServerStartedEvent to mod TestMod
+2013-12-21 19:35:53 [FINEST] [TestMod] Sent event FMLServerStartedEvent to mod TestMod
+2013-12-21 19:35:53 [INFO] [STDOUT] loading single player
+2013-12-21 19:35:53 [INFO] [Minecraft-Server] Player839[/127.0.0.1:0] logged in with entity id 42 at (-1176.5973196314162, 49.0, -318.5694424552524)
+2013-12-21 19:35:53 [INFO] [Minecraft-Server] Player839 joined the game
+2013-12-21 19:35:53 [INFO] [STDOUT] Setting up custom skins
+2013-12-21 19:35:55 [WARNING] [Minecraft-Client] Failed to load texture: ironmanmod:TitaniumArmor_1.png
+java.io.FileNotFoundException: ironmanmod:TitaniumArmor_1.png
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:64)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:63)
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:31)
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:84)
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:41)
+	at net.minecraft.client.renderer.entity.Render.bindTexture(Render.java:53)
+	at net.minecraft.client.renderer.entity.RenderPlayer.setArmorModel(RenderPlayer.java:72)
+	at net.minecraft.client.renderer.entity.RenderPlayer.shouldRenderPass(RenderPlayer.java:514)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.doRenderLiving(RendererLivingEntity.java:164)
+	at net.minecraft.client.renderer.entity.RenderPlayer.func_130009_a(RenderPlayer.java:166)
+	at net.minecraft.client.renderer.entity.RenderPlayer.doRender(RenderPlayer.java:556)
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntityWithPosYaw(RenderManager.java:312)
+	at net.minecraft.client.gui.inventory.GuiInventory.func_110423_a(GuiInventory.java:121)
+	at net.minecraft.client.gui.inventory.GuiInventory.drawGuiContainerBackgroundLayer(GuiInventory.java:95)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:111)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.drawScreen(InventoryEffectRenderer.java:43)
+	at net.minecraft.client.gui.inventory.GuiInventory.drawScreen(GuiInventory.java:80)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1036)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:946)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:838)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+2013-12-21 19:35:55 [WARNING] [Minecraft-Client] Failed to load texture: ironmanmod:TitaniumArmor_2.png
+java.io.FileNotFoundException: ironmanmod:TitaniumArmor_2.png
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:64)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:63)
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:31)
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:84)
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:41)
+	at net.minecraft.client.renderer.entity.Render.bindTexture(Render.java:53)
+	at net.minecraft.client.renderer.entity.RenderPlayer.setArmorModel(RenderPlayer.java:72)
+	at net.minecraft.client.renderer.entity.RenderPlayer.shouldRenderPass(RenderPlayer.java:514)
+	at net.minecraft.client.renderer.entity.RendererLivingEntity.doRenderLiving(RendererLivingEntity.java:164)
+	at net.minecraft.client.renderer.entity.RenderPlayer.func_130009_a(RenderPlayer.java:166)
+	at net.minecraft.client.renderer.entity.RenderPlayer.doRender(RenderPlayer.java:556)
+	at net.minecraft.client.renderer.entity.RenderManager.renderEntityWithPosYaw(RenderManager.java:312)
+	at net.minecraft.client.gui.inventory.GuiInventory.func_110423_a(GuiInventory.java:121)
+	at net.minecraft.client.gui.inventory.GuiInventory.drawGuiContainerBackgroundLayer(GuiInventory.java:95)
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:111)
+	at net.minecraft.client.renderer.InventoryEffectRenderer.drawScreen(InventoryEffectRenderer.java:43)
+	at net.minecraft.client.gui.inventory.GuiInventory.drawScreen(GuiInventory.java:80)
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1036)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:946)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:838)
+	at net.minecraft.client.main.Main.main(Main.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+2013-12-21 19:36:11 [INFO] [Minecraft-Server] Player839 fell from a high place
+2013-12-21 19:36:11 [INFO] [Minecraft-Client] [CHAT] Player839 fell from a high place
+2013-12-21 19:36:13 [INFO] [STDOUT] Setting up custom skins
+2013-12-21 19:37:04 [INFO] [Minecraft-Client] Stopping!
+2013-12-21 19:37:04 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2013-12-21 19:37:04 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2013-12-21 19:37:04 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2013-12-21 19:37:04 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2013-12-21 19:37:04 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2013-12-21 19:37:04 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2013-12-21 19:37:04 [FINEST] [Iron Man Mod] Sending event FMLServerStoppingEvent to mod Iron Man Mod
+2013-12-21 19:37:04 [FINEST] [Iron Man Mod] Sent event FMLServerStoppingEvent to mod Iron Man Mod
+2013-12-21 19:37:04 [FINEST] [TestMod] Sending event FMLServerStoppingEvent to mod TestMod
+2013-12-21 19:37:04 [FINEST] [TestMod] Sent event FMLServerStoppingEvent to mod TestMod
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Stopping server
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving players
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Player839 left the game
+2013-12-21 19:37:04 [INFO] [STDOUT] 
+2013-12-21 19:37:04 [INFO] [STDOUT] SoundSystem shutting down...
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving worlds
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/Overworld
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/Nether
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving chunks for level 'new test'/The End
+2013-12-21 19:37:04 [INFO] [ForgeModLoader] Unloading dimension 0
+2013-12-21 19:37:04 [INFO] [ForgeModLoader] Unloading dimension -1
+2013-12-21 19:37:04 [INFO] [ForgeModLoader] Unloading dimension 1
+2013-12-21 19:37:04 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2013-12-21 19:37:04 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2013-12-21 19:37:04 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
+2013-12-21 19:37:04 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
+2013-12-21 19:37:04 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2013-12-21 19:37:04 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2013-12-21 19:37:04 [FINEST] [Iron Man Mod] Sending event FMLServerStoppedEvent to mod Iron Man Mod
+2013-12-21 19:37:04 [FINEST] [Iron Man Mod] Sent event FMLServerStoppedEvent to mod Iron Man Mod
+2013-12-21 19:37:04 [FINEST] [TestMod] Sending event FMLServerStoppedEvent to mod TestMod
+2013-12-21 19:37:04 [FINEST] [TestMod] Sent event FMLServerStoppedEvent to mod TestMod
+2013-12-21 19:37:04 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+2013-12-21 19:37:04 [INFO] [STDOUT] 
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Stopping server
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving players
+2013-12-21 19:37:04 [INFO] [Minecraft-Server] Saving worlds

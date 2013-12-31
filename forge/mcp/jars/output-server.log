@@ -1764,3 +1764,19 @@ Caused by: java.lang.Error: Unresolved compilation problem:
 2013-12-21 20:03:12 [SERVER] [INFO] Preparing start region for level 0
 2013-12-21 20:03:13 [SERVER] [INFO] Player453[/127.0.0.1:0] logged in with entity id 41 at (-1180.8248883148133, 4.0, -316.99138316878214)
 2013-12-21 20:03:13 [SERVER] [INFO] Player453 joined the game
+2013-12-30 12:17:12 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2013-12-30 12:17:12 [SERVER] [INFO] Generating keypair
+2013-12-30 12:17:12 [SERVER] [INFO] Preparing start region for level 0
+2013-12-30 12:17:13 [SERVER] [INFO] Player330[/127.0.0.1:0] logged in with entity id 52 at (-1194.671584804098, 5.0, -309.02775425292253)
+2013-12-30 12:17:13 [SERVER] [INFO] Player330 joined the game
+2013-12-30 12:17:31 [SERVER] [INFO] Saving and pausing game...
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2013-12-30 12:17:31 [SERVER] [INFO] Stopping server
+2013-12-30 12:17:31 [SERVER] [INFO] Saving players
+2013-12-30 12:17:31 [SERVER] [INFO] Player330 left the game
+2013-12-30 12:17:31 [SERVER] [INFO] Saving worlds
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/The End

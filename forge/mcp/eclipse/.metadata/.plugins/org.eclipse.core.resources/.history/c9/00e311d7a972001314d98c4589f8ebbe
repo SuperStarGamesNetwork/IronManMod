@@ -100,7 +100,7 @@ public static Item TitaniumHelmit;
 
 public static CreativeTabs tabIronManMod = new CreativeTabs("tabCustom") {
     public ItemStack getIconItemStack() {
-            return new ItemStack(TitaniumPlating, 1, 0);
+            return new ItemStack(IronManBodyArmor, 1, 0);
     }
 };
 

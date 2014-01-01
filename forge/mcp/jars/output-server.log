@@ -1780,3 +1780,65 @@ Caused by: java.lang.Error: Unresolved compilation problem:
 2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
 2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
 2013-12-30 12:17:31 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2014-01-01 00:58:02 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-01-01 00:58:02 [SERVER] [INFO] Generating keypair
+2014-01-01 00:58:02 [SERVER] [INFO] Preparing start region for level 0
+2014-01-01 00:58:03 [SERVER] [INFO] Player474[/127.0.0.1:0] logged in with entity id 52 at (-1166.2915550999824, 4.0, -316.6873899407611)
+2014-01-01 00:58:03 [SERVER] [INFO] Player474 joined the game
+2014-01-01 00:58:14 [SERVER] [INFO] Saving and pausing game...
+2014-01-01 00:58:14 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2014-01-01 00:58:14 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2014-01-01 00:58:14 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2014-01-01 00:58:15 [SERVER] [INFO] Stopping server
+2014-01-01 00:58:15 [SERVER] [INFO] Saving players
+2014-01-01 00:58:15 [SERVER] [INFO] Player474 left the game
+2014-01-01 00:58:15 [SERVER] [INFO] Saving worlds
+2014-01-01 00:58:15 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2014-01-01 00:58:15 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2014-01-01 00:58:15 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2014-01-01 00:59:30 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-01-01 00:59:30 [SERVER] [INFO] Generating keypair
+2014-01-01 00:59:30 [SERVER] [INFO] Preparing start region for level 0
+2014-01-01 00:59:31 [SERVER] [INFO] Player923[/127.0.0.1:0] logged in with entity id 52 at (-1179.6347435954497, 4.0, -318.89366189143425)
+2014-01-01 00:59:31 [SERVER] [INFO] Player923 joined the game
+2014-01-01 01:02:17 [SERVER] [INFO] [Player923: Set own game mode to Creative Mode]
+2014-01-01 01:02:19 [SERVER] [INFO] [Player923: Set own game mode to Survival Mode]
+2014-01-01 01:02:35 [SERVER] [INFO] [Player923: Set own game mode to Survival Mode]
+2014-01-01 01:02:37 [SERVER] [INFO] [Player923: Set own game mode to Creative Mode]
+2014-01-01 01:02:54 [SERVER] [INFO] [Player923: Set the time to 14000]
+2014-01-01 01:02:58 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:02 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:03 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:03 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:04 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:26 [SERVER] [INFO] [Player923: Set the time to 1400000]
+2014-01-01 01:03:33 [SERVER] [INFO] [Player923: Set the time to 16000]
+2014-01-01 01:03:42 [SERVER] [INFO] [Player923: Set the time to 15000]
+2014-01-01 01:03:45 [SERVER] [INFO] [Player923: Set the time to 14000]
+2014-01-01 01:03:47 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:03:50 [SERVER] [INFO] [Player923: Set the time to 150000]
+2014-01-01 01:03:56 [SERVER] [INFO] [Player923: Set the time to 145000]
+2014-01-01 01:04:01 [SERVER] [INFO] [Player923: Set the time to 14000]
+2014-01-01 01:04:04 [SERVER] [INFO] [Player923: Set the time to 140000]
+2014-01-01 01:04:10 [SERVER] [INFO] [Player923: Set the time to 145000]
+2014-01-01 01:04:16 [SERVER] [INFO] [Player923: Set the time to 140500]
+2014-01-01 01:04:20 [SERVER] [INFO] [Player923: Set the time to 140600]
+2014-01-01 01:04:23 [SERVER] [INFO] [Player923: Set the time to 140700]
+2014-01-01 01:04:29 [SERVER] [INFO] [Player923: Set the time to 140000000]
+2014-01-01 01:04:35 [SERVER] [INFO] [Player923: Set the time to 1400000000]
+2014-01-01 01:04:42 [SERVER] [INFO] [Player923: Set own game mode to Creative Mode]
+2014-01-01 01:04:52 [SERVER] [INFO] [Player923: Game rule has been updated]
+2014-01-01 01:04:56 [SERVER] [INFO] [Player923: Set own game mode to Survival Mode]
+2014-01-01 01:05:02 [SERVER] [INFO] [Player923: Set own game mode to Creative Mode]
+2014-01-01 01:05:09 [SERVER] [INFO] [Player923: Set own game mode to Survival Mode]
+2014-01-01 01:07:25 [SERVER] [INFO] Saving and pausing game...
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/The End
+2014-01-01 01:07:25 [SERVER] [INFO] Stopping server
+2014-01-01 01:07:25 [SERVER] [INFO] Saving players
+2014-01-01 01:07:25 [SERVER] [INFO] Player923 left the game
+2014-01-01 01:07:25 [SERVER] [INFO] Saving worlds
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/Overworld
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/Nether
+2014-01-01 01:07:25 [SERVER] [INFO] Saving chunks for level 'new test'/The End

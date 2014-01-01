@@ -4080,3 +4080,124 @@ java.io.FileNotFoundException: ironmanmod:TitaniumArmor_2.png
 2013-12-30 12:16:56 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
 2013-12-30 12:16:57 [CLIENT] [SEVERE] Realms: Invalid session id
 2013-12-30 12:17:34 [CLIENT] [INFO] Stopping!
+2014-01-01 00:57:47 [CLIENT] [INFO] Setting user: Player474
+2014-01-01 00:57:48 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-01 00:57:48 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-01 00:57:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2014-01-01 00:57:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:51 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2014-01-01 00:57:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2014-01-01 00:57:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:52 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2014-01-01 00:57:52 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2014-01-01 00:57:53 [CLIENT] [SEVERE] Realms: Invalid session id
+2014-01-01 00:58:16 [CLIENT] [INFO] Stopping!
+2014-01-01 00:59:21 [CLIENT] [INFO] Setting user: Player923
+2014-01-01 00:59:21 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-01-01 00:59:21 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-01-01 00:59:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2014-01-01 00:59:24 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:24 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:24 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:24 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2014-01-01 00:59:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Iron Man Mod, FMLFileResourcePack:Test Mod
+2014-01-01 00:59:25 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:25 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:25 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:25 [CLIENT] [WARNING] ResourcePack: ignored non-lowercase namespace: Platypusmod/ in /Users/Perry/IronManMod/forge/mcp/eclipse/Minecraft/bin
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Boots.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Legs.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Vibranium.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Titanium Legs.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Body.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Mk3 Helmit.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/items/testitem.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Repulsor.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/Palladium.png
+2014-01-01 00:59:25 [CLIENT] [SEVERE] Using missing texture, unable to load: ironmanmod:textures/items/PowerCoreSocket.png
+2014-01-01 00:59:26 [CLIENT] [SEVERE] Using missing texture, unable to load: testmod:textures/blocks/Testblock.png
+2014-01-01 00:59:27 [CLIENT] [SEVERE] Realms: Invalid session id
+2014-01-01 01:02:16 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:02:17 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:02:19 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:02:31 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2014-01-01 01:02:35 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:02:37 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:02:45 [CLIENT] [INFO] [CHAT] '=14000' is not a valid number
+2014-01-01 01:02:48 [CLIENT] [INFO] [CHAT] The number you have entered (-14000) is too small, it must be at least 0
+2014-01-01 01:02:54 [CLIENT] [INFO] [CHAT] Set the time to 14000
+2014-01-01 01:02:58 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:02 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:03 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:03 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:04 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:26 [CLIENT] [INFO] [CHAT] Set the time to 1400000
+2014-01-01 01:03:33 [CLIENT] [INFO] [CHAT] Set the time to 16000
+2014-01-01 01:03:42 [CLIENT] [INFO] [CHAT] Set the time to 15000
+2014-01-01 01:03:45 [CLIENT] [INFO] [CHAT] Set the time to 14000
+2014-01-01 01:03:47 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:03:50 [CLIENT] [INFO] [CHAT] Set the time to 150000
+2014-01-01 01:03:56 [CLIENT] [INFO] [CHAT] Set the time to 145000
+2014-01-01 01:04:01 [CLIENT] [INFO] [CHAT] Set the time to 14000
+2014-01-01 01:04:04 [CLIENT] [INFO] [CHAT] Set the time to 140000
+2014-01-01 01:04:10 [CLIENT] [INFO] [CHAT] Set the time to 145000
+2014-01-01 01:04:16 [CLIENT] [INFO] [CHAT] Set the time to 140500
+2014-01-01 01:04:20 [CLIENT] [INFO] [CHAT] Set the time to 140600
+2014-01-01 01:04:23 [CLIENT] [INFO] [CHAT] Set the time to 140700
+2014-01-01 01:04:29 [CLIENT] [INFO] [CHAT] Set the time to 140000000
+2014-01-01 01:04:33 [CLIENT] [INFO] [CHAT] '14000000000' is not a valid number
+2014-01-01 01:04:35 [CLIENT] [INFO] [CHAT] Set the time to 1400000000
+2014-01-01 01:04:41 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:04:42 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:04:46 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:04:46 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:04:47 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:04:49 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:49 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:49 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:50 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:50 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:50 [CLIENT] [INFO] [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+2014-01-01 01:04:52 [CLIENT] [INFO] [CHAT] Game rule has been updated
+2014-01-01 01:04:55 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:04:56 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:05:01 [CLIENT] [INFO] [CHAT] /gamemode, /give, /gamerule
+2014-01-01 01:05:02 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:05:09 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2014-01-01 01:07:26 [CLIENT] [INFO] Stopping!

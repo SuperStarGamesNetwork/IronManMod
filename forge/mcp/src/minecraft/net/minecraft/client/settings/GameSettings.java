@@ -50,14 +50,14 @@ public class GameSettings
     public boolean clouds = true;
 
     /** The name of the selected texture pack. */
-    public String skin = "Default";
+    public String skin = "perry";
     public int chatVisibility;
     public boolean chatColours = true;
     public boolean chatLinks = true;
     public boolean chatLinksPrompt = true;
     public float chatOpacity = 1.0F;
     public boolean serverTextures = true;
-    public boolean snooperEnabled = true;
+    public boolean snooperEnabled = false;
     public boolean fullScreen;
     public boolean enableVsync = true;
     public boolean hideServerAddress;
@@ -71,7 +71,7 @@ public class GameSettings
     public boolean pauseOnLostFocus = true;
 
     /** Whether to show your cape */
-    public boolean showCape = true;
+    public boolean showCape = false;
     public boolean touchscreen;
     public int overrideWidth;
     public int overrideHeight;

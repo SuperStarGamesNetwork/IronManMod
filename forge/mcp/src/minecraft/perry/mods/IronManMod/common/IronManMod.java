@@ -1,5 +1,14 @@
 package perry.mods.IronManMod.common;
 
+	
+	/**
+	 * Imports
+	 * 
+	 * This blue looks awesome
+	 */
+
+
+import perry.mods.IronManMod.armor.HulkbusterArmor;
 import perry.mods.IronManMod.armor.IronManArmor;
 import perry.mods.IronManMod.armor.TitaniumArmor;
 import perry.mods.IronManMod.Item.ItemIronManArmorBase;
@@ -39,6 +48,15 @@ import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.GameRegistry;
 import cpw.mods.fml.common.registry.LanguageRegistry;
 
+import java.util.Scanner;
+
+
+
+
+
+
+
+
 
 
 @Mod(modid = "Iron Man Mod", name = "Iron Man Mod", version = "1.6.4_2 beta")
@@ -59,18 +77,13 @@ public class IronManMod {
 		
 
 	
-	
-
+  /**Item Registery */
 	
 	
 public static Item Palladium;
 public static Item Vibranium;
-public static Block PalladiumBlock;
 public static Item Titanium;
 public static Item TitaniumPlating;
-public static Block PalladiumOre;
-public static Block VibraniumOre;
-public static Block TitaniumOre;
 public static Item PulseThrusters;
 public static Item PalladiumCore;
 public static Item VibraniumCore;
@@ -83,10 +96,23 @@ public static Item PowerCoreSocket;
 public static Item TitaniumLeggings;
 public static Item TitaniumBooties;
 public static Item IronManHelmit;
-public static Block TitaniumBlock;
-public static Block VibraniumBlock;
 public static Item Repulsor;
 public static Item TitaniumHelmit;
+public static Item HulkbusterBody;
+public static Item HulkbusterHead;
+public static Item HulkbusterLeggs;
+public static Item HulkbusterBoots;
+
+
+
+ /**Block Registery*/
+
+public static Block PalladiumBlock;
+public static Block PalladiumOre;
+public static Block TitaniumOre;
+public static Block TitaniumBlock;
+public static Block VibraniumBlock;
+public static Block VibraniumOre;
 
 
 
@@ -96,6 +122,11 @@ public static Item TitaniumHelmit;
 
 
 
+
+
+String hi;
+
+Scanner input = new Scanner(System.in);
 
 
 public static CreativeTabs tabIronManMod = new CreativeTabs("tabCustom") {
@@ -112,7 +143,8 @@ public static CreativeTabs tabIronManMod = new CreativeTabs("tabCustom") {
 
 
 public static EnumArmorMaterial TitaniumArmor = EnumHelper.addArmorMaterial("Titanium", 33, new int[]{3, 8, 6, 3}, 10);
-public static EnumArmorMaterial IronManArmor = EnumHelper.addArmorMaterial("IRONMAN", 19800, new int[]{13, 18, 16, 13}, 0); 
+public static EnumArmorMaterial IronManArmor = EnumHelper.addArmorMaterial("IRONMAN", 19800, new int[]{13, 18, 16, 13}, 0);
+public static EnumArmorMaterial HulkbusterArmor = EnumHelper.addArmorMaterial("HULKBUSTER", 19800, new int[]{16, 21, 19, 16}, 0);
 public static EnumToolMaterial IronManTool = EnumHelper.addToolMaterial("IronMan", 3, 19800, 20.0F, 20.0F, 10);
 
 
@@ -122,25 +154,46 @@ public static EnumToolMaterial IronManTool = EnumHelper.addToolMaterial("IronMan
 
 public IronManMod() {
 	
+	/** Boot prosecces */
+	
+	System.out.println("Starting to activate the IronMan Mod Please wait");
+	System.out.println("loading");
+	System.out.println("loading.");
+	System.out.println("loading..");
+	System.out.println("loading...");
+	System.out.println("Done!!!!!!!!!!!!!!!!!!!!!!!");
+	
+	//Armor
 	
 	
 	
 	
 	
-	//Items and Armor if this is cool then send me a message in skype saying I stole your code
+	HulkbusterHead = new HulkbusterArmor(1271, HulkbusterArmor, 0, 0, "HulkBuster").setUnlocalizedName("HulkBusterHead").setCreativeTab(tabIronManMod);
+	HulkbusterBody = new HulkbusterArmor(1270, HulkbusterArmor, 1, 0, "HulkBuster").setUnlocalizedName("HulkBusterBody").setCreativeTab(tabIronManMod);
+	HulkbusterLeggs = new HulkbusterArmor(1269, HulkbusterArmor, 2, 0, "HulkBuster").setUnlocalizedName("HulkBusterLeggs").setCreativeTab(tabIronManMod);
+	HulkbusterBoots = new HulkbusterArmor(1268, HulkbusterArmor, 3, 0, "HulkBuster").setUnlocalizedName("HulkBusterBoots").setCreativeTab(tabIronManMod);
+	IronManHelmit = new IronManArmor(1267, IronManArmor, 0, 0, "IronMan").setUnlocalizedName("IronManHelmit").setCreativeTab(tabIronManMod);
+	IronManBodyArmor = new IronManArmor(1266, IronManArmor, 0, 1, "IronMan").setUnlocalizedName("IronManBodyArmor").setCreativeTab(tabIronManMod);
+	IronManLeggings = new IronManArmor(1265, IronManArmor, 0, 2, "IronMan").setUnlocalizedName("IronManLeggings").setCreativeTab(tabIronManMod);
+	IronManBoots = new IronManArmor(1264, IronManArmor, 0, 3, "IronMan").setUnlocalizedName("IronManBoots").setCreativeTab(tabIronManMod);
+	TitaniumHelmit = new TitaniumArmor(1263, TitaniumArmor, 0, 0, "Titanium").setUnlocalizedName("TitaniumHelmit").setCreativeTab(tabIronManMod);
+	TitaniumChestplate = new TitaniumArmor(1262, TitaniumArmor, 0, 1, "Titanium").setUnlocalizedName("TitaniumChestplate").setCreativeTab(tabIronManMod);
+	TitaniumLeggings = new TitaniumArmor(1261, TitaniumArmor, 0, 2, "Titanium").setUnlocalizedName("TitaniumLeggings").setCreativeTab(tabIronManMod);
+	TitaniumBooties = new TitaniumArmor(1260, TitaniumArmor, 0, 3, "Titanium").setUnlocalizedName("TitaniumBooties").setCreativeTab(tabIronManMod);
 	
 	
-	Repulsor = new ItemRepulsor(1267, IronManTool).setUnlocalizedName("Repulsor").setCreativeTab(tabIronManMod);
-	PowerCoreSocket = new ItemPowerCoreSocket(1266).setUnlocalizedName("PowerCoreSocket").setCreativeTab(tabIronManMod);
-	IronManArmorBase = new ItemIronManArmorBase(1265).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
-	IronManHelmit = new IronManArmor(1264, IronManArmor, 0, 0, "IronMan").setUnlocalizedName("IronManHelmit").setCreativeTab(tabIronManMod);
-	IronManBodyArmor = new IronManArmor(1263, IronManArmor, 0, 1, "IronMan").setUnlocalizedName("IronManBodyArmor").setCreativeTab(tabIronManMod);
-	IronManLeggings = new IronManArmor(1262, IronManArmor, 0, 2, "IronMan").setUnlocalizedName("IronManLeggings").setCreativeTab(tabIronManMod);
-	IronManBoots = new IronManArmor(1261, IronManArmor, 0, 3, "IronMan").setUnlocalizedName("IronManBoots").setCreativeTab(tabIronManMod);
-	TitaniumHelmit = new TitaniumArmor(1260, TitaniumArmor, 0, 0, "Titanium").setUnlocalizedName("TitaniumHelmit").setCreativeTab(tabIronManMod);
-	TitaniumChestplate = new TitaniumArmor(1259, TitaniumArmor, 0, 1, "Titanium").setUnlocalizedName("TitaniumChestplate").setCreativeTab(tabIronManMod);
-	TitaniumLeggings = new TitaniumArmor(1258, TitaniumArmor, 0, 2, "Titanium").setUnlocalizedName("TitaniumLeggings").setCreativeTab(tabIronManMod);
-	TitaniumBooties = new TitaniumArmor(1257, TitaniumArmor, 0, 3, "Titanium").setUnlocalizedName("TitaniumBooties").setCreativeTab(tabIronManMod);
+	
+	
+	
+	
+	
+	//Items 
+	
+	
+	Repulsor = new ItemRepulsor(1259, IronManTool).setUnlocalizedName("Repulsor").setCreativeTab(tabIronManMod);
+	PowerCoreSocket = new ItemPowerCoreSocket(1258).setUnlocalizedName("PowerCoreSocket").setCreativeTab(tabIronManMod);
+	IronManArmorBase = new ItemIronManArmorBase(1257).setUnlocalizedName("IronManArmorBase").setCreativeTab(tabIronManMod);
 	TitaniumPlating = new ItemTitaniumPlating(1256).setUnlocalizedName("TitaniumPlating").setCreativeTab(tabIronManMod);
 	Titanium = new ItemTitanium(1255).setUnlocalizedName("Titanium").setCreativeTab(tabIronManMod);
 	PulseThrusters = new ItemPulseThrusters(1254).setUnlocalizedName("PulseThrusters").setCreativeTab(tabIronManMod);
@@ -164,8 +217,10 @@ public IronManMod() {
 	
 	
 	
-
+		
    
+		/** Block registering */
+	
 	
 GameRegistry.registerBlock(VibraniumBlock, "Vibranium Block");
 GameRegistry.registerBlock(TitaniumOre, "Titanium Ore");	
@@ -173,6 +228,11 @@ GameRegistry.registerBlock(VibraniumOre, "Vibranium Ore");
 GameRegistry.registerBlock(PalladiumOre, "Palladium Ore");
 GameRegistry.registerBlock(PalladiumBlock, "Palladium Block");
 GameRegistry.registerBlock(TitaniumBlock, "Titanium Block");
+
+
+	/** Names */
+
+
 LanguageRegistry.addName(Palladium, "Palladium Ingot");
 LanguageRegistry.addName(Vibranium, "Vibranium Ingot");
 LanguageRegistry.addName(PalladiumBlock, "Palladium Block");
@@ -196,9 +256,11 @@ LanguageRegistry.addName(TitaniumBooties, "Titanium Booties");
 LanguageRegistry.addName(Repulsor, "Repulsors");
 LanguageRegistry.addName(TitaniumBlock, "Titanium Block");
 LanguageRegistry.addName(VibraniumBlock, "Vibranium Block");
-
 LanguageRegistry.instance().addStringLocalization("itemGroup.tabCustom", "en_US", "Iron Man Mod");
 
+
+
+ /** Crafting recipes */
 
 
 

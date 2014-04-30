@@ -59,7 +59,7 @@ import java.util.Scanner;
 
 
 
-@Mod(modid = "Iron Man Mod", name = "Iron Man Mod", version = "1.6.4_2 beta")
+@Mod(modid = "Iron Man Mod", name = "Iron Man Mod", version = "1.7.2_1 beta")
 @NetworkMod(serverSideRequired=false, clientSideRequired=true)
 public class IronManMod {
 		
